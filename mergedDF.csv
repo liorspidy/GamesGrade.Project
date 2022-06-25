@@ -1,0 +1,1265 @@
+,GameTitles,ReleaseYear,Price,Developer,Publisher,Genre,Franchise,Storage(GB),SinglePlayer,onlineCo-op,lanCo-op,onlinePVP,FullControllerSupport,partialControllerSupport,inAppPurchases,MMO,sharedSplitScreenPVP,SteamPositivePrecent,SteamUserReviews,Metascore,metaUsersScore
+1,APEX LEGENDS,2020,0.0,Respawn Entertainment,Electronic Arts,Action,Apex Legends,56.0,0,1,0,1,1,0,1,0,0,86,470815,88,6.1
+2,TINY TINA'S WONDERLANDS,2022,239.0,Gearbox Software,2K,Action,Tiny Tina's Wonderlands,75.0,1,1,1,0,1,0,0,0,0,75,300,79,5.5
+3,MONSTER HUNTER RISE,2022,239.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action,Monster Hunter,36.0,1,1,0,0,1,0,0,0,0,87,22016,87,6.3
+4,NARAKA: BLADEPOINT,2021,109.95,24 Entertainment,NetEase Games Montréal,Action,,20.0,0,0,0,1,0,1,1,0,0,79,95057,71,6.6
+5,RUST,2018,149.95,Facepunch Studios,Facepunch Studios,Action,,25.0,0,1,0,1,0,0,1,1,0,87,643426,69,6.4
+6,RED DEAD REDEMPTION 2,2019,230.0,Rockstar Games,Rockstar Games,Action,Red Dead Redemption,150.0,1,1,0,1,0,1,1,0,0,88,247721,93,6.5
+7,THE SIMS 4,2020,129.0,Maxis,Electronic Arts,Casual,The Sims™,17.0,1,0,0,0,0,0,0,0,0,87,49870,70,4.1
+8,FINAL FANTASY VII REMAKE INTERGRADE,2022,319.0,Square Enix,Square Enix,Action,FINAL FANTASY,100.0,1,0,0,0,1,0,0,0,0,91,2728,86,7.6
+9,IT TAKES TWO,2021,169.0,Hazelight,Electronic Arts,Action,EA Originals,50.0,0,1,0,0,1,0,0,0,0,96,77892,89,8.8
+10,WAR THUNDER,2013,0.0,Gaijin Entertainment,Gaijin Distribution KFT,Action,,17.0,1,1,0,1,1,0,1,1,0,78,307571,81,5.7
+11,CYBERPUNK 2077,2020,269.0,CD PROJEKT RED,CD PROJEKT RED,RPG,,70.0,1,0,0,0,0,1,0,0,0,76,428364,86,7.0
+12,DESTINY 2,2019,0.0,Bungie,Bungie ,Action,Destiny,105.0,1,1,0,1,1,0,1,0,0,84,474521,83,4.3
+13,GOD OF WAR,2022,199.0,Santa Monica Studio,PlayStation PC LLC,Action,PlayStation Studios,70.0,1,0,0,0,1,0,0,0,0,97,34767,93,8.6
+14,CALL OF DUTY: BLACK OPS III,2015,210.61,"Treyarch, Aspyr (Mac)","Activision, Aspyr (Mac)",Action,"Call of Duty, Black Ops",100.0,1,0,0,0,1,0,0,0,0,84,71850,73,3.4
+15,TOM CLANCY'S RAINBOW SIX SIEGE,2015,79.0,Ubisoft Montreal,Ubisoft,Action,,61.0,1,1,0,1,0,1,1,0,0,87,892778,79,7.0
+16,THE FOREST,2018,73.95,Endnight Games Ltd,Endnight Games Ltd,Action,,5.0,1,1,1,0,0,1,0,0,0,95,316269,83,7.4
+17,DYING LIGHT 2 STAY HUMAN,2022,249.0,Techland,Techland,Action,Dying Light,60.0,1,1,0,0,1,0,0,0,0,78,74263,77,4.2
+18,SEA OF THIEVES,2020,179.0,Rare Ltd,Xbox Game Studios,Action,,50.0,0,1,0,1,0,1,1,0,0,90,193190,67,4.6
+19,DEAD BY DAYLIGHT,2016,73.95,Behaviour Interactive Inc.,Behaviour Interactive Inc.,Action,,50.0,0,1,0,1,1,0,0,0,0,81,430158,71,5.7
+20,TALES OF ARISE,2021,249.0,Bandai Namco Studios Inc.,Bandai Namco Entertainment,Action,"BANDAI NAMCO Entertainment, FRANCHISE",45.0,1,0,0,0,1,0,0,0,0,90,17067,84,8.4
+21,FORZA HORIZON 5,2021,249.0,Playground Games,Xbox Game Studios,Action,,110.0,1,1,0,1,1,0,0,0,0,87,71354,91,6.7
+22,FORZA HORIZON 4,2021,289.0,Playground Games,Xbox Game Studios,Racing,,80.0,1,1,0,1,1,0,0,0,0,89,121789,88,7.7
+23,GRAND THEFT AUTO V,2015,0.0,Rockstar North,Rockstar Games,Action,Grand Theft Auto,72.0,1,1,0,1,1,0,0,0,0,85,1228386,96,7.8
+24,STELLARIS,2016,154.95,Paradox Development Studio,Paradox Interactive,Simulation,Stellaris,10.0,1,0,0,0,0,0,0,0,0,87,93198,78,8.0
+25,THE ELDER SCROLLS ONLINE,2017,85.0,ZeniMax Online Studios,Bethesda Softworks,Action,The Elder Scrolls,85.0,0,1,0,1,0,1,1,1,0,83,99349,80,5.7
+26,STARDEW VALLEY,2016,55.95,ConcernedApe,ConcernedApe,Indie,,0.5,1,1,1,0,1,0,0,0,0,98,397505,89,8.8
+27,FIFA 22,2021,249.0,EA Canada & EA Romania,Electronic Arts,Simulation,EA Sports,50.0,1,1,0,1,0,1,1,1,1,80,66246,73,1.5
+28,DOTA 2,2013,0.0,Valve,Valve,Action,Dota,15.0,0,0,0,0,0,0,1,0,0,83,1762258,90,6.5
+29,ELDEN RING,2022,249.0,FromSoftware Inc.,"FromSoftware Inc., Bandai Namco Entertainment",Action,,60.0,1,1,0,1,1,0,0,0,0,90,382916,94,6.9
+30,CHIVALRY 2,2022,149.95,Torn Banner Studios,Tripwire Presents,Action,,35.0,0,0,0,1,0,1,1,0,0,83,6634,82,5.0
+31,HADES,2020,92.95,Supergiant Games,Supergiant Games,Action,Supergiant Games,15.0,1,0,0,0,1,0,0,0,0,98,174931,93,8.8
+32,CITIES: SKYLINES,2015,115.95,Colossal Order Ltd.,Paradox Interactive,Simulation,Cities: Skylines,4.0,1,0,0,0,0,1,0,0,0,93,146592,85,8.8
+33,GHOSTWIRE: TOKYO,2022,239.0,Tango Gameworks,Bethesda Softworks,Action,Ghostwire,20.0,1,0,0,0,1,0,0,0,0,80,4404,77,9.1
+34,NO MAN'S SKY,2016,224.95,Hello Games,Hello Games,Action,,10.0,1,1,0,1,1,0,0,0,0,73,183523,61,3.7
+35,PLANET ZOO,2019,169.95,Frontier Developments,Frontier Developments,Casual,,16.0,1,0,0,0,0,0,0,0,0,90,48835,81,8.0
+36,LEGO STAR WARS: THE SKYWALKER SAGA,2022,199.0,TT Games,"Warner Bros. Games, Warner Bros. Interactive Entertainment",Action,,40.0,1,0,0,0,1,0,0,0,0,92,21850,78,7.5
+37,RISK OF RAIN 2,2020,92.95,Hopoo Games,Gearbox Publishing,Action,,4.0,1,1,0,1,1,0,0,0,0,96,136029,85,8.3
+38,THE ELDER SCROLLS V: SKYRIM SPECIAL EDITION,2016,154.99,Bethesda Game Studios,Bethesda Softworks,RPG,"The Elder Scrolls, Skyrim",12.0,1,0,0,0,0,1,0,0,0,94,103689,74,6.6
+39,PATHFINDER: WRATH OF THE RIGHTEOUS,2021,199.0,Owlcat Games,"META Publishing, Owlcat Games",Adventure,"Owlcat Games, META Publishing",50.0,1,0,0,0,0,0,0,0,0,84,15420,83,7.7
+40,HITMAN 3,2022,249.0,IO Interactive A/S,IO Interactive A/S,Action,HITMAN,60.0,1,0,0,0,1,0,0,0,0,68,3377,87,7.4
+41,DEVIL MAY CRY 5,2019,109.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action,Devil May Cry,35.0,1,1,0,0,1,0,0,0,0,95,47856,89,8.6
+42,TEENAGE MUTANT NINJA TURTLES: SHREDDER'S REVENGE,2022,92.95,Tribute Games Inc.,"Dotemu, Gamera Games",Action,"Dotemu, Tribute Games Inc.",1.0,1,1,0,0,1,0,0,0,0,92,4503,85,8.9
+43,TITANFALL 2,2020,159.0,Respawn Entertainment,Electronic Arts,Action,Titanfall,45.0,1,0,0,1,1,0,0,0,0,94,96721,86,8.5
+44,DEEP ROCK GALACTIC,2020,110.95,Ghost Ship Games,Coffee Stain Publishing,Action,Coffee Stain Publishing,3.0,1,1,0,0,1,0,0,0,0,97,110352,85,8.2
+45,AGE OF EMPIRES IV,2021,229.0,"Relic Entertainment, World's Edge",Xbox Game Studios,Strategy,Age of Empires,50.0,1,1,0,1,0,0,0,0,0,86,26308,81,7.7
+46,YAKUZA: LIKE A DRAGON,2020,249.95,Ryu Ga Gotoku Studio,SEGA,Action,Yakuza,40.0,1,0,0,0,1,0,0,0,0,96,12324,83,7.9
+47,THE WITCHER 3: WILD HUNT,2015,139.95,CD PROJEKT RED,CD PROJEKT RED,RPG,,35.0,1,0,0,0,1,0,0,0,0,97,555126,93,9.1
+48,ARK: SURVIVAL EVOLVED,2017,110.95,"Studio Wildcard, Instinct Games, Efecto Studios, Virtual Basement LLC",Studio Wildcard,Action,,60.0,1,0,0,0,1,0,0,1,0,82,428942,70,6.5
+49,METRO EXODUS,2020,104.0,4A Games,Deep Silver ,Action,Metro,59.0,1,0,0,0,1,0,0,0,0,88,64561,85,7.3
+50,FINAL FANTASY XIV ONLINE,2014,41.0,Square Enix,Square Enix,Massively Multiplayer,FINAL FANTASY,80.0,1,1,0,1,0,1,0,1,0,88,52642,83,3.9
+51,AGE OF EMPIRES II: DEFINITIVE EDITION,2019,75.0,"Forgotten Empires, Tantalus Media, Wicked Witch",Xbox Game Studios,Strategy,Age of Empires,30.0,1,1,1,1,0,0,0,0,0,94,92278,84,8.8
+52,FOOTBALL MANAGER 2022,2021,189.0,Sports Interactive,SEGA,Simulation,Football Manager,7.0,1,0,0,0,0,0,0,0,0,92,9909,85,6.9
+53,DOOM ETERNAL,2020,159.0,id Software,Bethesda Softworks,Action,DOOM,80.0,1,0,0,1,0,1,0,0,0,91,135281,88,8.8
+54,HEARTS OF IRON IV,2016,154.95,Paradox Development Studio,Paradox Interactive,Simulation,Hearts of Iron,2.0,1,0,0,0,0,0,0,0,0,92,135042,83,7.6
+55,THE BINDING OF ISAAC: REBIRTH,2014,55.95,"Nicalis, Inc., Edmund McMillen","Nicalis, Inc.",Action,Binding of Isaac,0.449,1,0,0,0,1,0,0,0,0,97,179274,86,8.4
+56,JURASSIC WORLD EVOLUTION 2,2021,224.95,Frontier Developments,Frontier Developments,Simulation,,14.0,1,0,0,0,1,0,0,0,0,82,10098,77,6.0
+57,FALLOUT 4,2015,79.0,Bethesda Game Studios,Bethesda Softworks,RPG,Fallout,30.0,1,0,0,0,1,0,0,0,0,81,176750,84,5.6
+58,MONSTER HUNTER: WORLD,2018,126.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action,Monster Hunter,48.0,1,0,0,0,0,1,0,0,0,87,214344,88,6.8
+59,STAR WARS JEDI: FALLEN ORDER,2019,169.0,Respawn Entertainment,Electronic Arts,Action,Star Wars,55.0,1,0,0,0,1,0,0,0,0,90,79473,81,7.9
+60,ASSASSIN'S CREED ODYSSEY,2018,239.0,"Ubisoft Quebec, Ubisoft Montreal, Ubisoft Bucharest, Ubisoft Singapore, Ubisoft Montpellier, Ubisoft Kiev, Ubisoft Shanghai",Ubisoft,Action,Assassin's Creed,46.0,1,0,0,0,0,1,1,0,0,89,108637,86,6.3
+61,DETROIT: BECOME HUMAN,2020,149.95,Quantic Dream,Quantic Dream,Action,,55.0,1,0,0,0,1,0,0,0,0,92,45118,80,7.8
+62,RIMWORLD,2018,131.95,Ludeon Studios,Ludeon Studios,Indie,,1.0,1,0,0,0,0,0,0,0,0,98,111399,87,8.9
+63,DAYS GONE,2021,199.0,Bend Studio,PlayStation PC LLC,Action,PlayStation Studios,70.0,1,0,0,0,1,0,0,0,0,92,24514,76,8.8
+64,DEAD CELLS,2018,89.99,Motion Twin,Motion Twin,Action,Dead Cells,0.5,1,0,0,0,1,0,0,0,0,97,92512,89,8.1
+65,WARFRAME,2013,0.0,Digital Extremes,Digital Extremes,Action,,35.0,1,1,0,0,1,0,1,0,0,90,480591,69,8.2
+66,THE STANLEY PARABLE: ULTRA DELUXE,2022,92.95,Crows Crows Crows,Crows Crows Crows,Adventure,The Stanley Parable,5.0,1,0,0,0,1,0,0,0,0,94,12469,90,8.3
+67,CUPHEAD,2017,73.95,Studio MDHR Entertainment Inc.,Studio MDHR Entertainment Inc.,Action,,4.0,1,0,0,0,1,0,0,0,0,96,89513,88,8.3
+68,ACE COMBAT 7: SKIES UNKNOWN,2019,219.0,Bandai Namco Studios Inc.,Bandai Namco Entertainment,Action,Bandai Namco Entertainment,50.0,1,0,0,1,1,0,0,0,0,86,20259,78,7.0
+69,TOTAL WAR: WARHAMMER II,2017,249.95,"CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)","SEGA, Feral Interactive (Mac), Feral Interactive (Linux)",Action,"Total War, Warhammer",60.0,1,1,1,1,0,0,0,0,0,93,77372,87,7.9
+70,SLAY THE SPIRE,2019,92.95,Mega Crit Games,Mega Crit Games,Indie,,1.0,1,0,0,0,1,0,0,0,0,97,95446,89,7.6
+71,WORLD OF WARSHIPS,2017,0.0,Wargaming Group Limited,Wargaming Group Limited,Action,,61.0,0,1,0,1,0,0,1,1,0,80,102880,81,5.9
+72,HOLLOW KNIGHT,2017,55.95,Team Cherry,Team Cherry,Action,Hollow Knight,9.0,1,0,0,0,1,0,0,0,0,97,205386,87,9.1
+73,CRUSADER KINGS III,2020,192.95,Paradox Development Studio,Paradox Interactive,RPG,Crusader Kings,8.0,1,0,0,1,0,0,0,0,0,93,50292,91,8.3
+74,THE OUTER WORLDS,2020,240.0,Obsidian Entertainment,Private Division,RPG,The Outer Worlds,40.0,1,0,0,0,1,0,0,0,0,85,16816,82,7.3
+75,BORDERLANDS 3,2020,240.0,Gearbox Software,2K,Action,Borderlands,75.0,1,1,1,0,1,0,0,0,0,84,79507,81,5.4
+76,SUBNAUTICA,2018,110.95,Unknown Worlds Entertainment,Unknown Worlds Entertainment,Adventure,,20.0,1,0,0,0,1,0,0,0,0,96,178763,87,8.6
+77,GRIM DAWN,2016,92.95,Crate Entertainment,Crate Entertainment,Action,,5.0,1,1,1,0,1,0,0,0,0,93,62613,83,8.4
+78,DON'T STARVE TOGETHER,2016,55.95,Klei Entertainment,Klei Entertainment,Adventure,Klei Entertainment,3.0,1,1,1,1,1,0,1,0,0,96,222515,83,8.1
+79,ENDER LILIES: QUIETUS OF THE KNIGHTS,2021,80.95,"Live Wire, Adglobe",Binary Haze Interactive,Action,,2.0,1,0,0,0,1,0,0,0,0,95,15853,86,8.5
+80,MASS EFFECT LEGENDARY EDITION,2021,249.0,BioWare,Electronic Arts,Action,Mass Effect,120.0,1,0,0,0,1,0,0,0,0,93,26353,86,5.9
+81,TOTAL WAR: THREE KINGDOMS,2019,249.95,"CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)","SEGA, Feral Interactive (Mac), Feral Interactive (Linux)",Action,Total War,60.0,1,1,1,1,0,0,0,0,0,82,50133,85,7.6
+82,MAFIA: DEFINITIVE EDITION,2020,168.0,Hangar 13,2K,Action,Mafia,50.0,1,0,0,0,1,0,0,0,0,86,31289,78,6.8
+83,NIER REPLICANT VER.1.22474487139...,2021,209.0,"Square Enix, Toylogic Inc.",Square Enix,Action,,26.0,1,0,0,0,0,1,0,0,0,88,13395,80,7.7
+84,INSCRYPTION,2021,75.95,Daniel Mullins Games,Devolver Digital,Adventure,Devolver Digital,3.0,1,0,0,0,0,0,0,0,0,97,65956,85,8.7
+85,BATMAN: ARKHAM KNIGHT,2015,73.95,Rocksteady Studios,Warner Bros. Interactive Entertainment,Action,Batman: Arkham,45.0,1,0,0,0,1,0,0,0,0,88,53239,70,3.9
+86,NEON WHITE,2022,92.95,Angel Matrix,Annapurna Interactive,Action,Annapurna Interactive,6.0,1,0,0,0,1,0,0,0,0,98,2085,89,9.1
+87,PAYDAY 2,2013,36.95,OVERKILL - a Starbreeze Studio.,Starbreeze Publishing AB,Action,,83.0,1,1,0,0,1,0,1,0,0,89,370189,79,3.9
+88,FALLOUT 76,2020,172.0,Bethesda Game Studios,Bethesda Softworks,RPG,Fallout,80.0,0,1,0,1,0,1,1,1,0,76,35956,52,2.8
+89,THE QUARRY,2022,239.0,Supermassive Games,2K Games,Adventure,,50.0,1,0,0,0,1,0,0,0,0,76,1854,80,5.5
+90,BATTLEFIELD V,2020,209.0,DICE,Electronic Arts,Action,Battlefield,50.0,1,0,0,1,1,0,0,0,0,71,93774,81,3.0
+91,LEFT 4 DEAD 2,2009,36.95,Valve,Valve,Action,,13.0,1,1,0,1,1,0,0,0,0,97,445312,89,8.4
+92,HUNT: SHOWDOWN,2019,149.0,Crytek,Crytek,Action,,36.0,0,1,0,1,1,0,1,0,0,83,101945,81,7.3
+93,OMORI,2020,73.95,"OMOCAT, LLC","OMOCAT, LLC",Adventure,,2.0,1,0,0,0,1,0,0,0,0,98,36189,87,9.2
+94,DEATHLOOP,2021,239.0,Arkane Studios,Bethesda Softworks,Action,DEATHLOOP,30.0,1,0,0,1,1,0,0,0,0,77,14520,87,5.2
+95,MARVEL'S GUARDIANS OF THE GALAXY,2021,209.0,Eidos-Montréal,Square Enix,Action,,80.0,1,0,0,0,1,0,0,0,0,94,16714,78,8.6
+96,METAL GEAR RISING: REVENGEANCE,2014,105.0,PlatinumGames,Konami Digital Entertainment,Action,,25.0,1,0,0,0,1,0,0,0,0,95,32695,83,8.2
+97,OUTER WILDS,2020,92.95,Mobius Digital,Annapurna Interactive,Action,Annapurna Interactive,8.0,1,0,0,0,1,0,0,0,0,95,33629,85,8.4
+98,AGE OF EMPIRES III: DEFINITIVE EDITION,2020,89.99,"Tantalus Media, Forgotten Empires",Xbox Game Studios,Strategy,Age of Empires,42.0,1,0,0,1,0,0,0,0,0,79,23475,75,5.8
+99,GTFO,2021,149.95,10 Chambers,10 Chambers,Action,,15.0,0,1,0,0,0,1,0,0,0,87,28252,78,7.3
+100,THEHUNTER: CALL OF THE WILD,2017,73.95,Expansive Worlds,Expansive Worlds,Adventure,,60.0,1,1,0,0,1,0,1,0,0,87,91513,64,6.8
+101,PERSONA 5 STRIKERS,2021,239.0,ATLUS,SEGA,Action,Persona,25.0,1,0,0,0,1,0,0,0,0,93,7666,76,6.5
+102,TUNIC,2022,110.95,TUNIC Team,Finji,Action,,2.0,1,0,0,0,1,0,0,0,0,92,3602,85,7.6
+103,HOUSE FLIPPER,2018,92.95,Empyrean,"Frozen District, PlayWay S.A.",Indie,House Flipper,6.0,1,0,0,0,1,0,0,0,0,93,54750,68,7.6
+104,KING ARTHUR: KNIGHT'S TALE,2022,169.95,NeocoreGames,NeocoreGames,RPG,,39.0,1,0,0,1,1,0,0,0,0,82,2592,77,8.0
+105,SUBNAUTICA: BELOW ZERO,2021,110.95,Unknown Worlds Entertainment,Unknown Worlds Entertainment,Adventure,,15.0,1,0,0,0,1,0,0,0,0,91,61274,82,6.3
+106,TEAM FORTRESS 2,2007,0.0,Valve,Valve,Action,,15.0,0,0,0,0,0,1,1,0,0,93,873227,92,9.0
+107,AMERICAN TRUCK SIMULATOR,2016,69.95,SCS Software,SCS Software,Indie,SCS Software,7.0,1,1,0,0,0,1,0,0,0,96,79796,76,7.2
+108,HELL LET LOOSE,2021,149.95,Black Matter Pty Ltd,Team17,Action,Team17,30.0,0,0,0,1,0,1,0,0,0,87,48817,79,7.0
+109,CONAN EXILES,2018,159.95,Funcom,Funcom,Action,Funcom,115.0,1,1,0,1,1,0,0,0,0,78,54095,68,6.5
+110,TEARDOWN,2022,73.95,Tuxedo Labs,Tuxedo Labs,Action,,4.0,1,0,0,0,1,0,0,0,0,96,41552,80,8.2
+111,SMITE,2015,0.0,Titan Forge Games,Hi-Rez Studios,Action,,30.0,0,0,0,0,1,0,0,0,0,80,100338,83,8.0
+112,OLD WORLD,2022,149.95,Mohawk Games,Hooded Horse,Simulation,Hooded Horse,10.0,1,1,0,1,0,0,0,0,1,80,810,80,7.4
+113,ORI AND THE WILL OF THE WISPS,2020,125.0,Moon Studios GmbH,Xbox Game Studios,Action,Ori,20.0,1,0,0,0,1,0,0,0,0,96,80253,88,8.7
+114,ASSETTO CORSA,2014,73.95,Kunos Simulazioni,Kunos Simulazioni,Indie,Assetto Corsa,15.0,1,0,0,1,0,1,0,0,0,91,52999,85,8.4
+115,TWO POINT HOSPITAL,2018,149.95,Two Point Studios,SEGA,Indie,,6.0,1,0,0,0,0,0,0,0,0,92,20769,83,7.6
+116,ASSETTO CORSA COMPETIZIONE,2019,149.0,Kunos Simulazioni,505 Games,Racing,Assetto Corsa,50.0,1,0,0,1,0,1,0,0,0,91,14272,77,7.2
+117,HUMAN: FALL FLAT,2016,73.95,No Brakes Games,Curve Games,Adventure,Curve Games,0.5,1,0,0,1,1,0,0,0,0,94,126047,70,7.5
+118,FAR CRY 5,2018,239.0,"Ubisoft Montreal, Red Storm, Ubisoft Shanghai, Ubisoft Toronto, Ubisoft Kiev",Ubisoft,Action,Far Cry,40.0,1,1,0,0,0,1,1,0,0,79,113371,78,6.3
+119,DRAGON BALL FIGHTERZ,2018,213.0,Arc System Works,BANDAI NAMCO Entertainment,Action,FRANCHISE,6.0,1,0,0,1,1,0,0,0,1,90,36784,85,7.5
+120,X4: FOUNDATIONS,2018,199.99,Egosoft,Egosoft,Action,X,15.0,1,0,0,0,1,0,0,0,0,75,11482,59,6.2
+121,DRAGON BALL Z: KAKAROT,2020,249.0,CyberConnect2 Co. Ltd.,BANDAI NAMCO Entertainment,Action,"FRANCHISE, BANDAI NAMCO Entertainment",36.0,1,0,0,1,1,0,1,0,0,92,24451,73,7.6
+122,PERSONA 4 GOLDEN,2020,63.0,ATLUS,SEGA,RPG,,14.0,1,0,0,0,1,0,0,0,0,97,48696,87,8.9
+123,NOITA,2020,73.95,Nolla Games,Nolla Games,Action,,1.6,1,0,0,0,0,1,0,0,0,95,40850,76,8.1
+124,TEKKEN 7,2017,150.0,BANDAI NAMCO Studios Inc.,BANDAI NAMCO Entertainment,Action,FRANCHISE,60.0,1,0,0,1,1,0,0,0,1,81,47204,82,6.8
+125,UNPACKING,2021,73.95,Witch Beam,Humble Games,Casual,Humble Games,1.0,1,0,0,0,1,0,0,0,0,92,11315,84,7.8
+126,ROGUE LEGACY 2,2022,92.95,Cellar Door Games,Cellar Door Games,Action,Rogue Legacy,3.0,1,0,0,0,1,0,0,0,0,89,8504,88,8.0
+127,ASSASSIN'S CREED ORIGINS,2017,239.0,Ubisoft Montreal,Ubisoft,Action,Assassin's Creed,42.0,1,0,0,0,0,1,1,0,0,86,71310,84,6.9
+128,CODE VEIN,2019,199.0,BANDAI NAMCO Studios,BANDAI NAMCO Entertainment,Action,"FRANCHISE, BANDAI NAMCO Entertainment",35.0,1,1,0,0,0,1,0,0,0,86,30204,72,7.6
+129,SNOWRUNNER,2021,119.0,Saber Interactive,Focus Entertainment,Adventure,Focus Entertainment,20.0,1,1,0,0,1,0,0,0,0,87,9800,82,6.6
+130,TROPICO 6,2019,149.95,Limbic Entertainment,Kalypso Media,Simulation,Tropico,16.0,1,0,0,1,1,0,0,0,0,87,14000,78,6.5
+131,INSURGENCY: SANDSTORM,2018,119.0,New World Interactive,Focus Entertainment,Action,Insurgency,40.0,0,1,0,1,0,1,0,0,0,86,73489,78,8.1
+132,SHADOW OF THE TOMB RAIDER: DEFINITIVE EDITION,2018,0.0,"Eidos-Montréal, Crystal Dynamics, Nixxes, Feral Interactive (Mac), Feral interactive (Linux)","Square Enix, Feral Interactive (Mac), Feral interactive (Linux)",Action,Tomb Raider,40.0,1,0,0,0,1,0,0,0,0,85,47322,77,6.4
+133,BATTLEFIELD 1,2020,169.0,DICE,Electronic Arts,Action,Battlefield,50.0,1,0,0,1,1,0,0,0,0,85,61531,88,7.2
+134,STAR WARS: THE OLD REPUBLIC,2020,0.0,BioWare,Electronic Arts,Massively Multiplayer,Star Wars,50.0,0,0,0,0,0,0,1,1,0,90,43137,85,6.0
+135,OXYGEN NOT INCLUDED,2019,92.95,Klei Entertainment,Klei Entertainment,Indie,Klei Entertainment,2.0,1,0,0,0,0,0,0,0,0,96,79274,86,8.3
+136,RESIDENT EVIL 3,2019,159.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action,Resident Evil,45.0,1,0,0,1,1,0,0,0,0,78,36649,77,5.8
+137,WARHAMMER: VERMINTIDE 2,2018,110.95,Fatshark,Fatshark,Action,"Warhammer, Fatshark",85.0,1,1,0,0,0,1,0,0,0,83,64890,82,7.4
+138,WORLD WAR Z: AFTERMATH,2021,149.95,Saber Interactive Inc,Saber Interactive Inc,Action,World War Z,50.0,1,1,0,1,1,0,0,0,0,84,5933,81,6.6
+139,PATH OF EXILE,2013,0.0,Grinding Gear Games,Grinding Gear Games,Action,,40.0,1,0,0,1,1,0,1,1,0,90,183002,86,7.9
+140,ALIENS: FIRETEAM ELITE,2021,149.0,Cold Iron Studios,"Cold Iron Studios, Focus Entertainment",Action,Aliens: Fireteam Elite,30.0,1,1,0,0,1,0,0,0,0,81,11766,69,5.6
+141,SOLASTA: CROWN OF THE MAGISTER,2021,149.0,Tactical Adventures,Tactical Adventures,Adventure,Solasta,30.0,1,1,0,0,0,0,0,0,0,89,10673,77,7.3
+142,TOTAL WAR: WARHAMMER,2016,249.95,"CREATIVE ASSEMBLY, Feral Interactive (Linux), Feral Interactive (Mac)","SEGA, Feral Interactive (Linux), Feral Interactive (Mac)",Action,"Total War, Warhammer",35.0,1,1,1,1,0,0,0,0,0,78,29535,86,7.4
+143,GLOOMHAVEN,2021,131.95,Flaming Fowl Studios,Asmodee Digital,Adventure,Asmodee Digital,14.0,1,1,0,0,0,0,0,0,0,87,8952,82,7.1
+144,FARMING SIMULATOR 22,2021,169.0,Giants Software,Giants Software,Simulation,Farming Simulator,35.0,1,1,0,0,1,0,0,0,0,88,22134,78,5.6
+145,BLACK MESA,2020,73.95,Crowbar Collective,Crowbar Collective,Action,,20.0,1,0,0,1,0,1,0,0,0,95,75804,84,8.9
+146,ASTRONEER,2019,110.95,System Era Softworks,System Era Softworks,Adventure,,2.0,1,1,0,0,1,0,0,0,0,91,79442,71,7.2
+147,SNIPER ELITE 5,2022,189.95,Rebellion,Rebellion,Action,Sniper Elite,85.0,1,1,0,1,1,0,1,0,0,72,3588,80,6.0
+148,DARKEST DUNGEON,2016,92.95,Red Hook Studios,Red Hook Studios,Indie,,2.0,1,0,0,0,0,1,0,0,0,91,97668,84,7.9
+149,FRIDAY THE 13TH: THE GAME,2017,55.95,IllFonic,Gun Media,Action,,4.0,0,0,0,0,1,0,0,0,0,79,55975,61,6.2
+150,NEED FOR SPEED HEAT,2020,289.0,Ghost Games,Electronic Arts,Action,Need for Speed,50.0,1,1,0,1,1,0,0,0,0,85,34848,72,5.5
+151,YAKUZA KIWAMI 2,2019,124.95,SEGA,SEGA,Action,Yakuza,42.0,1,0,0,0,1,0,0,0,0,95,7493,82,8.4
+152,OCTOPATH TRAVELER,2019,217.5,"Square Enix, ACQUIRE Corp.",Square Enix,RPG,,5.0,1,0,0,0,1,0,0,0,0,86,8300,80,6.5
+153,FOR HONOR,2017,59.0,"Ubisoft Montreal, Ubisoft Quebec, Ubisoft Toronto, Blue Byte",Ubisoft,Action,,90.0,1,1,0,1,0,1,1,0,0,67,69604,76,5.2
+154,FROSTPUNK,2018,110.95,11 bit studios,11 bit studios,Simulation,11 bit studios,8.0,1,0,0,0,0,0,0,0,0,91,65735,84,8.4
+155,NORTHGARD,2018,110.95,Shiro Games,Shiro Unlimited,Indie,Shiro Games,1.0,1,1,0,1,0,0,0,0,0,88,35117,81,7.8
+156,BONEWORKS,2019,110.95,Stress Level Zero,Stress Level Zero,Action,,20.0,1,0,0,0,0,0,0,0,0,92,27659,72,8.3
+157,CELESTE,2018,73.95,"Extremely OK Games, Ltd.",Matt Makes Games Inc.,Action,,1.2,1,0,0,0,1,0,0,0,0,97,49028,88,8.4
+158,MECHWARRIOR 5: MERCENARIES,2021,110.95,Piranha Games Inc.,Fireshine Games,Action,MechWarrior,55.0,1,1,0,0,0,1,0,0,0,84,4590,73,5.3
+159,GHOSTRUNNER,2020,126.0,"One More Level, 3D Realms, Slipgate Ironworks™, All in! Games",505 Games,Action,505 Games Official,22.0,1,0,0,0,0,1,0,0,0,92,31140,81,8.2
+160,A WAY OUT,2020,159.0,Hazelight,Electronic Arts,Action,EA Originals,25.0,0,1,0,0,1,0,0,0,0,87,20932,78,7.7
+161,RESIDENT EVIL 2,2019,192.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action,Resident Evil,26.0,1,0,0,0,1,0,0,0,0,97,71181,89,9.0
+162,A PLAGUE TALE: INNOCENCE,2019,149.0,Asobo Studio,Focus Entertainment,Action,Focus Entertainment,50.0,1,0,0,0,1,0,0,0,0,93,38001,81,8.5
+163,HALO INFINITE,2021,0.0,343 Industries,Xbox Game Studios,Action,Halo,50.0,0,0,0,1,1,0,1,0,0,74,142185,80,6.6
+164,DEATH'S DOOR,2021,75.95,Acid Nerve,Devolver Digital,Action,Devolver Digital,5.0,1,0,0,0,1,0,0,0,0,94,9512,85,7.9
+165,SLIME RANCHER,2017,73.95,Monomi Park,Monomi Park,Action,Slime Rancher,1.0,1,0,0,0,1,0,0,0,0,97,79894,81,8.0
+166,NARUTO TO BORUTO: SHINOBI STRIKER,2018,177.0,Soleil Ltd.,BANDAI NAMCO Entertainment,Action,FRANCHISE,40.0,1,1,0,1,0,1,0,0,0,86,34287,66,7.1
+167,PORTAL 2,2011,36.95,Valve,Valve,Action,,8.0,1,1,0,0,1,0,0,0,0,98,239682,95,9.1
+168,NEW WORLD,2021,149.95,Amazon Games,Amazon Games,Action,,50.0,0,1,0,1,0,0,1,1,0,67,195569,70,5.6
+169,METAL GEAR SOLID V: THE PHANTOM PAIN,2015,70.0,Konami Digital Entertainment,Konami Digital Entertainment,Action,,28.0,1,0,0,0,1,0,0,0,0,90,49480,91,7.9
+170,ELEX II,2022,189.95,Piranha Bytes,THQ Nordic,Action,ELEX,45.0,1,0,0,0,0,1,0,0,0,76,1910,65,7.2
+171,PLANET COASTER,2016,169.95,"Frontier Developments, Aspyr (Mac)","Frontier Developments, Aspyr (Mac)",Action,Planet Coaster,8.0,1,0,0,0,0,0,0,0,0,90,44612,84,7.7
+172,WASTELAND 3,2020,149.95,inXile Entertainment,inXile Entertainment,RPG,Wasteland,45.0,1,1,0,0,0,0,0,0,0,83,11603,85,7.6
+173,CAR MECHANIC SIMULATOR 2021,2021,92.95,Red Dot Games,PlayWay S.A.,Racing,"PlayWay S.A., Red Dot Games, Car Mechanic Simulator",35.0,1,0,0,0,0,1,0,0,0,95,13219,70,7.8
+174,PHOENIX WRIGHT: ACE ATTORNEY TRILOGY,2019,144.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Adventure,,0.0018,1,0,0,0,0,1,0,0,0,97,12758,80,8.8
+175,DORFROMANTIK,2022,51.95,Toukana Interactive,Toukana Interactive,Casual,,0.65,1,0,0,0,0,0,0,0,0,97,14922,80,5.9
+176,THE ASCENT,2021,126.0,Neon Giant,Curve Games,Action,Curve Games,35.0,1,1,0,0,1,0,0,0,0,77,11949,74,7.7
+177,ATELIER SOPHIE 2: THE ALCHEMIST OF THE MYSTERIOUS DREAM,2022,224.95,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",RPG,"KOEI TECMO GAMES CO., LTD.",25.0,1,0,0,0,0,1,0,0,0,95,1139,83,9.2
+178,GREEN HELL,2019,92.95,Creepy Jar,Creepy Jar,Action,,8.0,1,1,0,0,1,0,0,0,0,87,34623,78,7.8
+179,PSYCHONAUTS 2,2021,249.0,Double Fine Productions,Xbox Game Studios,Action,Psychonauts,30.0,1,0,0,0,1,0,0,0,0,97,5798,89,7.2
+180,IRACING,2015,36.95,"iRacing.com Motorsport Simulations, iRacing","iRacing.com Motorsport Simulations, iRacing",Massively Multiplayer,,16.0,1,0,0,1,0,1,0,1,0,82,1261,79,6.7
+181,EARTH DEFENSE FORCE 5,2019,224.95,SANDLOT,D3PUBLISHER,Action,EARTH DEFENSE FORCE SERIES,30.0,1,1,0,1,1,0,0,0,0,94,5440,76,8.4
+182,LIFE IS STRANGE: TRUE COLORS,2021,209.0,Deck Nine,Square Enix,Action,Life is Strange,30.0,1,0,0,0,1,0,0,0,0,90,7721,81,6.7
+183,HITMAN 2,2018,0.0,IO Interactive A/S,IO Interactive A/S,Action,Hitman,60.0,1,1,0,0,1,0,0,0,0,92,28726,82,7.6
+184,THE ELDER SCROLLS V: SKYRIM VR,2018,254.99,Bethesda Game Studios,Bethesda Softworks,RPG,The Elder Scrolls,15.0,1,0,0,0,1,0,0,0,0,75,6134,81,6.5
+185,FACTORIO,2020,110.0,Wube Software LTD.,Wube Software LTD.,Casual,,3.0,1,1,1,0,0,0,0,0,0,98,107804,90,9.1
+186,DISHONORED 2,2016,119.0,Arkane Studios,Bethesda Softworks,Action,,60.0,1,0,0,0,1,0,0,0,0,88,29642,86,7.6
+187,WOLFENSTEIN II: THE NEW COLOSSUS,2017,144.0,Machine Games,Bethesda Softworks,Action,Wolfenstein,55.0,1,0,0,0,1,0,0,0,0,78,21857,86,6.8
+188,THE DARK PICTURES ANTHOLOGY: HOUSE OF ASHES,2021,129.0,Supermassive Games,BANDAI NAMCO Entertainment Europe,Adventure,"The Dark Pictures, BANDAI NAMCO Entertainment Europe",65.0,1,1,0,0,1,0,0,0,0,88,3488,73,7.7
+189,BEAT SABER,2019,110.95,Beat Games,Beat Games,Indie,,0.2,1,0,0,1,0,0,0,0,0,96,57740,93,8.5
+190,AMONG US,2018,18.5,Innersloth,Innersloth,Casual,Innersloth,0.25,0,1,1,1,1,0,0,0,0,92,550180,85,6.8
+191,SUPER ROBOT WARS 30,2021,199.0,"B.B.STUDIO CO.,LTD.",BANDAI NAMCO Entertainment,RPG,BANDAI NAMCO Entertainment,15.0,1,0,0,0,1,0,0,0,0,88,3714,79,6.8
+192,KINGDOM COME: DELIVERANCE,2018,110.95,Warhorse Studios,"Warhorse Studios, Prime Matter",Action,"Kingdom Come Franchise, Warhorse Studios, Prime Matter",70.0,1,0,0,0,1,0,0,0,0,81,70171,76,8.0
+193,STRANGE HORTICULTURE,2022,55.95,Bad Viking,Iceberg Interactive,Adventure,Iceberg Interactive,1.0,1,0,0,0,0,0,0,0,0,95,2622,83,6.1
+194,SCARLET NEXUS,2021,199.0,BANDAI NAMCO Studios Inc.,BANDAI NAMCO Entertainment,Action,BANDAI NAMCO Entertainment,50.0,1,0,0,0,0,1,0,0,0,85,7948,78,7.7
+195,THEY ARE BILLIONS,2019,110.95,Numantian Games,Numantian Games,Strategy,,4.0,1,0,0,0,0,0,0,0,0,85,34768,77,6.9
+196,DRAGON'S DOGMA: DARK ARISEN,2016,144.0,Capcom,Capcom,Action,,20.0,1,0,0,0,1,0,0,0,0,89,21208,81,8.1
+197,MORDHAU,2019,110.95,Triternion,Triternion,Action,,40.0,0,1,0,1,0,0,0,0,0,81,83023,81,7.8
+198,HUMANKIND,2021,195.0,AMPLITUDE Studios,SEGA,Strategy,AmplitudeStudios,25.0,1,0,0,1,0,0,0,0,0,67,15475,77,6.9
+199,WILDERMYTH,2021,92.95,Worldwalker Games LLC,"Worldwalker Games LLC, WhisperGames",Indie,,2.0,1,1,1,0,0,1,0,0,0,95,11557,87,7.6
+200,STREETS OF RAGE 4,2020,92.95,"Dotemu, Guard Crush, Lizardcube","Dotemu, Yooreka Studio (Greater China)",Action,Dotemu,8.0,1,1,0,1,1,0,0,0,1,92,12463,84,7.8
+201,RUINED KING: A LEAGUE OF LEGENDS STORY,2021,119.0,Airship Syndicate,Riot Forge,Indie,,15.0,1,0,0,0,1,0,0,0,0,89,7585,80,7.7
+202,HARDSPACE: SHIPBREAKER,2022,129.0,Blackbird Interactive,Focus Entertainment,Simulation,Focus Entertainment,4.0,1,0,0,0,1,0,0,0,0,89,11903,82,8.1
+203,DOOM,2016,85.0,id Software,Bethesda Softworks,Action,DOOM,55.0,1,0,0,0,0,1,0,0,0,95,108808,85,8.5
+204,STAR WARS BATTLEFRONT II,2020,169.0,DICE,Electronic Arts,Action,Star Wars,60.0,1,0,0,1,0,0,0,0,0,87,31344,65,1.8
+205,EXPEDITIONS: ROME,2022,169.95,Logic Artists,THQ Nordic,RPG,Expeditions,30.0,1,0,0,0,0,0,0,0,0,88,2281,80,7.5
+206,MEDIEVAL DYNASTY,2021,129.0,Render Cube,Toplitz Productions,Action,Dynasty,10.0,1,0,0,0,1,0,0,0,0,90,21673,73,6.8
+207,SOULCALIBUR VI,2018,219.0,"BANDAI NAMCO Studios Inc., Dimps Corporation",BANDAI NAMCO Entertainment,Action,FRANCHISE,20.0,1,0,0,1,0,1,0,0,1,82,6751,80,5.3
+208,THE KING OF FIGHTERS XV,2022,239.0,SNK CORPORATION,SNK CORPORATION,Action,THE KING OF FIGHTERS,65.0,1,0,0,1,1,0,0,0,1,81,3493,85,6.4
+209,RIDE 4,2020,189.95,Milestone S.r.l.,Milestone S.r.l.,Racing,,43.0,1,0,0,1,1,0,0,0,0,79,4185,76,5.9
+210,XCOM 2,2016,224.95,"Firaxis Games, Feral Interactive (Mac), Feral Interactive (Linux)","2K, Feral Interactive (Mac), Feral Interactive (Linux)",Strategy,XCOM,45.0,1,0,0,0,0,0,0,0,0,84,57004,88,7.3
+211,SNIPER GHOST WARRIOR CONTRACTS 2,2021,149.95,Underdog Studio,CI Games,Action,Sniper Ghost Warrior,20.0,1,0,0,0,0,1,0,0,0,85,4860,73,7.0
+212,DANGANRONPA V3: KILLING HARMONY,2017,149.95,"Spike Chunsoft Co., Ltd.","Spike Chunsoft Co., Ltd.",Adventure,Danganronpa,26.0,1,0,0,0,1,0,0,0,0,85,13865,80,7.3
+213,ANNO: MUTATIONEM,2022,92.95,ThinkingStars,Lightning Games,Action,,10.0,1,0,0,0,1,0,0,0,0,73,2557,71,7.4
+214,DEAD SPACE 3,2020,129.0,Visceral Games,Electronic Arts,Action,Dead Space,10.0,1,1,0,0,0,0,0,0,0,78,5902,78,6.2
+215,LITTLE NIGHTMARES,2017,71.0,Tarsier Studios,BANDAI NAMCO Entertainment,Adventure,Little Nightmares,10.0,1,0,0,0,1,0,0,0,0,94,30995,81,8.1
+216,CHERNOBYLITE,2021,119.0,The Farm 51,The Farm 51,Action,,40.0,1,0,0,0,1,0,0,0,0,83,7212,75,8.0
+217,ENDLESS SPACE 2,2017,149.95,AMPLITUDE Studios,SEGA,Strategy,AmplitudeStudios,8.0,1,0,0,1,0,0,0,0,0,84,14475,80,7.9
+218,BATTLE BROTHERS,2017,110.95,Overhype Studios,Overhype Studios,Indie,,1.5,1,0,0,0,0,0,0,0,0,88,15353,80,7.9
+219,THE GREAT ACE ATTORNEY CHRONICLES,2021,150.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Adventure,,7.0,1,0,0,0,1,0,0,0,0,95,2193,83,6.8
+220,RETURN OF THE OBRA DINN,2018,73.95,Lucas Pope,3909,Adventure,,2.0,1,0,0,0,1,0,0,0,0,96,15237,89,8.5
+221,CHILDREN OF MORTA,2019,92.95,Dead Mage,11 bit studios,Action,11 bit studios,2.0,1,1,0,0,1,0,0,0,0,91,10205,82,8.2
+222,PGA TOUR 2K21,2020,239.0,HB Studios Multimedia Ltd.,2K,Simulation,PGA 2K,12.0,1,1,0,1,1,0,1,0,1,84,4525,74,6.4
+223,BIOMUTANT,2021,239.0,Experiment 101,THQ Nordic,Action,BIOMUTANT,25.0,1,0,0,0,1,0,0,0,0,67,10922,66,6.3
+224,WWE 2K22,2022,239.0,Visual Concepts,2K,Simulation,WWE 2K,60.0,1,1,0,1,0,1,1,0,1,72,4254,72,5.6
+225,STEEL DIVISION 2,2019,159.0,Eugen Systems,Eugen Systems,Action,Steel Division,50.0,1,1,0,1,0,0,0,0,0,78,5168,73,7.1
+226,GENERATION ZERO,2019,94.95,Systemic Reaction™,Systemic Reaction™,Action,,35.0,1,1,0,0,0,1,0,0,0,73,16849,51,5.5
+227,BRAVELY DEFAULT II,2021,209.0,"Square Enix, Claytechworks",Square Enix,Adventure,,15.0,1,0,0,0,1,0,0,0,0,84,906,83,7.5
+228,ASSASSIN'S CREED UNITY,2014,119.0,Ubisoft,Ubisoft,Action,Assassin's Creed,50.0,1,0,0,0,0,1,1,0,0,74,42172,70,5.7
+229,CITIZEN SLEEPER,2022,73.95,Jump Over The Age,Fellow Traveller,Adventure,Fellow Traveller,2.0,1,0,0,0,1,0,0,0,0,96,964,82,6.5
+230,KILLING FLOOR 2,2016,110.95,Tripwire Interactive,Tripwire Interactive,Action,Tripwire Interactive,80.0,1,1,0,1,1,0,1,0,0,88,71248,75,7.3
+231,YAKUZA 6: THE SONG OF LIFE,2021,82.95,Ryu Ga Gotoku Studio,SEGA,Action,Yakuza,40.0,1,0,0,0,1,0,0,0,0,94,2650,82,8.1
+232,SKUL: THE HERO SLAYER,2021,73.95,SouthPAW Games,NEOWIZ,Action,NEOWIZ,1.0,1,0,0,0,1,0,0,0,0,93,29919,80,6.4
+233,MONSTER HUNTER STORIES 2: WINGS OF RUIN,2021,259.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Adventure,Monster Hunter,28.0,1,1,0,1,1,0,0,0,0,80,8803,82,7.8
+234,WORLD OF TANKS,2021,0.0,Wargaming Group Limited,Wargaming Group Limited,Action,,60.0,0,0,0,1,0,0,1,1,0,80,32190,80,3.4
+235,A HAT IN TIME,2017,110.95,Gears for Breakfast,Gears for Breakfast,Adventure,,8.0,1,0,0,0,1,0,0,0,0,98,34655,79,8.7
+236,GRAVEYARD KEEPER,2018,73.95,Lazy Bear Games,tinyBuild,Adventure,tinyBuild,1.0,1,0,0,0,1,0,0,0,0,86,21615,69,7.2
+237,BUGSNAX,2022,92.95,Young Horses,Young Horses,Action,,0.0067,1,0,0,0,1,0,0,0,0,98,950,72,7.2
+238,SUPERLIMINAL,2020,73.95,Pillow Castle,Pillow Castle,Adventure,,12.0,1,1,0,1,1,0,0,0,0,94,14629,74,7.6
+239,WRECKFEST,2018,120.0,Bugbear,THQ Nordic,Action,Wreckfest,32.0,1,0,0,1,0,1,0,0,0,86,23017,81,7.4
+240,NEON ABYSS,2020,73.95,Veewo Games,"Team17, Yooreka Studio (China)",Action,Team17 Digital,1.024,1,0,0,0,0,1,0,0,0,89,14674,74,6.1
+241,ZOMBIE ARMY 4: DEAD WAR,2021,189.95,Rebellion,Rebellion,Action,,60.0,1,1,0,0,1,0,1,0,0,84,3576,74,4.7
+242,FIVE NIGHTS AT FREDDY'S: SECURITY BREACH,2021,140.78,Steel Wool Studios,ScottGames,Action,Five Nights at Freddy's,80.0,1,0,0,0,1,0,0,0,0,84,34073,64,5.7
+243,MONSTER TRAIN,2020,92.95,Shiny Shoe,Good Shepherd Entertainment,Strategy,,2.0,1,0,0,1,1,0,0,0,0,96,14251,86,8.3
+244,OUTLAST 2,2017,110.95,Red Barrels,Red Barrels,Action,Outlast,30.0,1,0,0,0,1,0,0,0,0,90,29344,75,6.6
+245,DRAGON QUEST BUILDERS 2,2019,175.0,"Square Enix, KOEI TECMO GAMES CO., LTD.",Square Enix,Action,DRAGON QUEST,12.0,1,1,0,0,1,0,0,0,0,92,4483,85,7.2
+246,A TOTAL WAR SAGA: TROY,2021,169.95,"CREATIVE ASSEMBLY, Feral Interactive (Mac)","SEGA, Feral Interactive (Mac)",Action,Total War,26.0,1,1,1,1,0,0,0,0,0,71,1619,75,5.9
+247,WE WERE HERE FOREVER,2022,66.95,Total Mayhem Games,Total Mayhem Games,Adventure,We Were Here Series,25.0,0,1,0,0,0,1,0,0,0,89,3990,77,7.1
+248,NI NO KUNI II: REVENANT KINGDOM,2018,213.0,Level-5,BANDAI NAMCO Entertainment,Adventure,BANDAI NAMCO Entertainment,40.0,1,0,0,0,1,0,0,0,0,83,6499,81,7.0
+249,THE LONG DARK,2017,131.95,Hinterland Studio Inc.,Hinterland Studio Inc.,Adventure,,7.0,1,0,0,0,1,0,0,0,0,92,78393,77,6.7
+250,BATTLEFIELD 4,2020,169.0,DICE,Electronic Arts,Action,Battlefield,30.0,1,0,0,1,1,0,0,0,0,87,35389,81,6.2
+251,PROJECT WINGMAN,2020,92.95,Sector D2,"Sector D2, Humble Games",Action,Humble Games,16.0,1,0,0,0,1,0,0,0,0,94,8974,75,8.0
+252,MINECRAFT DUNGEONS,2021,85.0,"Mojang Studios, ‪Double Eleven",Xbox Game Studios,Action,,6.0,1,1,0,0,1,0,0,0,0,91,4339,70,6.5
+253,PREY,2017,119.0,Arkane Studios,Bethesda Softworks,Action,,20.0,1,0,0,0,1,0,0,0,0,90,25986,82,8.2
+254,DYNASTY WARRIORS 8: XTREME LEGENDS COMPLETE EDITION,2014,189.95,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Action,"KOEI TECMO GAMES CO., LTD.",18.0,1,0,0,0,0,1,0,0,0,84,9035,71,7.3
+255,RISE OF THE TOMB RAIDER,2016,112.95,"Crystal Dynamics, Eidos-Montréal, Feral Interactive (Mac), Feral Interactive (Linux), Nixxes","Square Enix, Feral Interactive (Mac), Feral Interactive (Linux)",Action,Tomb Raider,25.0,1,0,0,0,1,0,0,0,0,93,89660,86,7.9
+256,SURVIVING MARS,2018,110.95,"Haemimont Games, Abstraction",Paradox Interactive,Simulation,Surviving,6.0,1,0,0,0,1,0,0,0,0,84,13294,76,7.1
+257,SYBERIA: THE WORLD BEFORE,2022,149.95,Microids Studio Paris,Microids,Adventure,Syberia,22.0,1,0,0,0,1,0,0,0,0,92,969,81,8.4
+258,THE ELDER SCROLLS ONLINE: HIGH ISLE,2022,159.0,ZeniMax Online Studios,Bethesda Softworks,Action,The Elder Scrolls Online,85.0,0,1,0,1,0,1,1,1,0,71,88,79,6.8
+259,PALADINS,2018,0.0,Evil Mojo Games,Hi-Rez Studios,Action,,30.0,0,0,0,1,1,0,1,0,0,85,326697,83,7.3
+260,DIRT RALLY 2.0,2019,73.95,Codemasters,"Codemasters, Electronic Arts",Racing,"Codemasters, DiRT",100.0,1,0,0,1,1,0,0,0,0,86,20762,84,5.0
+261,OUTLAST,2013,73.95,Red Barrels,Red Barrels,Action,Outlast,5.0,1,0,0,0,1,0,0,0,0,96,58998,80,8.3
+262,LOOP HERO,2021,65.95,Four Quarters,Devolver Digital,Indie,Devolver Digital,0.2,1,0,0,0,0,0,0,0,0,93,26513,82,8.0
+263,THE RIFTBREAKER,2021,99.0,EXOR Studios,"EXOR Studios, Surefire.Games",Action,"EXOR Studios, surefiregames",8.0,1,0,0,0,1,0,0,0,0,92,10018,83,8.2
+264,FOR THE KING,2018,73.95,IronOak Games,Curve Games,Adventure,Curve Games,3.0,1,1,0,1,1,0,0,0,1,88,19236,79,7.1
+265,BLOODSTAINED: RITUAL OF THE NIGHT,2019,168.0,ArtPlay,505 Games,Action,505 Games Official,10.0,1,0,0,0,1,0,0,0,0,94,22742,83,8.3
+266,TOTAL WAR: ATTILA,2015,186.95,CREATIVE ASSEMBLY,SEGA,Strategy,Total War,35.0,1,1,1,1,0,0,0,0,0,80,20232,80,7.4
+267,STAR WARS: SQUADRONS,2020,169.0,MOTIVE,Electronic Arts,Action,Star Wars,40.0,1,1,0,1,1,0,0,0,0,71,19887,79,5.9
+268,THE DARK PICTURES ANTHOLOGY: LITTLE HOPE,2020,129.0,Supermassive Games,BANDAI NAMCO Entertainment Europe,Adventure,"The Dark Pictures, BANDAI NAMCO Entertainment Europe",80.0,1,0,0,1,1,0,0,0,1,72,4108,73,7.1
+269,KATANA ZERO,2019,55.95,Askiisoft,Devolver Digital,Action,,0.2,1,0,0,0,1,0,0,0,0,98,42006,83,8.9
+270,BLASPHEMOUS,2019,92.95,The Game Kitchen,Team17,Action,Team17,4.0,1,0,0,0,1,0,0,0,0,90,18019,77,6.6
+271,TERMINATOR: RESISTANCE,2019,138.99,Teyon,Reef Entertainment,Action,,32.0,1,0,0,0,1,0,0,0,0,92,7942,60,8.1
+272,TETRIS EFFECT: CONNECTED,2021,149.95,"Monstars Inc., Resonair, Stage Games",Enhance,Casual,,5.0,1,1,0,1,1,0,0,0,1,96,3555,93,7.6
+273,ALBION ONLINE,2018,0.0,Sandbox Interactive GmbH,Sandbox Interactive GmbH,Massively Multiplayer,,2.0,0,0,0,1,0,0,1,1,0,79,48531,72,5.2
+274,ENTER THE GUNGEON,2016,55.95,Dodge Roll,Devolver Digital,Action,Gungeon,2.0,1,0,0,0,1,0,0,0,0,96,59514,84,8.0
+275,PILLARS OF ETERNITY II: DEADFIRE,2018,148.0,Obsidian Entertainment,"Versus Evil, Obsidian Entertainment",RPG,Versus Evil,45.0,1,0,0,0,0,0,0,0,0,86,10399,88,7.8
+276,SNIPER ELITE V2 REMASTERED,2019,36.95,Rebellion,Rebellion,Action,Sniper Elite,15.0,1,1,0,1,1,0,0,0,0,72,1666,61,4.6
+277,CRASH BANDICOOT N. SANE TRILOGY,2018,193.0,"Vicarious Visions, Iron Galaxy",Activision,Action,,30.0,1,0,0,0,0,1,0,0,0,93,8299,76,8.1
+278,SHOVEL KNIGHT: TREASURE TROVE,2014,149.95,Yacht Club Games,Yacht Club Games,Action,Shovel Knight,0.25,1,0,0,0,1,0,0,0,1,96,11780,85,7.7
+279,NOBODY SAVES THE WORLD,2022,92.95,DrinkBox Studios,DrinkBox Studios,Action,,2.0,1,1,0,0,1,0,0,0,0,92,2413,79,7.3
+280,STAR TREK ONLINE,2012,0.0,Cryptic Studios,Perfect World Entertainment,Massively Multiplayer,,21.0,0,0,0,0,1,0,1,1,0,78,16507,66,6.2
+281,DEAD OR ALIVE 6,2019,224.95,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Action,"KOEI TECMO GAMES CO., LTD.",50.0,1,0,0,1,1,0,1,0,1,73,7276,73,5.7
+282,GOROGOA,2017,55.95,Buried Signal,Annapurna Interactive,Adventure,Annapurna Interactive,0.68,1,0,0,0,0,0,0,0,0,97,10673,84,8.3
+283,EASTWARD,2021,92.95,Pixpil,Chucklefish,Adventure,,2.0,1,0,0,0,1,0,0,0,0,85,10411,82,7.2
+284,SPELUNKY 2,2020,73.95,"Mossmouth, BlitWorks",Mossmouth,Action,,0.6,1,1,0,0,1,0,0,0,1,93,13288,91,6.8
+285,SOUTH PARK: THE FRACTURED BUT WHOLE,2017,239.0,Ubisoft San Francisco,Ubisoft,RPG,,20.0,1,0,0,0,0,1,0,0,0,81,17174,81,6.9
+286,PROJECT CARS 2,2017,213.0,Slightly Mad Studios,BANDAI NAMCO Entertainment,Racing,,50.0,1,0,0,1,0,0,0,0,0,80,10883,84,7.2
+287,BIPED,2020,55.95,NEXT Studios,"NEXT Studios, bilibili, META Publishing",Action,"NEXT Studios, META Publishing",8.0,1,1,0,0,1,0,0,0,0,89,4003,74,7.6
+288,WOLFENSTEIN: THE NEW ORDER,2014,84.99,MachineGames,Bethesda Softworks,Action,Wolfenstein,50.0,1,0,0,0,0,1,0,0,0,90,33347,81,8.2
+289,MARVEL'S AVENGERS,2020,140.0,"Crystal Dynamics, Eidos-Montréal, Nixxes",Square Enix,Action,,75.0,1,1,0,0,1,0,1,0,0,67,18046,68,3.3
+290,FAR CRY 4,2014,119.0,"Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev",Ubisoft,Action,Far Cry,30.0,1,0,0,0,0,1,0,0,0,82,38372,80,7.0
+291,JUST CAUSE 3,2015,77.0,Avalanche Studios,Square Enix,Action,Just Cause,54.0,1,0,0,0,1,0,0,0,0,83,81964,74,5.8
+292,VISAGE,2020,131.95,SadSquare Studio,SadSquare Studio,Action,Visage,10.0,1,0,0,0,1,0,0,0,0,88,5428,81,6.5
+293,HOT WHEELS UNLEASHED,2021,189.95,Milestone S.r.l.,Milestone S.r.l.,Racing,,22.0,1,0,0,1,1,0,0,0,1,81,2388,78,8.1
+294,EVIL GENIUS 2: WORLD DOMINATION,2021,149.95,Rebellion,Rebellion,Simulation,Evil Genius,18.0,1,0,0,0,1,0,0,0,0,66,8334,75,4.9
+295,SAKUNA: OF RICE AND RUIN,2020,110.95,Edelweiss,"XSEED Games, Marvelous USA, Inc.",Action,,7.0,1,0,0,0,0,1,0,0,0,94,3264,82,7.3
+296,SPYRO REIGNITED TRILOGY,2019,193.0,"Toys for Bob, Iron Galaxy",Activision,Action,,40.0,1,0,0,0,1,0,0,0,0,94,8208,75,8.7
+297,IRON HARVEST,2020,110.95,KING Art,Prime Matter,Strategy,Iron Harvest,30.0,1,1,0,1,1,0,0,0,0,74,7376,75,6.5
+298,THE DARK PICTURES ANTHOLOGY: MAN OF MEDAN,2019,129.0,Supermassive Games,BANDAI NAMCO Entertainment Europe,Adventure,The Dark Pictures,80.0,1,0,0,1,1,0,0,0,1,72,5651,75,6.5
+299,PROJECT HOSPITAL,2018,92.95,Oxymoron Games,Oxymoron Games,Indie,,1.0,1,0,0,0,0,0,0,0,0,87,5093,75,7.9
+300,COOKING SIMULATOR,2019,73.95,Big Cheese Studio,"Big Cheese Studio, PlayWay S.A.",Simulation,"Cooking Simulator, Big Cheese Studio",6.0,1,0,0,0,0,1,0,0,0,84,12307,64,6.0
+301,BAYONETTA,2017,82.95,PlatinumGames,SEGA,Action,,20.0,1,0,0,0,1,0,0,0,0,92,17743,90,8.1
+302,FIREWATCH,2016,73.95,Campo Santo,"Panic, Campo Santo",Adventure,,4.0,1,0,0,0,1,0,0,0,0,88,53135,81,7.1
+303,DUSK,2018,73.95,David Szymanski,New Blood Interactive,Action,New Blood Interactive,2.0,1,0,0,1,1,0,0,0,0,97,13792,88,8.4
+304,BLUE REFLECTION: SECOND LIGHT,2021,224.95,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",RPG,"KOEI TECMO GAMES CO., LTD.",18.0,1,0,0,0,1,0,0,0,0,92,461,78,8.5
+305,BATTLETECH,2018,149.95,Harebrained Schemes,Paradox Interactive,Action,,35.0,1,0,0,1,0,0,0,0,0,82,17596,78,7.0
+306,BEYOND: TWO SOULS,2020,73.95,Quantic Dream,Quantic Dream,Action,,49.0,1,0,0,0,1,0,0,0,0,88,11110,76,7.6
+307,DARK SOULS III,2016,213.0,"FromSoftware, Inc.","FromSoftware, Inc., Bandai Namco Entertainment",Action,FRANCHISE,25.0,1,0,0,0,1,0,0,0,0,93,213665,89,8.6
+308,BRIGHT MEMORY: INFINITE,2021,73.95,FYQD-Studio,"FYQD-Studio, PLAYISM",Action,PLAYISM,13.0,1,0,0,0,0,1,0,0,0,92,26569,67,7.3
+309,GREEDFALL,2019,129.0,Spiders,Focus Entertainment,RPG,Focus Entertainment,25.0,1,0,0,0,1,0,0,0,0,77,13146,72,7.5
+310,BERSERK AND THE BAND OF THE HAWK,2017,224.95,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Action,"KOEI TECMO GAMES CO., LTD.",20.0,1,0,0,0,1,0,0,0,0,79,2064,54,7.5
+311,TRIBES OF MIDGARD,2021,73.95,Norsfell,Gearbox Publishing,Action,,8.0,1,1,0,0,1,0,1,0,0,77,10212,73,8.0
+312,HAVEN,2020,92.95,The Game Bakers,The Game Bakers,Adventure,The Game Bakers,5.0,1,0,0,0,1,0,0,0,0,92,2741,73,7.9
+313,THE LAST STAND: AFTERMATH,2021,92.95,Con Artist Games,Armor Games Studios,Action,The Last Stand,5.0,1,0,0,0,1,0,0,0,0,83,3077,73,6.5
+314,MY TIME AT PORTIA,2019,110.95,Pathea Games,Team17,Adventure,"Team17, Pathea Games",6.0,1,0,0,0,1,0,0,0,0,92,28982,73,6.9
+315,KEEP TALKING AND NOBODY EXPLODES,2015,55.95,Steel Crate Games,Steel Crate Games,Indie,,1.0,0,0,0,0,1,0,0,0,0,97,9064,71,8.1
+316,BATTLEBLOCK THEATER,2014,55.95,The Behemoth,The Behemoth,Action,The Behemoth,2.0,1,1,0,1,1,0,0,0,1,97,49416,85,7.9
+317,CRUELTY SQUAD,2021,73.95,Consumer Softproducts,Consumer Softproducts,Action,,1.0,1,0,0,0,0,0,0,0,0,97,7316,89,8.7
+318,AFTER THE FALL,2021,149.99,Vertigo Games,Vertigo Games,Action,After the Fall,30.0,1,1,0,1,0,0,0,0,0,76,1315,75,7.5
+319,DANGANRONPA: TRIGGER HAPPY HAVOC,2016,73.95,"Spike Chunsoft Co., Ltd., Abstraction Games","Spike Chunsoft Co., Ltd.",Adventure,Danganronpa,5.0,1,0,0,0,1,0,0,0,0,96,21570,82,8.6
+320,THE ESCAPISTS 2,2017,73.95,"Team17, Mouldy Toof Studios",Team17,Indie,Team17,4.0,1,1,0,1,1,0,0,0,1,90,18624,75,7.6
+321,THE JACKBOX PARTY PACK 7,2020,110.95,"Jackbox Games, Inc.","Jackbox Games, Inc.",Casual,"Jackbox Games, Inc., Jackbox Games",3.0,1,0,0,0,1,0,0,0,1,97,2740,76,8.5
+322,HEAVY RAIN,2020,73.95,Quantic Dream,Quantic Dream,Action,,35.0,1,0,0,0,1,0,0,0,0,82,5807,75,7.4
+323,FAR CRY NEW DAWN,2019,179.0,"Ubisoft Montreal, Ubisoft Kiev, Ubisoft Shanghai",Ubisoft,Action,Far Cry,30.0,1,1,0,0,0,1,1,0,0,76,20687,73,4.0
+324,THE FORGOTTEN CITY,2021,92.95,Modern Storyteller,Dear Villagers,Adventure,Dear Villagers,26.0,1,0,0,0,1,0,0,0,0,97,5115,84,8.2
+325,HITMAN,2016,0.0,"IO Interactive A/S, Feral Interactive (Linux), Feral Interactive (Mac)","IO Interactive A/S, Feral Interactive (Linux), Feral Interactive (Mac)",Action,Hitman,50.0,1,0,0,0,1,0,0,0,0,81,23051,83,7.5
+326,WARGAME: RED DRAGON,2014,119.0,Eugen Systems,Eugen Systems,Indie,Eugen Systems' Wargame,20.0,1,1,0,1,0,0,0,0,0,88,12619,78,7.9
+327,HIGHFLEET,2021,110.95,Konstantin Koshutin,MicroProse Software,Action,,2.0,1,0,0,0,0,0,0,0,0,88,3976,74,7.6
+328,JURASSIC WORLD EVOLUTION,2018,163.99,Frontier Developments,Frontier Developments,Simulation,,8.0,1,0,0,0,1,0,0,0,0,86,43188,69,7.3
+329,DANGANRONPA 2: GOODBYE DESPAIR,2016,73.95,"Spike Chunsoft Co., Ltd., Abstraction Games","Spike Chunsoft Co., Ltd.",Adventure,Danganronpa,5.0,1,0,0,0,1,0,0,0,0,96,18758,83,8.8
+330,FAR CRY PRIMAL,2016,199.0,Ubisoft,Ubisoft,Action,Far Cry,20.0,1,0,0,0,0,1,0,0,0,84,22488,74,6.0
+331,FINAL FANTASY IX,2016,73.95,Square Enix,Square Enix,RPG,FINAL FANTASY,7.0,1,0,0,0,0,1,0,0,0,94,7334,84,8.8
+332,METRO: LAST LIGHT REDUX,2014,73.95,4A Games,Deep Silver,Action,Metro,10.0,1,0,0,0,1,0,0,0,0,88,45149,76,7.8
+333,THE WITNESS,2016,149.95,"Thekla, Inc.","Thekla, Inc.",Adventure,,5.0,1,0,0,0,0,1,0,0,0,86,10979,87,7.2
+334,GRIS,2018,62.95,Nomada Studio,Devolver Digital,Adventure,,4.0,1,0,0,0,1,0,0,0,0,96,47709,84,8.5
+335,PARKITECT,2018,110.95,Texel Raptor,Texel Raptor,Casual,,2.0,1,1,0,0,0,0,0,0,0,94,4829,83,8.7
+336,STARBOUND,2016,55.95,Chucklefish,Chucklefish,Action,Chucklefish,3.0,1,1,0,1,0,0,0,0,0,91,78951,81,7.3
+337,PINBALL FX3,2017,0.0,Zen Studios,Zen Studios,Simulation,Zen Studios,6.0,1,0,0,0,1,0,0,0,0,87,3800,89,6.9
+338,SONIC MANIA,2017,73.95,"Christian Whitehead, Headcannon, PagodaWest Games",SEGA,Action,Sonic the Hedgehog,0.4,1,0,0,0,1,0,0,0,1,93,16907,84,7.8
+339,ORI AND THE BLIND FOREST,2015,0.0,Moon Studios GmbH,Xbox Game Studios,Action,Ori,8.0,1,0,0,0,1,0,0,0,0,95,41387,88,8.7
+340,UNIVERSE SANDBOX,2015,110.95,Giant Army,Giant Army,Casual,,2.0,1,0,0,0,0,1,0,0,0,95,14972,83,7.1
+341,OPERATION: TANGO,2021,73.95,Clever Plays,Clever Plays,Adventure,,3.0,0,1,0,0,1,0,0,0,0,89,3772,71,7.8
+342,WEIRD WEST,2022,129.95,WolfEye Studios,Devolver Digital,Action,Devolver Digital,16.0,1,0,0,0,1,0,0,0,0,73,1511,76,7.1
+343,DESPERADOS III,2020,192.0,Mimimi Games,THQ Nordic,Strategy,Desperados,20.0,1,0,0,0,1,0,0,0,0,96,6821,86,8.2
+344,INJUSTICE 2,2017,189.0,"NetherRealm Studios, QLOC",WB Games,Action,,52.0,1,0,0,1,1,0,1,0,1,86,9605,86,7.6
+345,NECROMUNDA: HIRED GUN,2021,159.0,Streum On Studio,Focus Entertainment,Action,Warhammer,50.0,1,0,0,0,1,0,0,0,0,71,3855,62,6.2
+346,WHAT REMAINS OF EDITH FINCH,2017,73.95,Giant Sparrow,Annapurna Interactive,Adventure,Annapurna Interactive,5.0,1,0,0,0,1,0,0,0,0,95,24417,89,8.4
+347,TALES OF VESPERIA: DEFINITIVE EDITION,2019,150.0,"QLOC, BANDAI NAMCO Studios Inc.",BANDAI NAMCO Entertainment,RPG,BANDAI NAMCO Entertainment,25.0,1,0,0,0,1,0,0,0,1,82,2546,80,8.0
+348,ALIEN: ISOLATION,2014,159.0,"Creative Assembly, Feral Interactive (Mac), Feral Interactive (Linux)","SEGA, Feral Interactive (Mac), Feral Interactive (Linux)",Action,,35.0,1,0,0,0,1,0,0,0,0,92,34662,81,8.5
+349,LET'S BUILD A ZOO,2021,73.95,Springloaded,No More Robots,Simulation,No More Robots,0.738,1,0,0,0,0,0,0,0,0,90,1724,78,9.0
+350,CARRION,2020,73.95,Phobia Game Studio,Devolver Digital,Action,Devolver Digital,0.5,1,0,0,0,1,0,0,0,0,94,15201,75,7.8
+351,CLANNAD,2015,169.95,VisualArts/Key,Sekai Project,Adventure,,7.0,1,0,0,0,0,0,0,0,0,98,5423,83,8.8
+352,BPM: BULLETS PER MINUTE,2020,73.95,Awe Interactive,Awe Interactive,Action,,14.0,1,0,0,0,1,0,0,0,0,93,7242,74,7.8
+353,THE SINKING CITY,2021,149.95,Frogwares,Nacon,Action,"Nacon, Frogwares",35.0,1,0,0,0,1,0,0,0,0,72,1031,71,6.0
+354,GRIFTLANDS,2021,73.95,Klei Entertainment,Klei Entertainment,Indie,,4.0,1,0,0,0,0,1,0,0,0,95,11201,84,7.2
+355,BATTLESTAR GALACTICA DEADLOCK,2017,149.95,Black Lab Games,Slitherine Ltd.,Strategy,Battlestar Galactica franchise,8.739,1,1,0,1,0,1,0,0,0,86,1956,77,7.2
+356,MINI MOTORWAYS,2021,36.95,Dinosaur Polo Club,Dinosaur Polo Club,Casual,,0.35,1,0,0,0,1,0,0,0,0,96,12873,87,6.8
+357,WOLFENSTEIN: THE OLD BLOOD,2015,84.99,MachineGames,Bethesda Softworks,Action,Wolfenstein,38.0,1,0,0,0,0,1,0,0,0,88,11057,76,7.9
+358,DISHONORED: DEATH OF THE OUTSIDER,2017,119.0,Arkane Studios,Bethesda Softworks,Action,,32.0,1,0,0,0,1,0,0,0,0,86,6480,81,7.1
+359,RAILWAY EMPIRE,2018,110.95,Gaming Minds Studios,Kalypso Media,Simulation,Railway Empire,7.0,1,0,0,0,1,0,0,0,0,82,6030,74,6.8
+360,DUCK GAME,2015,47.95,Landon Podbielski,Adult Swim Games,Action,,0.15,1,0,0,1,1,0,0,0,1,97,21225,82,8.3
+361,THE EVIL WITHIN 2,2017,144.0,Tango Gameworks,Bethesda Softworks,Action,,40.0,1,0,0,0,0,0,0,0,0,92,13062,80,8.4
+362,ENDLESS LEGEND,2014,110.95,AMPLITUDE Studios,SEGA,RPG,AmplitudeStudios,6.0,1,0,0,1,0,1,0,0,0,84,13256,82,8.0
+363,ARIZONA SUNSHINE,2016,110.95,"Vertigo Games, Jaywalkers Interactive",Vertigo Games,Action,Arizona Sunshine,12.0,1,1,0,1,0,0,0,0,0,81,6417,81,7.1
+364,TOTAL WAR: ROME REMASTERED,2021,124.95,"Creative Assembly, Feral Interactive",SEGA,Strategy,Total War,45.0,1,0,0,0,0,0,0,0,0,73,7420,75,5.3
+365,SABLE,2021,92.95,Shedworks,Raw Fury,Adventure,Sable,3.0,1,0,0,0,1,0,0,0,0,86,2156,76,7.3
+366,FORTS,2017,55.95,EarthWork Games,EarthWork Games,Action,,3.0,1,1,1,1,0,0,0,0,0,92,10315,74,8.4
+367,GAS STATION SIMULATOR,2021,73.95,DRAGO entertainment,"Movie Games S.A., HeartBeat Games",Indie,DRAGO entertainment,10.0,1,0,0,0,0,1,0,0,0,86,12087,72,7.0
+368,GOD EATER 3,2019,199.0,BANDAI NAMCO Studios Inc.,BANDAI NAMCO Entertainment,Action,BANDAI NAMCO Entertainment,25.0,1,1,0,1,0,1,0,0,0,82,5559,71,6.4
+369,SWORD ART ONLINE: FATAL BULLET,2018,119.0,DIMPS,BANDAI NAMCO Entertainment,Action,BANDAI NAMCO Entertainment,30.0,1,0,0,1,0,1,0,0,0,80,13646,61,7.3
+370,FORAGER,2019,73.95,HopFrog,Humble Games,Action,Humble Games,0.2,1,0,0,0,1,0,0,0,0,91,24827,78,7.5
+371,TRICKY TOWERS,2016,55.95,WeirdBeard,WeirdBeard,Casual,,0.4,1,0,0,1,1,0,0,0,1,90,8850,80,6.9
+372,ROGUE COMPANY,2021,0.0,First Watch Games,Hi-Rez Studios,Action,,20.0,0,1,0,1,1,0,1,0,0,75,16125,75,5.0
+373,TALES OF BERSERIA,2017,177.0,BANDAI NAMCO Studios Inc.,BANDAI NAMCO Entertainment,Action,BANDAI NAMCO Entertainment,15.0,1,0,0,0,1,0,0,0,0,92,11436,80,6.6
+374,COROMON,2022,73.95,TRAGsoft,Freedom Games,Adventure,Freedom Games,2.0,1,0,0,1,0,1,0,0,0,85,1862,73,6.9
+375,PHOENIX POINT: YEAR ONE EDITION,2020,110.95,Snapshot Games Inc.,Snapshot Games Inc.,RPG,Phoenix Point,30.0,1,0,0,0,1,0,0,0,0,72,3174,74,7.2
+376,INTO THE BREACH,2018,55.95,Subset Games,Subset Games,Indie,,0.4,1,0,0,0,1,0,0,0,0,94,12128,90,7.8
+377,MANEATER,2021,149.95,Tripwire Interactive,Tripwire Interactive,Action,,20.0,1,0,0,0,1,0,0,0,0,90,6856,70,6.5
+378,UNRAVEL TWO,2020,129.0,Coldwood Interactive,Electronic Arts,Action,EA Originals,8.0,1,0,0,0,1,0,0,0,0,84,2367,76,6.6
+379,CHORUS,2021,149.95,Deep Silver Fishlabs,Deep Silver,Action,,36.0,1,0,0,0,1,0,0,0,0,85,1214,76,6.6
+380,SUPERHOT VR,2017,89.99,SUPERHOT Team,SUPERHOT Team,Action,SUPERHOT,4.0,1,0,0,0,0,0,0,0,0,85,5637,83,7.3
+381,FINAL FANTASY III,2021,58.99,Square Enix,Square Enix,RPG,FINAL FANTASY,1.0,1,0,0,0,0,1,0,0,0,94,1151,68,6.6
+382,THE EVIL WITHIN,2014,84.99,Tango Gameworks,Bethesda Softworks,Action,,50.0,1,0,0,0,1,0,0,0,0,83,13973,68,7.5
+383,FARMING SIMULATOR 19,2018,79.0,Giants Software,Focus Home Interactive,Simulation,Farming Simulator,20.0,1,1,0,0,1,0,0,0,0,93,52639,73,6.5
+384,CHICORY: A COLORFUL TALE,2021,73.95,"Greg Lobanov, Alexis Dean-Jones, Lena Raine, Madeline Berger, A Shell in the Pit",Finji,Adventure,,2.0,1,0,0,0,1,0,0,0,0,97,1447,90,7.4
+385,SHOP TITANS,2020,0.0,"Kabam Games, Inc.","Kabam Games, Inc.",Adventure,,0.6,1,1,0,0,0,0,1,1,0,78,11941,42,3.4
+386,MEN OF WAR: ASSAULT SQUAD 2,2014,110.95,Digitalmindsoft,1C Entertainment,Action,1C,6.0,1,0,0,0,0,0,0,0,0,91,26488,68,6.3
+387,NIGHT IN THE WOODS,2017,73.95,Infinite Fall,Finji,Adventure,,8.0,1,0,0,0,1,0,0,0,0,94,11694,88,7.6
+388,TRIALS OF MANA,2020,179.0,Square Enix,Square Enix,RPG,Mana Series,20.0,1,0,0,0,1,0,0,0,0,92,3738,78,7.6
+389,HERO'S HOUR,2022,66.95,"Benjamin ""ThingOnItsOwn"" Hauer","Goblinz Publishing, Maple Whispering Limited",Indie,Goblinz Publishing,0.1,1,0,0,0,0,0,0,0,1,77,2270,78,4.4
+390,CLOUDPUNK,2020,73.95,ION LANDS,"ION LANDS, Maple Whispering Limited",Adventure,,7.0,1,0,0,0,1,0,0,0,0,89,9580,73,7.8
+391,POLY BRIDGE 2,2020,55.95,Dry Cactus,Dry Cactus,Indie,,0.5,1,0,0,0,0,0,0,0,0,96,4653,69,5.3
+392,YS VIII: LACRIMOSA OF DANA,2018,224.95,Nihon Falcom,"NIS America, Inc.",Action,Ys,30.0,1,0,0,0,1,0,0,0,0,87,3456,69,7.9
+393,PILLARS OF ETERNITY,2015,105.56,Obsidian Entertainment,Paradox Interactive,RPG,,14.0,1,0,0,0,0,0,0,0,0,87,13032,89,8.3
+394,GOAT SIMULATOR,2014,36.95,Coffee Stain Studios,Coffee Stain Publishing,Casual,,2.0,1,0,0,0,1,0,0,0,0,89,44684,62,6.6
+395,SALT AND SANCTUARY,2016,66.95,Ska Studios,Ska Studios,Action,,2.0,1,0,0,0,1,0,0,0,0,90,14936,84,7.7
+396,FINAL FANTASY XIII,2014,58.95,Square Enix,Square Enix,RPG,FINAL FANTASY,60.0,1,0,0,0,0,1,0,0,0,73,11414,65,5.6
+397,HELLBLADE: SENUA'S SACRIFICE,2017,110.95,Ninja Theory,Ninja Theory,Action,Hellblade: Senua's Sacrifice,30.0,1,0,0,0,1,0,0,0,0,91,44354,83,8.1
+398,CITY OF GANGSTERS,2021,110.95,SomaSim,Kasedo Games,Simulation,Kasedo Games,1.0,1,0,0,0,0,0,0,0,0,75,698,67,6.8
+399,GEARS 5,2019,159.0,The Coalition,Xbox Game Studios,Action,Gears of War,80.0,1,1,0,1,0,1,1,0,1,69,15409,82,6.8
+400,MAD MAX,2015,73.95,Avalanche Studios,"Warner Bros. Games, Warner Bros. Interactive Entertainment",Action,,32.0,1,0,0,0,1,0,0,0,0,91,39730,73,7.8
+401,A TOTAL WAR SAGA: THRONES OF BRITANNIA,2018,165.95,"CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)","SEGA, Feral Interactive (Mac), Feral Interactive (Linux)",Action,Total War,30.0,1,1,1,1,0,0,0,0,0,68,9845,75,5.4
+402,SERIOUS SAM 4,2020,149.95,Croteam,Devolver Digital,Action,"Serious Sam, Croteam",42.0,1,1,0,0,0,1,0,0,0,83,10659,68,7.1
+403,HOTLINE MIAMI 2: WRONG NUMBER,2015,55.95,Dennaton Games,Devolver Digital,Action,Devolver Digital,0.6,1,0,0,0,1,0,0,0,0,93,37203,74,7.7
+404,THE JACKBOX PARTY PACK 6,2019,110.95,"Jackbox Games, Inc.","Jackbox Games, Inc.",Casual,Jackbox Games,3.0,1,0,0,0,1,0,0,0,1,95,1756,80,8.3
+405,ZERO ESCAPE: THE NONARY GAMES,2017,110.95,"Spike Chunsoft Co., Ltd.","Spike Chunsoft Co., Ltd.",Adventure,,4.0,1,0,0,0,0,1,0,0,0,94,3529,86,8.8
+406,COFFEE TALK,2020,47.95,Toge Productions,Toge Productions,Adventure,Toge Productions,0.6,1,0,0,0,1,0,0,0,0,95,5164,75,7.9
+407,MORTAL KOMBAT X,2015,73.95,"NetherRealm Studios, QLOC",Warner Bros. Interactive Entertainment,Action,Mortal Kombat,36.0,1,0,0,0,1,0,0,0,1,85,29310,84,5.7
+408,UNDERTALE,2015,36.95,tobyfox,tobyfox,Indie,,0.2,1,0,0,0,0,0,0,0,0,96,158174,92,8.5
+409,KINGDOMS AND CASTLES,2017,36.95,"Lion Shield, LLC","Lion Shield, LLC",Indie,,1.0,1,0,0,0,1,0,0,0,0,92,20712,71,7.4
+410,MONSTER PROM 2: MONSTER CAMP,2020,43.95,Beautiful Glitch,Beautiful Glitch,Indie,"Monster Prom, Monster Camp",1.0,1,1,0,1,1,0,0,0,1,98,3551,80,7.2
+411,ONE STEP FROM EDEN,2020,73.95,Thomas Moon Kang,"Humble Games, Maple Whispering Limited",Action,Humble Games,1.0,1,0,0,0,1,0,0,0,1,94,4900,82,8.5
+412,GEARS TACTICS,2020,159.0,"Splash Damage, The Coalition",Xbox Game Studios,Strategy,Gears of War,45.0,1,0,0,0,1,0,0,0,0,76,5277,80,7.6
+413,NOT FOR BROADCAST,2022,92.95,NotGames,tinyBuild,Adventure,tinyBuild,50.0,1,0,0,0,1,0,0,0,0,95,6189,82,8.4
+414,PISTOL WHIP,2019,110.95,Cloudhead Games ltd.,Cloudhead Games ltd.,Action,,0.8,1,0,0,0,0,0,0,0,0,93,2829,83,7.9
+415,BANISHED,2014,73.95,Shining Rock Software LLC,Shining Rock Software LLC,Indie,,0.25,1,0,0,0,0,0,0,0,0,89,33244,73,8.1
+416,PANZER CORPS 2,2020,149.95,Flashback Games,Slitherine Ltd.,Strategy,,12.0,1,1,0,1,0,0,0,0,1,82,2263,86,5.9
+417,PATHOLOGIC 2,2019,131.95,Ice-Pick Lodge,tinyBuild,Adventure,"tinyBuild, Pathologic",25.0,1,0,0,0,1,0,0,0,0,92,5541,70,8.8
+418,DAEMON X MACHINA,2020,189.95,Marvelous Inc.,"XSEED Games, Marvelous USA, Inc., Marvelous",Action,,13.0,1,1,0,1,0,1,0,0,0,88,5093,72,7.0
+419,AGE OF WONDERS: PLANETFALL,2019,189.95,Triumph Studios,Paradox Interactive,Strategy,Age of Wonders,20.0,1,0,0,1,0,1,0,0,0,80,3882,81,7.6
+420,COZY GROVE,2021,55.95,Spry Fox LLC, Spry Fox LLC,Casual,,3.0,1,0,0,0,1,0,0,0,0,89,3976,72,5.9
+421,OPUS MAGNUM,2017,73.95,Zachtronics,Zachtronics,Indie,,0.6,1,0,0,0,0,0,0,0,0,97,3759,90,8.2
+422,BUS SIMULATOR 21,2021,150.95,stillalive studios,astragon Entertainment,Simulation,Bus Simulator,18.0,1,1,0,0,1,0,0,0,0,68,1688,73,4.7
+423,EIYUDEN CHRONICLE: RISING,2022,64.95,NatsumeAtari,505 Games ,Action,505 Games Official,20.0,1,0,0,0,0,1,0,0,0,89,515,71,6.3
+424,PRAEY FOR THE GODS,2021,110.95,No Matter Studios,No Matter Studios,Action,,8.0,1,0,0,0,1,0,0,0,0,85,1677,61,6.7
+425,SAMURAI SHODOWN,2021,0.0,SNK CORPORATION,SNK CORPORATION,Action,,35.0,1,0,0,1,1,0,0,0,1,71,431,76,5.6
+426,WE HAPPY FEW,2018,224.95,Compulsion Games,Gearbox Publishing,Action,,6.0,1,0,0,0,1,0,0,0,0,75,8838,62,5.7
+427,CATHERINE CLASSIC,2019,82.95,ATLUS,SEGA,Adventure,,20.0,1,0,0,0,1,0,0,0,1,89,5442,80,7.7
+428,PER ASPERA,2020,110.95,Tlön Industries,Raw Fury,Indie,Per Aspera,10.0,1,1,0,0,0,0,0,0,0,73,2555,79,7.0
+429,VAMPYR,2018,159.0,DONTNOD Entertainment,Focus Entertainment,Action,Focus Entertainment,20.0,1,0,0,0,1,0,0,0,0,76,12598,72,6.8
+430,GRID LEGENDS,2022,249.0,Codemasters,Electronic Arts,Action,GRID,50.0,1,0,0,1,1,0,1,0,0,74,469,75,6.0
+431,UNHEARD,2019,36.95,NEXT Studios,"NEXT Studios, bilibili",Indie,"NEXT Studios, 疑案追声-Next, 疑案追声-bilibili",2.0,1,0,0,0,0,0,0,0,0,96,22590,72,8.0
+432,LIGHTNING RETURNS: FINAL FANTASY XIII,2015,73.95,Square Enix,Square Enix,RPG,FINAL FANTASY,22.0,1,0,0,0,0,1,0,0,0,79,3135,66,7.1
+433,INSIDE,2016,73.95,Playdead,Playdead,Action,,3.0,1,0,0,0,1,0,0,0,0,96,32379,87,8.6
+434,TAILS OF IRON,2021,99.0,Odd Bug Studio,"United Label, CI Games",Action,United Label,2.0,1,0,0,0,0,1,0,0,0,90,3546,81,7.8
+435,AIRBORNE KINGDOM,2022,92.95,The Wandering Band LLC,Freedom Games,Casual,Freedom Games,2.0,1,0,0,0,0,0,0,0,0,87,854,76,7.2
+436,LEGO BUILDER'S JOURNEY,2021,67.95,Light Brick Studio,LEGO® Games,Adventure,,5.0,1,0,0,0,1,0,0,0,0,83,2141,79,7.1
+437,LEGEND OF KEEPERS: CAREER OF A DUNGEON MANAGER,2021,73.95,Goblinz Studio,Goblinz Publishing,Indie,Goblinz Publishing,1.0,1,0,0,0,1,0,0,0,0,81,3021,76,6.5
+438,MYST,2021,110.95,Cyan Worlds Inc,Cyan Worlds Inc,Adventure,Myst,20.0,1,0,0,0,1,0,0,0,0,89,787,78,5.4
+439,BLUE REFLECTION,2017,224.95,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",RPG,"KOEI TECMO GAMES CO., LTD.",30.0,1,0,0,0,0,1,0,0,0,84,842,61,7.2
+440,CURSE OF THE DEAD GODS,2021,79.0,Passtech Games,Focus Entertainment,Action,Focus Entertainment,2.0,1,0,0,0,1,0,0,0,0,87,5044,78,7.4
+441,PATRICK'S PARABOX,2022,73.95,Patrick Traynor,Patrick Traynor,Casual,,0.25,1,0,0,0,1,0,0,0,0,99,1172,84,8.0
+442,FAR: CHANGING TIDES,2022,73.95,Okomotive,Frontier Foundry,Action,FAR Universe,4.0,1,0,0,0,1,0,0,0,0,93,1345,73,7.2
+443,BANNER OF THE MAID,2019,62.95,Azure Flame Studio,CE-Asia,Indie,,2.0,1,0,0,0,0,1,0,0,0,89,4753,69,8.2
+444,FORGIVE ME FATHER,2022,73.95,Byte Barrel,1C Entertainment,Action,1C,4.0,1,0,0,0,0,1,0,0,0,88,965,73,6.9
+445,TOWNSCAPER,2021,21.95,Oskar Stålberg,Raw Fury,Casual,,1.0,1,0,0,0,1,0,0,0,0,97,15569,86,8.0
+446,BATTLEFLEET GOTHIC: ARMADA 2,2019,69.0,Tindalos Interactive,Focus Entertainment,Strategy,Warhammer,50.0,1,1,0,1,0,0,0,0,0,79,6289,77,7.5
+447,DICEY DUNGEONS,2019,55.95,Terry Cavanagh,Terry Cavanagh,Indie,"Terry Cavanagh, indienova",1.0,1,0,0,0,1,0,0,0,0,89,7029,80,7.9
+448,LOST EMBER,2019,110.95,Mooneye Studios,Mooneye Studios,Action,Mooneye,13.0,1,0,0,0,1,0,0,0,0,88,3131,78,7.5
+449,SPEEDRUNNERS,2016,55.95,DoubleDutch Games,tinyBuild,Action,"tinyBuild, SpeedRunners",0.8,1,0,0,1,1,0,0,0,1,94,20022,84,7.5
+450,SAMURAI WARRIORS 5,2021,224.95,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Action,"KOEI TECMO GAMES CO., LTD.",25.0,1,1,0,0,1,0,0,0,0,83,871,74,8.1
+451,KATAMARI DAMACY REROLL,2018,74.0,MONKEYCRAFT Co. Ltd.,BANDAI NAMCO Entertainment,Action,,4.0,1,0,0,0,1,0,0,0,1,92,2943,81,8.0
+452,NIGHTMARE REAPER,2022,92.95,Blazing Bit Games,Blazing Bit Games,Action,,4.0,1,0,0,0,1,0,0,0,0,94,2107,82,7.6
+453,LIFE IS STRANGE 2,2018,0.0,"DONTNOD Entertainment, Feral Interactive (Mac), Feral Interactive (Linux)","Square Enix, Feral Interactive (Mac), Feral Interactive (Linux)",Adventure,Life is Strange,40.0,1,0,0,0,1,0,0,0,0,84,17946,70,6.0
+454,MORTAL SHELL,2021,110.95,Cold Symmetry,Playstack,Action,Playstack,12.0,1,0,0,0,1,0,0,0,0,75,2852,76,6.3
+455,UNTIL YOU FALL,2020,92.95,Schell Games,Schell Games,Action,,4.0,1,0,0,0,0,0,0,0,0,95,2393,87,6.4
+456,SPELLFORCE 3: FALLEN GOD,2020,79.0,Grimlore Games,THQ Nordic,RPG,SpellForce,30.0,1,1,0,1,1,0,0,0,0,90,866,77,8.2
+457,DARKSIDERS GENESIS,2019,110.95,Airship Syndicate,THQ Nordic,Action,Darksiders,15.0,1,1,0,0,1,0,0,0,0,84,7236,77,7.6
+458,STEEP,2016,119.0,"Ubisoft Annecy, Ubisoft Montpellier, Ubisoft Kiev",Ubisoft,Action,,25.0,1,0,0,1,0,1,1,0,0,82,20306,72,6.8
+459,AMID EVIL,2019,73.95,Indefatigable,New Blood Interactive,Action,New Blood Interactive,5.0,1,0,0,0,1,0,0,0,0,95,4367,85,7.5
+460,SOMA,2015,110.95,Frictional Games,Frictional Games,Action,,25.0,1,0,0,0,1,0,0,0,0,95,27549,84,8.4
+461,WANDERER,2022,149.95,"M-Theory, Oddboy","M-Theory, Oddboy",Action,,30.0,1,0,0,0,0,0,0,0,0,85,360,81,7.5
+462,LOST RUINS,2021,73.95,ALTARI GAMES,DANGEN Entertainment,Action,DANGEN Entertainment,0.6,1,0,0,0,1,0,0,0,0,90,2847,59,8.3
+463,AGE OF EMPIRES: DEFINITIVE EDITION,2019,75.0,"Forgotten Empires, Tantalus",Xbox Game Studios,Strategy,Age of Empires,20.0,1,0,0,1,0,0,0,0,0,83,8940,69,6.7
+464,PATRON,2021,73.95,Overseer Games,Overseer Games,Simulation,,10.0,1,0,0,0,0,0,0,0,0,77,1464,71,8.3
+465,DELIVER US THE MOON,2019,92.95,KeokeN Interactive,Wired Productions,Action,"Wired Productions, Deliver Us Universe",10.0,1,0,0,0,1,0,0,0,0,88,3854,68,7.7
+466,ARMELLO,2015,73.95,League of Geeks,League of Geeks,Adventure,,4.0,1,0,0,1,1,0,1,0,0,82,9922,75,7.0
+467,WE WERE HERE TOGETHER,2019,47.95,Total Mayhem Games,Total Mayhem Games,Adventure,We Were Here Series,20.0,0,1,0,0,0,1,0,0,0,85,7658,77,7.7
+468,GROW: SONG OF THE EVERTREE,2021,105.0,Prideful Sloth,505 Games,Action,505 Games Official,4.0,1,0,0,0,1,0,0,0,0,86,1038,78,8.6
+469,FURI,2016,73.95,The Game Bakers,The Game Bakers,Action,The Game Bakers,5.0,1,0,0,0,1,0,0,0,0,91,7486,76,8.0
+470,THE LEGEND OF HEROES: TRAILS OF COLD STEEL,2017,149.95,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",RPG,Trails in the Sky,17.0,1,0,0,0,0,1,0,0,0,95,3939,80,8.1
+471,IN SOUND MIND,2021,131.95,We Create Stuff,Modus Games,Action,Modus Games,20.0,1,0,0,0,1,0,0,0,0,95,947,75,8.4
+472,EVERHOOD,2021,36.95,"Chris Nordgren, Jordi Roca","Foreign Gnomes, Surefire.Games",Action,,0.4,1,0,0,0,1,0,0,0,0,96,7162,83,7.7
+473,THE WOLF AMONG US,2013,63.0,Telltale,Telltale,Action,,2.0,1,0,0,0,1,0,0,0,0,97,22916,85,8.8
+474,BATTLEFIELD 3,2020,169.0,DICE,Electronic Arts,Action,Battlefield,20.0,1,0,0,1,1,0,0,0,0,67,4936,89,7.6
+475,HYPNOSPACE OUTLAW,2019,73.95,"Tendershoot, Michael Lasch, ThatWhichIs Media",No More Robots,Simulation,No More Robots,0.5,1,0,0,0,0,0,0,0,0,97,2259,83,6.9
+476,WYTCHWOOD,2021,73.95,Alientrap,"Whitethorn Games, WhisperGames",Adventure,,1.0,1,0,0,0,1,0,0,0,0,94,786,78,7.3
+477,MOVING OUT,2020,92.95,"SMG Studio, Devm Games",Team17,Action,Team17,1.0,1,0,0,0,1,0,0,0,0,80,1009,79,7.3
+478,F.I.S.T.: FORGED IN SHADOW TORCH,2021,119.0,TiGames,Antiidelay,Action,,25.0,1,0,0,0,1,0,0,0,0,90,4509,81,7.1
+479,MONSTER PROM,2018,43.95,Beautiful Glitch,Those Awesome Guys,Indie,Those Awesome Guys,1.0,1,0,0,1,0,1,0,0,1,93,9175,73,6.9
+480,ULTIMATE FISHING SIMULATOR,2018,73.95,Bit Golem,Ultimate Games S.A.,Casual,"Fishing, Ultimate Fishing Simulator, Ultimate Games",15.0,1,0,0,1,0,1,0,0,0,90,4587,70,7.8
+481,BREATHEDGE,2021,92.95,RedRuins Softworks,"HypeTrain Digital, RedRuins Softworks",Action,HypeTrain Digital,7.0,1,0,0,0,1,0,0,0,0,85,11055,71,7.3
+482,DISCIPLES: LIBERATION,2021,149.95,Frima Studio,Kalypso Media,RPG,Disciples,8.0,1,0,0,1,1,0,0,0,0,76,1819,72,4.6
+483,THE STANLEY PARABLE,2013,55.95,Galactic Cafe,Galactic Cafe,Adventure,The Stanley Parable,3.0,1,0,0,0,1,0,0,0,0,92,37035,88,8.0
+484,VOICE OF CARDS: THE ISLE DRAGON ROARS,2021,100.0,Square Enix,Square Enix,RPG,,5.0,1,0,0,0,0,1,0,0,0,81,831,68,5.9
+485,THE ROOM VR: A DARK MATTER,2020,110.95,Fireproof Games,Fireproof Games,Adventure,The Room,4.0,1,0,0,0,0,0,0,0,0,97,2618,78,7.8
+486,SERIOUS SAM: SIBERIAN MAYHEM,2022,75.95,"Croteam, Timelock Studio",Devolver Digital,Action,Serious Sam,25.0,1,1,0,0,1,0,0,0,0,92,2034,70,8.3
+487,IMPOSTOR FACTORY,2021,36.95,Freebird Games,Freebird Games,Adventure,To the Moon Series,0.5,1,0,0,0,0,0,0,0,0,96,7213,80,8.3
+488,CARD SHARK,2022,75.95,Nerial,Devolver Digital,Adventure,Nerial,2.0,1,0,0,0,1,0,0,0,0,91,859,81,7.8
+489,OKAMI HD,2017,96.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Adventure,,34.0,1,0,0,0,1,0,0,0,0,93,5054,92,7.7
+490,THE MEDIUM,2021,189.95,Bloober Team,"Bloober Team SA                      , NA PUBLISHING INC.",Adventure,Bloober Team,55.0,1,0,0,0,1,0,0,0,0,88,4878,75,7.0
+491,I EXPECT YOU TO DIE,2017,92.95,Schell Games,Schell Games,Adventure,I Expect You To Die,0.91629,1,0,0,0,0,0,0,0,0,95,1643,77,7.5
+492,TYRANNY,2016,110.95,Obsidian Entertainment,Paradox Interactive,Adventure,,15.0,1,0,0,0,0,0,0,0,0,86,8060,80,7.8
+493,IDOL MANAGER,2021,73.95,Glitch Pitch,PLAYISM,Indie,PLAYISM,1.0,1,0,0,0,0,0,0,0,0,89,2477,73,7.9
+494,FELL SEAL: ARBITER'S MARK,2019,110.95,6 Eyes Studio,1C Entertainment,Indie,1C,2.0,1,0,0,0,1,0,0,0,0,90,3746,82,7.3
+495,ICEY,2016,40.95,FantaBlade Network,XD,Action,X.D. Network Inc.,6.0,1,0,0,0,1,0,0,0,0,90,20218,84,7.7
+496,BROFORCE,2015,55.95,Free Lives,Devolver Digital,Action,Free Lives,1.3,1,1,0,1,1,0,0,0,1,97,39445,83,8.0
+497,THE LEGEND OF HEROES: TRAILS IN THE SKY SC,2015,110.95,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",RPG,Trails in the Sky,4.0,1,0,0,0,0,1,0,0,0,97,2079,80,8.7
+498,ZERO ESCAPE: ZERO TIME DILEMMA,2016,73.95,"Spike Chunsoft Co., Ltd.","Spike Chunsoft Co., Ltd.",Adventure,,4.0,1,0,0,0,1,0,0,0,0,85,2887,78,8.0
+499,DAWN OF MAN,2019,92.95,Madruga Works,Madruga Works,Indie,,2.0,1,0,0,0,0,0,0,0,0,87,13410,74,7.4
+500,THE TALOS PRINCIPLE,2014,149.95,Croteam,"Devolver Digital, Croteam",Action,Croteam,5.0,1,0,0,0,1,0,0,0,0,95,22593,85,8.6
+501,A SHORT HIKE,2019,29.5,adamgryu,adamgryu,Adventure,,0.4,1,0,0,0,1,0,0,0,0,99,8841,82,8.6
+502,MARTHA IS DEAD,2022,110.95,LKA,Wired Productions,Adventure,Wired Productions,30.0,1,0,0,0,1,0,0,0,0,79,1120,74,7.0
+503,RESIDENT EVIL,2015,96.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action,Resident Evil,20.0,1,0,0,0,1,0,0,0,0,92,12448,82,9.6
+504,CALL OF THE SEA,2020,73.95,Out of the Blue Games,Raw Fury,Adventure,Call of the Sea,15.0,1,0,0,0,1,0,0,0,0,90,2018,78,7.7
+505,PLANTS VS. ZOMBIES: BATTLE FOR NEIGHBORVILLE,2020,169.0,PopCap,Electronic Arts,Action,Plants vs. Zombies,15.0,1,0,0,1,1,0,0,0,0,73,6821,77,4.6
+506,MY HERO ONE'S JUSTICE 2,2020,199.0,BYKING,BANDAI NAMCO Entertainment,Action,,12.0,1,0,0,1,1,0,1,0,1,89,1915,68,6.2
+507,RED SOLSTICE 2: SURVIVORS,2021,126.0,Ironward,505 Games,RPG,"The Red Solstice, 505 Games Official",10.0,1,1,0,0,0,0,0,0,0,71,2159,64,5.7
+508,MOVE OR DIE,2016,55.95,Those Awesome Guys,Those Awesome Guys,Action,Those Awesome Guys,0.7,1,1,1,1,1,0,0,0,1,90,14803,80,7.7
+509,VANQUISH,2017,82.95,"PlatinumGames, Little Stone Software",SEGA,Action,,20.0,1,0,0,0,1,0,0,0,0,88,4845,78,9.1
+510,THE LAST CAMPFIRE,2021,55.95,Hello Games,Hello Games,Adventure,,3.0,1,0,0,0,1,0,0,0,0,97,1954,80,8.5
+511,ION FURY,2019,92.95,"Voidpoint, LLC",3D Realms,Action,Bombshell,0.1,1,0,0,0,1,0,0,0,0,94,4194,79,7.0
+512,MY FRIEND PEDRO,2019,73.95,DeadToast Entertainment,Devolver Digital,Action,,4.0,1,0,0,0,1,0,0,0,0,96,20975,81,7.9
+513,THE DUNGEON OF NAHEULBEUK: THE AMULET OF CHAOS,2020,131.95,Artefacts Studio,"Dear Villagers, E-Home Entertainment",Action,Dear Villagers,8.0,1,0,0,0,1,0,0,0,0,89,4879,72,8.0
+514,WIZARD OF LEGEND,2018,58.95,Contingent99,"Contingent99, Humble Games",Action,Humble Games,1.0,1,0,0,0,1,0,0,0,0,91,13199,79,7.9
+515,DEUS EX: MANKIND DIVIDED,2016,114.95,"Eidos Montreal, Feral Interactive (Linux), Feral Interactive (Mac)","Square Enix, Feral Interactive (Linux), Feral Interactive (Mac)",Action,Deus Ex,45.0,1,0,0,0,1,0,0,0,0,75,26134,83,6.9
+516,BEFORE YOUR EYES,2021,36.95,GoodbyeWorld Games,Skybound Games,Adventure,,5.0,1,0,0,0,0,0,0,0,0,97,7314,77,8.7
+517,THE SURGE 2,2019,109.0,Deck13,Focus Entertainment,Action,Focus Entertainment,20.0,1,0,0,0,1,0,0,0,0,78,4648,76,6.2
+518,ROGUEBOOK,2021,92.95,Abrakam Entertainment SA,Nacon,Adventure,"Nacon, Faeria",4.0,1,0,0,0,1,0,0,0,0,84,1918,78,5.7
+519,THE LEGEND OF HEROES: TRAILS IN THE SKY THE 3RD,2017,110.95,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",RPG,Trails in the Sky,5.0,1,0,0,0,0,1,0,0,0,94,1090,83,8.1
+520,DARKWOOD,2017,44.99,Acid Wizard Studio,Acid Wizard Studio,Action,,6.0,1,0,0,0,1,0,0,0,0,94,11428,80,8.3
+521,MANIFOLD GARDEN,2020,73.95,William Chyr Studio,William Chyr Studio,Adventure,,3.0,1,0,0,0,1,0,0,0,0,96,3048,85,7.4
+522,LOST IN RANDOM,2021,129.0,"Zoink, Thunderful",Electronic Arts,Action,EA Originals,20.0,1,0,0,0,1,0,0,0,0,91,1037,78,7.0
+523,NEED FOR SPEED PAYBACK,2020,159.0,Ghost Games,Electronic Arts,Action,,30.0,1,1,0,1,0,0,0,0,0,88,7880,62,3.9
+524,POSTAL 4: NO REGERTS,2022,149.95,Running With Scissors,Running With Scissors,Action,POSTAL,35.0,1,0,0,0,1,0,0,0,0,78,6625,30,5.3
+525,JOB SIMULATOR,2016,73.95,Owlchemy Labs,Owlchemy Labs,Simulation,,1.0,1,0,0,0,0,0,0,0,0,90,2709,68,7.8
+526,BUG FABLES: THE EVERLASTING SAPLING,2019,73.95,Moonsprout Games,DANGEN Entertainment,Action,DANGEN Entertainment,0.3,1,0,0,0,1,0,0,0,0,98,2974,86,7.6
+527,TRANSISTOR,2014,73.95,Supergiant Games,Supergiant Games,Action,Supergiant Games,3.0,1,0,0,0,1,0,0,0,0,94,25402,83,8.4
+528,LITTLE MISFORTUNE,2019,73.95,Killmonday Games AB,Killmonday Games AB,Adventure,,8.0,1,0,0,0,0,1,0,0,0,89,4321,57,8.0
+529,THE LEGEND OF HEROES: TRAILS OF COLD STEEL II,2018,149.95,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",RPG,Trails in the Sky,19.0,1,0,0,0,0,1,0,0,0,94,1981,81,8.5
+530,GRIME,2021,82.0,Clover Bite,Akupara Games,Action,Akupara Games,10.0,1,0,0,0,1,0,0,0,0,85,2384,81,8.0
+531,QUANTUM BREAK,2016,149.95,Remedy Entertainment,Xbox Game Studios,Action,,68.0,1,0,0,0,1,0,0,0,0,86,16590,66,5.7
+532,THE LEGEND OF HEROES: TRAILS IN THE SKY,2014,73.95,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",RPG,Trails in the Sky,3.0,1,0,0,0,0,1,0,0,0,92,5718,85,8.5
+533,HAND OF FATE 2,2017,110.95,Defiant Development,Defiant Development,Action,,4.0,1,0,0,0,1,0,0,0,0,85,4572,80,7.6
+534,THE PATHLESS,2021,149.95,Giant Squid,Annapurna Interactive,Action,Annapurna Interactive,15.0,1,0,0,0,1,0,0,0,0,91,504,81,7.7
+535,REDOUT 2,2022,119.0,34BigThings srl,Saber Interactive,Action,Redout,25.0,1,0,0,1,1,0,0,0,0,75,314,80,8.6
+536,RUNNING WITH RIFLES,2015,55.95,Osumia Games,Osumia Games,Action,,2.0,1,1,1,1,0,1,0,0,0,88,11294,78,7.3
+537,PYRE,2017,73.95,Supergiant Games,Supergiant Games,Action,Supergiant Games,9.0,1,0,0,0,1,0,0,0,1,90,6968,82,8.0
+538,DARKSIDERS III,2018,224.95,Gunfire Games,THQ Nordic,Action,Darksiders,25.0,1,0,0,0,1,0,0,0,0,75,8451,70,7.1
+539,112 OPERATOR,2020,92.95,Jutsu Games,Games Operators,Indie,Games Operators,4.0,1,0,0,0,0,0,0,0,0,87,3031,73,7.4
+540,RISING STORM 2: VIETNAM,2017,92.95,"Antimatter Games, Tripwire Interactive",Tripwire Interactive,Action,Tripwire Interactive,60.0,0,0,0,1,0,0,1,0,0,87,34711,81,7.4
+541,WARFACE,2014,0.0,MY.GAMES,MY.GAMES,Action,,30.0,0,1,0,1,0,0,1,1,0,67,77579,62,4.2
+542,COMPANY OF HEROES,2009,73.95,Relic Entertainment,SEGA,Action,Company of Heroes,1.0,1,0,0,0,0,0,0,0,0,94,7814,93,8.7
+543,DESCENDERS,2019,92.95,RageSquid,No More Robots,Action,No More Robots,9.0,1,0,0,1,1,0,0,0,0,95,9193,78,6.5
+544,NORCO,2022,55.95,Geography of Robots,Raw Fury,Adventure,NORCO,4.0,1,0,0,0,0,0,0,0,0,96,485,88,7.2
+545,LOVERS IN A DANGEROUS SPACETIME,2015,55.95,Asteroid Base,Asteroid Base,Action,,0.9,1,0,0,0,1,0,0,0,0,93,2641,80,7.7
+546,TRINE 4: THE NIGHTMARE PRINCE,2019,110.95,Frozenbyte,Modus Games,Action,Trine,16.0,1,1,0,0,1,0,0,0,0,90,7906,81,8.0
+547,THE PEDESTRIAN,2020,73.95,Skookum Arts,Skookum Arts,Adventure,,4.0,1,0,0,0,1,0,0,0,0,97,2715,81,7.5
+548,CARTO,2020,73.95,Sunhead Games,"Humble Games, XD",Adventure,"Humble Games, X.D. Network Inc.",2.0,1,0,0,0,1,0,0,0,0,97,3463,72,8.3
+549,NEED FOR SPEED,2020,169.0,Ghost Games,Electronic Arts,Action,Need for Speed,30.0,1,1,0,1,1,0,0,0,0,72,9577,68,5.4
+550,PREDATOR: HUNTING GROUNDS,2021,192.0,IllFonic,PlayStation PC LLC,Action,PlayStation Studios,25.0,0,0,0,1,0,1,0,0,0,79,1373,62,5.0
+551,PIT PEOPLE,2018,73.95,The Behemoth,The Behemoth,Action,The Behemoth,3.0,1,1,0,0,1,0,0,0,0,93,6662,78,8.3
+552,WORLD OF FINAL FANTASY,2017,93.0,Square Enix,Square Enix,RPG,FINAL FANTASY,15.0,1,0,0,0,1,0,0,0,0,82,2216,77,7.7
+553,CRYSIS 3,2020,169.0,Crytek,Electronic Arts,Action,,17.0,1,0,0,1,1,0,0,0,0,86,3856,76,6.7
+554,THRONEBREAKER: THE WITCHER TALES,2018,73.95,CD PROJEKT RED,CD PROJEKT RED,Adventure,,8.0,1,0,0,0,1,0,0,0,0,90,11789,85,7.9
+555,BEHIND THE FRAME: THE FINEST SCENERY,2021,47.95,Silver Lining Studio,"Akupara Games, Akatsuki Taiwan Inc.",Adventure,Akupara Games,2.0,1,0,0,0,1,0,0,0,0,96,2731,73,7.8
+556,BALDUR'S GATE II: ENHANCED EDITION,2013,73.95,Beamdog,Beamdog,Adventure,,4.0,1,0,0,0,0,0,0,0,0,91,6328,78,7.5
+557,STRANGE BRIGADE,2018,189.95,Rebellion,Rebellion,Action,,35.0,1,1,0,0,1,0,0,0,0,85,3624,68,6.6
+558,SHADOW WARRIOR 2,2016,149.95,Flying Wild Hog,Devolver Digital,Action,Shadow Warrior,14.0,1,1,0,0,1,0,0,0,0,87,18361,78,8.0
+559,UNDERRAIL,2015,55.95,Stygian Software,Stygian Software,Indie,,5.0,1,0,0,0,0,0,0,0,0,87,4001,72,7.8
+560,TURMOIL,2016,36.95,Gamious,Gamious,Indie,,0.15,1,0,0,0,0,0,0,0,0,92,8200,73,7.9
+561,OTHERCIDE,2020,109.0,Lightbulb Crew,Focus Entertainment,Indie,Focus Entertainment,6.0,1,0,0,0,1,0,0,0,0,83,2918,78,6.7
+562,TALES OF ZESTIRIA,2015,177.0,BANDAI NAMCO Studio Inc.,BANDAI NAMCO Entertainment,RPG,,12.0,1,0,0,0,1,0,0,0,0,82,6258,77,7.4
+563,MONSTER SANCTUARY,2020,73.95,moi rai games,Team17,Action,Team17,1.0,1,0,0,1,1,0,0,0,0,92,5192,80,8.3
+564,MOONLIGHTER,2018,73.95,Digital Sun,11 bit studios,Action,11 bit studios,4.0,1,0,0,0,1,0,0,0,0,83,9891,74,7.3
+565,CURIOUS EXPEDITION 2,2021,73.95,Maschinen-Mensch,Thunderful Publishing,Adventure,Curious Expedition,3.0,1,0,0,0,1,0,0,0,0,89,2411,76,5.9
+566,SNIPER GHOST WARRIOR CONTRACTS,2019,110.95,Underdog Studio,CI Games,Action,Sniper Ghost Warrior,20.0,1,0,0,1,0,1,0,0,0,74,7513,71,6.7
+567,NEVERWINTER,2013,0.0,Cryptic Studios,Gearbox Publishing,Action,,21.0,1,1,0,1,0,0,1,1,0,77,34624,74,5.3
+568,BLACK BOOK,2021,92.95,Morteshka,HypeTrain Digital,Adventure,HypeTrain Digital,5.0,1,0,0,0,1,0,0,0,0,94,3133,75,8.4
+569,CRYPT OF THE NECRODANCER,2015,55.95,Brace Yourself Games,"Brace Yourself Games, Klei Entertainment",Action,Brace Yourself Games,1.6,1,0,0,0,1,0,0,0,0,96,19034,87,7.8
+570,INFERNAX,2022,73.95,Berzerk Studio,The Arcade Crew,Action,The Arcade Crew,0.5,1,0,0,0,1,0,0,0,0,92,779,84,7.5
+571,ZOMBIE ARMY TRILOGY,2015,169.95,Rebellion,Rebellion,Action,,15.0,1,0,0,0,1,0,0,0,0,87,11576,72,7.1
+572,CLONE DRONE IN THE DANGER ZONE,2021,73.95,Doborog Games,Doborog Games,Action,,1.0,1,1,0,1,1,0,0,0,0,97,16870,82,8.0
+573,XCOM: CHIMERA SQUAD,2020,80.0,Firaxis Games,2K,Strategy,XCOM,18.0,1,0,0,0,0,0,0,0,0,72,17612,77,4.7
+574,TURNIP BOY COMMITS TAX EVASION,2021,55.95,Snoozy Kazoo,Graffiti Games,Action,Graffiti Games,0.6,1,0,0,0,1,0,0,0,0,94,4104,72,6.6
+575,MOTORSPORT MANAGER,2016,80.0,Playsport Games,SEGA,Racing,,16.0,1,0,0,0,0,0,0,0,0,91,9195,81,8.2
+576,MONARK,2022,224.95,FURYU Corporation,"NIS America, Inc.",RPG,,18.0,1,0,0,0,0,1,0,0,0,86,98,73,4.6
+577,MIRROR'S EDGE CATALYST,2020,109.0,DICE,Electronic Arts,Action,,25.0,1,0,0,0,1,0,0,0,0,83,7298,74,5.4
+578,MUTANT YEAR ZERO: ROAD TO EDEN,2018,129.95,The Bearded Ladies,Funcom,RPG,Funcom,8.0,1,0,0,0,1,0,0,0,0,90,11148,78,7.8
+579,GAMEDEC,2021,119.0,Anshar Studios,Anshar Publishing,Adventure,,17.0,1,0,0,0,1,0,0,0,0,81,572,72,6.5
+580,SUNSET OVERDRIVE,2018,73.0,"Insomniac Games, Blind Squirrel Games",Xbox Game Studios,Action,,30.0,1,0,0,0,1,0,0,0,0,90,7179,83,7.4
+581,WE WERE HERE TOO,2018,36.95,Total Mayhem Games,Total Mayhem Games,Adventure,We Were Here Series,5.0,0,1,0,0,0,1,0,0,0,80,4427,69,6.9
+582,HOMEWORLD: DESERTS OF KHARAK,2016,189.95,Blackbird Interactive,Gearbox Publishing,Strategy,Homeworld,8.0,1,0,0,0,0,0,0,0,0,82,5663,79,8.0
+583,LAKE,2021,73.95,Gamious,"Whitethorn Games, Gamious",Adventure,,2.0,1,0,0,0,1,0,0,0,0,85,1428,70,6.5
+584,PORTAL KNIGHTS,2017,73.95,Keen Games,505 Games,Action,505 Games Official,8.0,1,0,0,0,0,1,0,0,0,83,14948,72,7.5
+585,FRAN BOW,2015,55.95,Killmonday Games AB,Killmonday Games AB,Adventure,,0.6,1,0,0,0,0,0,0,0,0,97,9867,70,8.3
+586,CASTLEVANIA: LORDS OF SHADOW 2,2014,131.95,MercurySteam,Konami Digital Entertainment,Action,Castlevania,10.0,1,0,0,0,1,0,0,0,0,83,3067,58,7.7
+587,PARTISANS 1941,2020,109.95,Alter Games,Daedalic Entertainment,Indie,Daedalic Entertainment,10.0,1,0,0,0,0,0,0,0,0,84,4733,74,7.3
+588,EXO ONE,2021,62.95,Exbleative,"Future Friends Games, Exbleative",Adventure,Future Friends Games,5.0,1,0,0,0,1,0,0,0,0,91,2781,81,6.8
+589,DARK SOULS II: SCHOLAR OF THE FIRST SIN,2015,142.0,"FromSoftware, Inc","Bandai Namco Entertainment, FromSoftware, Inc",Action,Bandai Namco Entertainment,23.0,1,0,0,0,1,0,0,0,0,85,53876,79,7.5
+590,SUDDEN STRIKE 4,2017,73.95,Kite Games,Kalypso Media,Strategy,Sudden Strike,12.0,1,0,0,1,1,0,0,0,0,76,4971,70,7.6
+591,OLLIOLLI WORLD,2022,119.0,Roll7,Private Division,Action,OlliOlli,6.0,1,0,0,0,1,0,0,0,0,94,412,87,6.9
+592,DUNGEONS 3,2017,110.95,Realmforge Studios,Kalypso Media,Simulation,Dungeons,5.0,1,0,0,0,1,0,0,0,0,94,11278,75,7.7
+593,THE LIFE AND SUFFERING OF SIR BRANTE,2021,73.95,Sever,101XP,Adventure,101XP,3.0,1,0,0,0,0,0,0,0,0,92,3666,82,8.4
+594,AGE OF MYTHOLOGY: EXTENDED EDITION,2014,110.95,"SkyBox Labs, Ensemble Studios",Xbox Game Studios,Simulation,Age of Empires,3.0,1,0,0,0,0,0,0,0,0,91,22116,66,7.5
+595,UNSIGHTED,2021,73.95,Studio Pixel Punk,Humble Games,Action,Humble Games,1.5,1,0,0,0,1,0,0,0,0,94,731,84,7.8
+596,CALL OF CTHULHU,2018,69.0,Cyanide Studio,Focus Entertainment,Adventure,,13.0,1,0,0,0,1,0,0,0,0,78,6726,67,6.7
+597,SAGA FRONTIER REMASTERED,2021,84.99,"Square Enix, Bullets",Square Enix,RPG,SaGa Series,5.0,1,0,0,0,1,0,0,0,0,92,381,77,6.0
+598,DISTANT WORLDS 2,2022,189.95,CodeForce,Slitherine Ltd.,Simulation,Distant Worlds,20.0,1,0,0,0,0,0,0,0,0,66,1560,77,7.3
+599,SUPERHOT,2016,92.95,SUPERHOT Team,SUPERHOT Team,Action,SUPERHOT Team,4.0,1,0,0,0,1,0,0,0,0,90,20039,82,7.6
+600,TAUR,2020,92.95,Echo Entertainment,Echo Entertainment,Action,,3.0,1,0,0,0,0,0,0,0,0,79,1243,70,9.0
+601,HUMAN RESOURCE MACHINE,2015,55.95,Tomorrow Corporation,Tomorrow Corporation,Casual,,0.2,1,0,0,0,0,0,0,0,0,94,2385,78,8.0
+602,MINI METRO,2015,36.95,Dinosaur Polo Club,Dinosaur Polo Club,Indie,,0.35,1,0,0,0,0,0,0,0,0,96,9077,77,7.7
+603,ELEX,2017,110.95,Piranha Bytes,THQ Nordic,Action,ELEX,35.0,1,0,0,0,1,0,0,0,0,72,10724,67,7.0
+604,SAINTS ROW IV,2013,55.95,Deep Silver Volition,Deep Silver,Action,Saints Row,10.0,1,0,0,0,1,0,0,0,0,90,53830,86,7.4
+605,FUGA: MELODIES OF STEEL,2021,149.95,CyberConnect2,CyberConnect2,RPG,,3.0,1,0,0,0,0,1,0,0,0,91,548,84,8.4
+606,INMOST,2020,55.95,Hidden Layer Games,Chucklefish,Adventure,,2.0,1,0,0,0,1,0,0,0,0,91,2753,76,8.3
+607,FINDING PARADISE,2017,36.95,Freebird Games,Freebird Games,Adventure,To the Moon Series,0.5,1,0,0,0,0,0,0,0,0,98,12099,81,8.5
+608,HUNTDOWN,2021,73.95,Easy Trigger Games,Coffee Stain Publishing,Action,,2.0,1,0,0,0,1,0,0,0,0,95,1551,85,7.7
+609,SAMURAI JACK: BATTLE THROUGH TIME,2020,149.95,Soleil Ltd.,Adult Swim Games,Action,Samurai Jack,10.0,1,0,0,0,1,0,0,0,0,86,953,76,7.9
+610,EASTERN EXORCIST,2021,66.95,Wildfire Game（无锡野火数字科技有限公司）,bilibili,Action,,8.0,1,0,0,0,1,0,0,0,0,85,5352,73,7.0
+611,STAR RENEGADES,2020,92.95,"Massive Damage, Inc.",Raw Fury,Action,Star Renegades,5.0,1,0,0,0,1,0,0,0,0,84,1795,77,6.2
+612,ART OF RALLY,2020,92.95,Funselektor Labs Inc.,Funselektor Labs Inc.,Action,,6.0,1,0,0,0,1,0,0,0,0,94,3104,79,6.7
+613,INDUSTRIA,2021,73.95,Bleakmill,Headup,Action,Headup,15.0,1,0,0,0,0,1,0,0,0,75,872,67,6.7
+614,UNMETAL,2021,67.0,@unepic_fran,Versus Evil,Action,"Versus Evil, @unepic_fran",0.4,1,0,0,0,1,0,0,0,0,94,986,82,8.2
+615,AMNESIA: REBIRTH,2020,110.95,Frictional Games,Frictional Games,Adventure,Amnesia,35.0,1,0,0,0,1,0,0,0,0,77,5561,80,6.3
+616,WASTELAND 2: DIRECTOR'S CUT,2014,110.95,inXile Entertainment,inXile Entertainment,Adventure,,30.0,1,0,0,0,0,1,0,0,0,82,4546,87,7.5
+617,SPLITGATE,2019,0.0,1047 Games,1047 Games,Action,,15.0,1,0,0,1,1,0,1,0,0,91,102375,71,7.3
+618,TROVER SAVES THE UNIVERSE,2019,110.95,"Squanch Games, Inc.","Squanch Games, Inc.",Action,,25.0,1,0,0,0,1,0,0,0,0,92,2448,80,7.9
+619,THE BEAST INSIDE,2019,92.95,Illusion Ray,Illusion Ray,Action,,40.0,1,0,0,0,1,0,0,0,0,84,4934,74,7.5
+620,LEGO MARVEL'S AVENGERS,2016,73.95,"Traveller's Tales, TT Games, Feral Interactive (Mac)","Warner Bros. Interactive Entertainment, Feral Interactive (Mac)",Action,,14.0,1,0,0,0,1,0,0,0,0,87,3741,64,7.2
+621,CREAKS,2020,74.99,Amanita Design,Amanita Design,Adventure,,5.0,1,0,0,0,1,0,0,0,0,94,2089,82,8.2
+622,SHADOW TACTICS: BLADES OF THE SHOGUN,2016,149.95,Mimimi Games,Daedalic Entertainment,Indie,Daedalic Entertainment,13.0,1,0,0,0,1,0,0,0,0,96,25335,85,8.5
+623,TAINTED GRAIL: CONQUEST,2021,73.95,Awaken Realms Digital,Awaken Realms,Action,Tainted Grail,8.0,1,0,0,0,1,0,0,0,0,91,5206,82,7.2
+624,RATROPOLIS,2020,66.95,Cassel Games,Cassel Games,Casual,,2.0,1,0,0,0,0,1,0,0,0,88,4245,82,6.0
+625,BUDGET CUTS 2: MISSION INSOLVENCY,2019,110.95,"Neat Corporation, Fast Travel Games",Neat Corporation,Action,Budget Cuts,6.0,1,0,0,0,0,0,0,0,0,82,342,74,7.3
+626,FAR: LONE SAILS,2018,55.95,Okomotive,Mixtvision,Action,FAR Universe,3.0,1,0,0,0,1,0,0,0,0,94,10063,80,7.9
+627,BABA IS YOU,2019,55.95,Hempuli Oy,Hempuli Oy,Indie,,0.2,1,0,0,0,1,0,0,0,0,98,13815,87,8.3
+628,TALISMAN: DIGITAL EDITION,2014,25.95,Nomad Games,Nomad Games,Indie,Warhammer,0.6,1,0,0,1,1,0,0,0,1,80,4342,51,6.1
+629,WEST OF LOATHING,2017,40.95,Asymmetric,Asymmetric,Adventure,,4.0,1,0,0,0,1,0,0,0,0,97,6855,87,7.6
+630,F1 2021,2021,249.0,Codemasters,Electronic Arts,Racing,EA Sports,80.0,1,0,0,1,1,0,1,0,0,86,24721,86,3.5
+631,KAO THE KANGAROO,2022,104.99,Tate Multimedia,Tate Multimedia,Action,Tate Multimedia,9.0,1,0,0,0,1,0,0,0,0,82,249,69,6.8
+632,DEATH'S GAMBIT: AFTERLIFE,2018,73.95,White Rabbit,Serenity Forge,Action,Death's Gambit,1.0,1,0,0,0,1,0,0,0,0,81,3188,81,8.7
+633,ASHEN,2019,149.95,A44,Annapurna Interactive,Action,Annapurna Interactive,15.0,1,1,0,0,1,0,0,0,0,70,2221,81,6.0
+634,RISK OF RAIN,2013,36.95,Hopoo Games,Chucklefish,Action,,0.13,1,0,0,0,0,1,0,0,0,93,19525,77,8.1
+635,GHOSTBUSTERS: THE VIDEO GAME REMASTERED,2020,92.95,Saber Interactive,"Mad Dog Games, LLC",Action,Ghostbusters,24.0,1,0,0,0,1,0,0,0,0,94,625,67,4.1
+636,DREAMSCAPER,2021,92.95,Afterburner Studios,"Freedom Games, Maple Whispering Limited",Action,Freedom Games,6.0,1,0,0,0,1,0,0,0,0,90,1907,80,8.1
+637,THE LEGEND OF TIANDING,2021,73.95,Creative Games Computer Graphics Corporation, Neon Doctrine,Action,Neon Doctrine,2.0,1,0,0,0,1,0,0,0,0,96,1665,80,8.4
+638,PROJECT HIGHRISE,2016,73.95,SomaSim,Kasedo Games,Simulation,"SomaSim, Kasedo Games",0.5,1,0,0,0,0,0,0,0,0,84,2978,73,7.9
+639,GRIM FANDANGO REMASTERED,2015,55.95,Double Fine Productions,Double Fine Productions,Adventure,,6.0,1,0,0,0,1,0,0,0,0,90,5050,84,8.1
+640,ANNO 2205,2015,159.0,Blue Byte,Ubisoft,Simulation,,35.0,1,0,0,0,0,0,0,0,0,69,4845,72,6.1
+641,VOID BASTARDS,2019,110.95,Blue Manchu,Humble Games,Action,Humble Games,6.0,1,0,0,0,1,0,0,0,0,87,3241,81,7.5
+642,RAYMAN LEGENDS,2013,79.0,None,Ubisoft,Action,,6.0,1,0,0,0,0,0,0,0,0,90,5232,89,8.5
+643,BOYFRIEND DUNGEON,2021,73.95,Kitfox Games,Kitfox Games,Indie,Kitfox Games,3.0,1,0,0,0,1,0,0,0,0,90,1182,70,5.5
+644,PARADISE KILLER,2020,73.95,Kaizen Game Works,"Fellow Traveller, Leoful",Adventure,Fellow Traveller,6.0,1,0,0,0,1,0,0,0,0,94,1871,81,7.6
+645,TIMESPINNER,2018,73.95,Lunar Ray Games,Chucklefish,Action,,0.4,1,0,0,0,1,0,0,0,0,86,1792,73,6.2
+646,ABZU,2016,73.95,Giant Squid,505 Games,Action,505 Games Official,6.0,1,0,0,0,1,0,0,0,0,93,17615,83,7.2
+647,VACATION SIMULATOR,2019,110.95,Owlchemy Labs,Owlchemy Labs,Action,,4.0,1,0,0,0,0,0,0,0,0,92,679,77,6.1
+648,STEEL DIVISION: NORMANDY 44,2017,140.76,Eugen Systems,Paradox Interactive,Action,,32.0,1,1,0,1,0,0,0,0,0,73,4375,83,7.7
+649,ACTRAISER RENAISSANCE,2021,100.0,"Square Enix, Sonic Powered",Square Enix,Action,,5.0,1,0,0,0,0,1,0,0,0,78,416,77,7.0
+650,THE BANNER SAGA 3,2018,147.91,Stoic,Stoic Studio,Indie,,8.0,1,0,0,0,1,0,0,0,0,81,1904,82,8.1
+651,NEBUCHADNEZZAR,2021,73.95,Nepos Games,Nepos Games,Indie,,2.0,1,0,0,0,0,0,0,0,0,80,929,73,6.8
+652,VALKYRIA CHRONICLES,2014,73.95,SEGA,SEGA,Action,,25.0,1,0,0,0,1,0,0,0,0,90,9504,85,8.2
+653,CIRCUIT SUPERSTARS,2021,64.99,Original Fire Games,Square Enix,Action,,4.0,1,0,0,1,1,0,0,0,1,88,1218,82,8.8
+654,TOTALLY RELIABLE DELIVERY SERVICE,2021,55.95,We're Five Games,tinyBuild,Action,tinyBuild,4.0,1,1,0,0,1,0,0,0,0,78,373,64,4.8
+655,LAWN MOWING SIMULATOR,2021,80.99,Skyhook Games,Curve Games,Simulation,Curve Games,20.0,1,0,0,0,1,0,0,0,0,77,1128,69,5.1
+656,LEGO JURASSIC WORLD,2015,73.95,TT Games Ltd,Warner Bros. Interactive Entertainment,Action,,10.0,1,0,0,0,1,0,0,0,0,90,4222,72,7.5
+657,KILLER7,2018,73.95,"GRASSHOPPER MANUFACTURE INC., Engine Software BV","NIS America, Inc.",Action,killer7,3.0,1,0,0,0,0,1,0,0,0,96,1614,78,8.9
+658,LEGO CITY UNDERCOVER,2017,149.95,Traveller's Tales,TT Games,Action,,18.0,1,0,0,0,1,0,0,0,0,87,3548,80,8.4
+659,PARKASAURUS,2020,92.95,Washbear Studio,Washbear Studio,Simulation,Parkasaurus,3.0,1,0,0,0,0,0,0,0,0,94,2096,70,8.7
+660,SPELLFORCE 3: SOUL HARVEST,2019,79.0,Grimlore Games,THQ Nordic,RPG,SpellForce,51.0,1,1,1,1,1,0,0,0,0,85,1662,80,8.5
+661,ARAGAMI 2,2021,131.95,Lince Works,Lince Works,Action,Aragami,11.0,1,1,0,0,1,0,0,0,0,73,1739,65,5.3
+662,LOOT RIVER,2022,79.99,straka.studio,"straka.studio, SUPERHOT PRESENTS",Action,,3.0,1,0,0,0,1,0,0,0,0,74,189,72,4.2
+663,CLUSTERTRUCK,2016,55.95,Landfall,tinyBuild,Action,"landfall, tinyBuild",0.5,1,0,0,0,1,0,0,0,0,93,9155,76,6.9
+664,DARK DEITY,2021,92.95,Sword & Axe LLC,Freedom Games,Adventure,Freedom Games,5.0,1,0,0,0,1,0,0,0,0,75,1565,80,5.8
+665,ATOMICROPS,2020,55.95,Bird Bath Games,Raw Fury,Action,,1.0,1,0,0,0,1,0,0,0,0,94,2172,78,7.8
+666,GUILTY GEAR XX ACCENT CORE PLUS R,2015,55.95,Arc System Works,Arc System Works,Action,,3.0,1,0,0,1,1,0,0,0,1,96,3433,75,8.1
+667,SPIRIT OF THE NORTH,2020,73.95,Infuse Studio,Merge Games,Adventure,Merge Games,4.0,1,0,0,0,1,0,0,0,0,88,1940,58,8.0
+668,ANCESTORS LEGACY,2018,131.95,Destructive Creations,1C Entertainment,Strategy,1C,24.0,1,1,0,1,1,0,0,0,0,80,4198,77,7.3
+669,COSSACKS 3,2016,73.95,GSC Game World,GSC Game World,Action,Cossacks,6.0,1,1,0,1,0,0,0,0,0,79,7870,63,6.4
+670,ICEWIND DALE: ENHANCED EDITION,2014,73.95,Beamdog,Beamdog,Adventure,,4.0,1,0,0,0,0,0,0,0,0,90,2049,80,7.4
+671,DAY OF THE TENTACLE REMASTERED,2016,55.95,Double Fine Productions,Double Fine Productions,Adventure,,3.0,1,0,0,0,1,0,0,0,0,97,2664,86,7.9
+672,RISE OF NATIONS: EXTENDED EDITION,2014,73.95,"SkyBox Labs, Big Huge Games",Xbox Game Studios,Simulation,,3.0,1,0,0,0,0,0,0,0,0,94,9394,89,7.6
+673,MEGAQUARIUM,2018,92.95,Twice Circled,Twice Circled,Indie,,1.0,1,0,0,0,0,0,0,0,0,94,2166,69,7.8
+674,MAGICKA 2,2015,52.76,Pieces Interactive,Paradox Interactive,Action,Magicka,3.0,1,0,0,0,1,0,0,0,0,81,7220,69,6.2
+675,SUZERAIN,2020,55.95,Torpor Games,Fellow Traveller,Adventure,Fellow Traveller,2.0,1,0,0,0,0,0,0,0,0,93,3665,81,8.0
+676,GHOST OF A TALE,2018,92.95,SeithCG,SeithCG,Action,,5.0,1,0,0,0,1,0,0,0,0,91,3253,75,8.3
+677,RISE OF INDUSTRY,2019,110.95,Dapper Penguin Studios,Kasedo Games,Indie,Kasedo Games,1.0,1,0,0,0,0,0,0,0,0,77,2726,62,7.8
+678,HOMEWORLD REMASTERED COLLECTION,2015,131.95,Gearbox Software,Gearbox Publishing,Simulation,Homeworld,20.0,1,0,0,0,0,0,0,0,0,88,9083,86,8.1
+679,DRUG DEALER SIMULATOR,2020,73.95,Byterunners Game Studio,"Movie Games S.A., PlayWay S.A.",Action,Movie Games S.A.,15.0,1,0,0,0,0,0,0,0,0,86,11172,59,6.5
+680,SYNTH RIDERS,2019,92.95,Kluge Interactive,Kluge Interactive,Action,,3.0,1,0,0,1,0,0,1,0,0,94,924,83,8.2
+681,AETERNA NOCTIS,2021,110.95,Aeternum Game Studios S.L,Aeternum Game Studios S.L,Action,Aeterna,20.0,1,0,0,0,1,0,0,0,0,81,485,72,8.6
+682,THIMBLEWEED PARK,2017,73.95,Terrible Toybox,Terrible Toybox,Adventure,Thimbleweed Park™,1.0,1,0,0,0,1,0,0,0,0,93,2766,84,8.1
+683,DEATH ROAD TO CANADA,2016,55.95,"Rocketcat Games, Madgarden",Rocketcat Games,Action,,0.06,1,0,0,0,1,0,0,0,1,93,5447,73,7.8
+684,EVERSPACE,2017,110.95,ROCKFISH Games,ROCKFISH Games,Action,EVERSPACE™,12.0,1,0,0,0,1,0,0,0,0,78,8411,79,7.7
+685,THE GUNK,2022,92.95,Image & Form Games,Thunderful Publishing,Action,Thunderful Publishing,11.0,1,0,0,0,1,0,0,0,0,86,144,67,4.6
+686,INSURMOUNTABLE,2021,79.95,ByteRockers' Games,Daedalic Entertainment,Adventure,Daedalic Entertainment,4.0,1,0,0,0,0,0,0,0,0,86,418,74,5.8
+687,SIMULACRA 2,2020,29.5,Kaigan Games,Neon Doctrine,Indie,Neon Doctrine,16.0,1,0,0,0,0,0,0,0,0,88,942,69,7.5
+688,LEGO MARVEL SUPER HEROES,2013,73.95,Traveller's Tales,Warner Bros. Interactive Entertainment,Action,,7.0,1,0,0,0,1,0,0,0,0,93,12357,78,8.1
+689,THE RED STRINGS CLUB,2018,55.95,Deconstructeam,Devolver Digital,Adventure,Deconstructeam,0.4,1,0,0,0,0,0,0,0,0,94,7674,80,7.5
+690,VIGIL: THE LONGEST NIGHT,2020,81.95,Glass Heart Games,Neon Doctrine,Action,Neon Doctrine,5.0,1,0,0,0,1,0,0,0,0,87,2339,75,7.7
+691,IRATUS: LORD OF THE DEAD,2020,99.95,Unfrozen,Daedalic Entertainment,Indie,"Daedalic Entertainment, Iratus: Lord of the Dead",3.5,1,0,0,0,0,0,0,0,0,85,5199,78,7.5
+692,YS: MEMORIES OF CELCETA,2018,92.95,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",Action,Ys,3.0,1,0,0,0,0,1,0,0,0,94,521,74,7.6
+693,ATOM RPG TRUDOGRAD,2021,49.99,AtomTeam,AtomTeam,RPG,,16.0,1,0,0,0,0,0,0,0,0,92,2192,80,7.1
+694,TANGLE TOWER,2019,73.95,SFB Games,SFB Games,Adventure,Detective Grimoire,0.55,1,0,0,0,1,0,0,0,0,94,1804,74,6.0
+695,EDGE OF ETERNITY,2021,110.95,Midgar Studio,"Dear Villagers, Maple Whispering Limited",Action,"Edge Of Eternity, Dear Villagers, Midgar Studio",20.0,1,0,0,0,1,0,0,0,0,77,2674,67,6.9
+696,DONUT COUNTY,2018,47.95,Ben Esposito,Annapurna Interactive,Adventure,Annapurna Interactive,0.5,1,0,0,0,1,0,0,0,0,89,5781,77,7.4
+697,HELLO NEIGHBOR,2017,110.95,Dynamic Pixels,tinyBuild,Adventure,"Hello Neighbor, tinyBuild",5.0,1,0,0,0,1,0,0,0,0,83,6823,38,4.9
+698,WARGROOVE,2019,73.95,Chucklefish,Chucklefish,Indie,"Chucklefish, Wargroove",1.0,1,1,0,1,1,0,0,0,1,85,3444,82,6.0
+699,YONDER: THE CLOUD CATCHER CHRONICLES,2017,92.95,Prideful Sloth,Prideful Sloth,Adventure,,4.0,1,0,0,0,1,0,0,0,0,82,2609,70,6.6
+700,SIEGE SURVIVAL: GLORIA VICTIS,2021,92.95,"Black Eye Games, FishTankStudio",Ravenscourt,Adventure,Gloria Victis,10.0,1,0,0,0,0,0,0,0,0,83,783,69,6.7
+701,BUS SIMULATOR 18,2018,92.95,stillalive studios,astragon Entertainment,Simulation,Bus Simulator,6.5,1,1,0,0,1,0,0,0,0,78,6508,67,6.2
+702,SUPER MEGA BASEBALL 3,2020,169.95,Metalhead Software Inc.,Electronic Arts,Action,EA Sports,16.0,1,1,0,1,1,0,0,0,1,92,1261,80,7.7
+703,METAL WOLF CHAOS XD,2019,92.95,"General Arcade, FromSoftware, Inc",Devolver Digital,Action,,10.0,1,0,0,0,1,0,0,0,0,83,493,65,5.5
+704,ARAGAMI,2016,73.95,Lince Works,Lince Works,Action,,6.0,1,1,0,0,1,0,0,0,0,90,8265,71,7.2
+705,TROPICO 5,2014,73.95,Haemimont Games,Kalypso Media Digital,RPG,Tropico,4.0,1,0,0,0,0,0,0,0,0,78,9096,75,6.9
+706,OFFWORLD TRADING COMPANY,2016,110.95,Mohawk Games,Stardock Entertainment,Indie,Offworld Trading Company,2.0,1,1,0,1,0,1,0,0,0,76,3259,78,7.6
+707,THE MESSENGER,2018,73.95,Sabotage,Devolver Digital,Action,Sabotage,1.2,1,0,0,0,1,0,0,0,0,94,6124,83,7.9
+708,TRIALS OF FIRE,2021,73.95,Whatboy Games,Whatboy Games,Indie,,3.0,1,0,0,0,1,0,0,0,0,88,2402,81,6.9
+709,BEFORE WE LEAVE,2021,73.95,Balancing Monkey Games,Team17,Casual,Team17,2.0,1,0,0,0,0,0,0,0,0,79,838,72,7.1
+710,CULTIST SIMULATOR,2018,73.95,Weather Factory,Weather Factory,Indie,Secret Histories,0.5,1,0,0,0,0,0,0,0,0,81,5846,71,6.7
+711,ROLLERCOASTER TYCOON 2: TRIPLE THRILL PACK,2014,36.95,Chris Sawyer Productions,Atari,Simulation,RollerCoaster Tycoon,2.0,1,0,0,0,0,0,0,0,0,88,3599,74,7.6
+712,FIELD OF GLORY II: MEDIEVAL,2021,110.95,Byzantine Games,Slitherine Ltd.,Simulation,Field of Glory II,5.0,1,0,0,1,0,0,0,0,0,88,239,75,7.3
+713,UNITY OF COMMAND II,2019,110.95,"2x2 Games, Croteam",2x2 Games,Indie,Unity of Command,5.0,1,0,0,0,0,0,0,0,1,81,1219,88,7.5
+714,THE DARKSIDE DETECTIVE: A FUMBLE IN THE DARK,2021,47.95,Spooky Doorway,Akupara Games,Adventure,"Akupara Games, The Darkside Detective",1.0,1,0,0,0,0,1,0,0,0,97,667,84,8.3
+715,MAID OF SKER,2020,92.95,Wales Interactive,Wales Interactive,Action,Wales Interactive,15.0,1,0,0,0,1,0,0,0,0,80,897,69,7.0
+716,SPELUNKY,2013,55.95,Mossmouth,Mossmouth,Indie,,0.2,1,0,0,0,1,0,0,0,1,92,13021,90,7.4
+717,SUNLESS SEA,2015,69.95,Failbetter Games,Failbetter Games,Adventure,Fallen London Universe,0.7,1,0,0,0,0,0,0,0,0,84,6612,81,7.5
+718,GORN,2019,73.95,Free Lives,Devolver Digital,Action,Free Lives,2.0,1,0,0,0,0,0,0,0,0,94,6890,85,7.2
+719,YS SEVEN,2017,92.95,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",Action,Ys,2.0,1,0,0,0,0,1,0,0,0,93,557,80,7.8
+720,STYX: SHARDS OF DARKNESS,2017,79.95,Cyanide Studio,Nacon,Action,,11.0,1,1,0,0,1,0,0,0,0,83,2744,72,7.7
+721,TREK TO YOMI,2022,75.95,"Leonard Menchiari, Flying Wild Hog",Devolver Digital,Action,Devolver Digital,11.0,1,0,0,0,1,0,0,0,0,68,888,71,6.3
+722,FALLOUT SHELTER,2017,0.0,Bethesda Game Studios,Bethesda Softworks,RPG,Fallout,2.0,1,0,0,0,1,0,1,0,0,88,51276,63,5.9
+723,OCTODAD: DADLIEST CATCH,2014,55.95,Young Horses,Young Horses,Action,,3.0,1,0,0,0,1,0,0,0,0,93,7296,69,7.5
+724,SUPRALAND,2019,73.95,Supra Games,Supra Games,Action,Supraverse,4.0,1,0,0,0,1,0,0,0,0,96,7626,85,8.7
+725,MELTY BLOOD ACTRESS AGAIN CURRENT CODE,2016,92.95,FRENCH-BREAD,Arc System Works,Action,,3.0,1,0,0,1,1,0,0,0,1,92,2638,78,8.1
+726,I AM FISH,2021,73.95,Bossa Studios,Curve Games,Adventure,Curve Games,12.0,1,0,0,0,1,0,0,0,0,76,763,69,6.8
+727,WARRIORS OROCHI 4,2018,224.95,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Action,"KOEI TECMO GAMES CO., LTD.",25.0,1,1,0,1,1,0,0,0,0,86,3531,77,7.8
+728,THE BANNER SAGA,2014,110.0,Stoic,Stoic Studio,Indie,,4.0,1,0,0,0,1,0,0,0,0,88,11945,80,8.0
+729,GRID,2019,73.95,Codemasters,"Codemasters, Electronic Arts",Action,"Codemasters, GRID",100.0,1,0,0,1,1,0,0,0,0,71,3107,74,5.3
+730,AGE OF WONDERS III,2014,105.56,Triumph Studios,Paradox Interactive,RPG,Age of Wonders,10.0,1,0,0,0,0,0,0,0,0,81,6223,80,8.0
+731,HIDDEN FOLKS,2017,49.95,"Adriaan de Jongh, Sylvain Tegroeg",Adriaan de Jongh,Adventure,,0.3,1,0,0,0,1,0,0,0,0,97,6414,78,6.3
+732,LEGO THE HOBBIT,2014,73.95,"Traveller's Tales, Feral Interactive (Mac)","Warner Bros. Interactive Entertainment, Feral Interactive (Mac)",Action,,10.0,1,0,0,0,1,0,0,0,0,78,3526,68,6.9
+733,LEGO WORLDS,2017,110.95,"TT Games, Traveller's Tales",Warner Bros. Interactive Entertainment,Adventure,,10.0,1,1,0,1,1,0,0,0,0,77,11596,71,6.7
+734,WHILE TRUE: LEARN,2019,47.95,Luden.io,Luden.io,Indie,Luden.io,0.5,1,0,0,0,0,0,0,0,0,91,5373,73,6.3
+735,SECRET OF MANA,2018,149.95,Square Enix,Square Enix,Action,Mana Series,11.0,1,0,0,0,0,1,0,0,1,69,1836,57,7.1
+736,CALL OF DUTY,2006,70.18,Infinity Ward,Activision,Action,Call of Duty,0.0014,1,0,0,0,0,0,0,0,0,94,3604,91,8.4
+737,GHOSTS 'N GOBLINS RESURRECTION,2021,119.0,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",Action,,10.0,1,0,0,0,1,0,0,0,0,85,454,69,4.8
+738,ROAD REDEMPTION,2017,73.95,"EQ-Games , Pixel Dash Studios",Tripwire Presents,Action,,1.0,1,0,0,1,1,0,0,0,1,82,8012,70,7.2
+739,ALBA: A WILDLIFE ADVENTURE,2020,62.95,ustwo games,"ustwo games, PID Games",Adventure,,2.0,1,0,0,0,1,0,0,0,0,97,2643,79,8.1
+740,BOMBER CREW,2017,80.99,Runner Duck,Curve Games,Simulation,"Curve Games, The Crew Games",0.5,1,0,0,0,1,0,0,0,0,89,7628,75,7.7
+741,HACKNET,2015,36.95,Team Fractal Alligator,Fellow Traveller,Indie,,0.5,1,0,0,0,0,0,0,0,0,93,12591,82,7.8
+742,BULLETSTORM: FULL CLIP EDITION,2017,149.95,People Can Fly,Gearbox Publishing,Action,,15.0,1,1,0,0,1,0,0,0,0,88,4949,76,7.0
+743,EXPEDITIONS: VIKING,2017,110.95,Logic Artists,THQ Nordic,Indie,Expeditions,12.0,1,0,0,0,0,0,0,0,0,83,2672,74,8.1
+744,THE HEX,2018,36.95,Daniel Mullins Games,Daniel Mullins Games,Indie,,1.0,1,0,0,0,0,0,0,0,0,94,1658,81,8.4
+745,OBSERVER: SYSTEM REDUX,2020,110.95,"Bloober Team, Anshar Studios",Bloober Team SA,Adventure,Bloober Team,16.0,1,0,0,0,1,0,0,0,0,87,1011,83,6.9
+746,ROGUE HEROES: RUINS OF TASOS,2021,73.95,Heliocentric Studios,Team17 Digital,Action,Team17 Digital,0.3,1,1,0,0,1,0,0,0,0,79,1332,81,7.0
+747,JUPITER HELL,2021,92.95,ChaosForge,Hyperstrange,Indie,Hyperstrange,2.0,1,0,0,0,1,0,0,0,0,92,1053,78,7.7
+748,TOTAL TANK SIMULATOR,2020,73.95,Noobz from Poland,505 Games,Action,505 Games Official,3.0,1,0,0,0,0,0,0,0,0,79,4756,66,7.1
+749,MOSS,2018,110.95,Polyarc,Polyarc,Action,,12.0,1,0,0,0,0,0,0,0,0,94,2178,81,8.8
+750,DEPTH,2014,73.95,Digital Confectioners,Digital Confectioners,Action,,10.0,1,0,0,1,1,0,1,0,0,89,22718,65,7.7
+751,BOOMERANG X,2021,75.95,DANG!,Devolver Digital,Action,Devolver Digital,10.0,1,0,0,0,1,0,0,0,0,96,543,81,7.2
+752,BLOOD BOWL 2,2017,73.95,Cyanide Studios,Nacon,Sports,"Warhammer, Nacon",8.0,1,0,0,1,1,0,1,0,1,77,5955,76,6.2
+753,THE BATTLE OF POLYTOPIA,2020,55.95,Midjiwan AB,Midjiwan AB,Action,,0.16,1,0,0,1,0,1,0,0,1,96,2007,72,8.6
+754,TWIN MIRROR,2021,101.95,DON'T NOD,DON'T NOD,Adventure,,30.0,1,0,0,0,1,0,0,0,0,76,139,65,5.8
+755,DIRT 4,2017,55.95,"Codemasters, Feral Interactive (Mac), Feral Interactive (Linux)","Codemasters, Feral Interactive (Mac), Feral Interactive (Linux), Electronic Arts",Racing,"Codemasters, DiRT",50.0,1,0,0,1,1,0,0,0,0,80,10250,78,6.6
+756,OBDUCTION,2016,110.95,Cyan Inc.,Cyan Inc.,Adventure,,20.0,1,0,0,0,0,1,0,0,0,78,2546,76,7.6
+757,EASTSHADE,2019,92.95,Eastshade Studios,Eastshade Studios,Adventure,,3.0,1,0,0,0,1,0,0,0,0,89,3957,78,8.2
+758,POLY BRIDGE,2016,36.95,Dry Cactus,Dry Cactus,Indie,,0.15,1,0,0,0,0,0,0,0,0,91,12729,73,7.2
+759,THE ROOM,2014,18.5,Fireproof Games,Fireproof Games,Adventure,The Room,1.0,1,0,0,0,0,0,0,0,0,97,19626,73,8.1
+760,HEAT SIGNATURE,2017,55.95,Suspicious Developments,Suspicious Developments,Action,The Defenestration Trilogy,0.4,1,0,0,0,1,0,0,0,0,94,5847,79,7.1
+761,ELDEST SOULS,2021,73.95,Fallen Flag Studio,"United Label, CI Games",Action,United Label,2.0,1,0,0,0,1,0,0,0,0,82,1379,76,7.0
+762,BEHOLDER 3,2022,49.99,Paintbucket Games,Alawar Premium,Adventure,Alawar Premium,4.0,1,0,0,0,0,1,0,0,0,67,747,67,7.2
+763,OMNO,2021,69.95,Jonas Manke,"Future Friends Games, StudioInkyfox",Action,Future Friends Games,5.0,1,0,0,0,1,0,0,0,0,93,709,76,6.9
+764,THE BEGINNER'S GUIDE,2015,36.95,Everything Unlimited Ltd.,Everything Unlimited Ltd.,Adventure,,4.0,1,0,0,0,0,1,0,0,0,87,14794,76,7.5
+765,YOUNG SOULS,2022,92.95,1P2P,The Arcade Crew,Action,The Arcade Crew,6.0,1,0,0,0,1,0,0,0,0,83,241,81,5.6
+766,GALACTIC CIVILIZATIONS III,2019,149.95,Stardock Entertainment,Stardock Entertainment,Indie,"Galactic Civilizations, Stardock",12.0,1,1,0,1,0,0,0,0,0,76,7932,81,7.0
+767,BLAIR WITCH,2019,110.95,Bloober Team SA,Bloober Team NA,Adventure,Bloober Team,16.0,1,0,0,0,1,0,0,0,0,77,4161,69,6.3
+768,ALTDEUS: BEYOND CHRONOS,2021,110.95,MyDearest Inc.,MyDearest Inc.,Adventure,Tokyo Chronos,2.5,1,0,0,0,0,0,0,0,0,96,190,78,8.8
+769,STAR WARS BATTLEFRONT,2020,129.0,DICE,Electronic Arts,Action,Star Wars,40.0,1,0,0,1,1,0,0,0,0,79,2749,76,3.6
+770,RYSE: SON OF ROME,2014,36.95,Crytek,Crytek ,Action,,26.0,1,0,0,0,1,0,0,0,0,86,25306,61,6.8
+771,LITTLE BIG WORKSHOP,2019,73.95,Mirage Game Studios,HandyGames,Simulation,,2.0,1,0,0,0,0,0,0,0,0,86,1953,77,7.6
+772,MIND SCANNERS,2021,62.95,The Outer Zone,Brave At Night,Adventure,Brave At Night,0.5,1,0,0,0,0,0,0,0,0,84,533,76,6.8
+773,PIKUNIKU,2019,47.95,"Arnaud De Bock, Rémi Forcadell, Alan Zucconi, Calum Bowen",Devolver Digital,Action,,0.3,1,0,0,0,0,1,0,0,1,95,4650,74,7.2
+774,FULL THROTTLE REMASTERED,2017,55.95,"Double Fine Productions, Shiny Shoe",Double Fine Productions,Adventure,,8.0,1,0,0,0,1,0,0,0,0,93,1707,77,7.5
+775,DETENTION,2017,43.95,RedCandleGames,"RedCandleGames, AGM PLAYISM",Adventure,,3.0,1,0,0,0,0,0,0,0,0,95,8828,83,7.8
+776,THE DARKSIDE DETECTIVE,2017,47.95,Spooky Doorway,Akupara Games,Adventure,Akupara Games,1.0,1,0,0,0,0,1,0,0,0,95,2140,77,8.2
+777,SHADOW EMPIRE,2020,149.95,VR Designs,Slitherine Ltd.,RPG,,1.0,1,0,0,0,0,0,0,0,1,83,614,78,7.4
+778,GOING UNDER,2020,73.95,Aggro Crab,Team17 Digital,Action,Team17 Digital,2.0,1,0,0,0,1,0,0,0,0,94,1687,78,7.9
+779,HOA,2021,55.95,Skrollcat Studio,"PM Studios, inc., CE-Asia",Action,PM Studios,8.0,1,0,0,0,1,0,0,0,0,90,1471,71,8.4
+780,THE SURGE,2017,49.0,Deck13,Focus Entertainment,Action,Focus Entertainment,15.0,1,0,0,0,1,0,0,0,0,76,5692,72,6.7
+781,CRYING SUNS,2019,92.95,Alt Shift,Humble Games,Indie,Humble Games,2.0,1,0,0,0,0,0,0,0,0,86,2387,75,7.6
+782,POLICE STORIES,2019,55.95,HypeTrain Digital,HypeTrain Digital,Action,HypeTrain Digital,0.4,1,1,0,0,1,0,0,0,0,86,4779,75,7.4
+783,SHERLOCK HOLMES: THE DEVIL'S DAUGHTER,2016,119.0,Frogwares,Frogwares,Action,"Sherlock Holmes, Frogwares",20.0,1,0,0,0,1,0,0,0,0,80,9738,65,6.9
+784,HAPPY GAME,2021,46.13,Amanita Design,Amanita Design,Adventure,,2.0,1,0,0,0,0,1,0,0,0,90,1299,81,7.2
+785,THIEF,2014,69.0,"Eidos-Montréal, Feral Interactive (Mac)","Square Enix, Feral Interactive (Mac)",Action,Thief,20.0,1,0,0,0,1,0,0,0,0,74,15000,70,5.9
+786,RING OF PAIN,2020,73.95,"Simon Boxer, Twice Different",Humble Games,Indie,Humble Games,1.0,1,0,0,0,1,0,0,0,0,92,2284,74,7.2
+787,DISGAEA PC,2016,73.95,"Nippon Ichi Software, Inc.","NIS America, Inc.",RPG,Disgaea,2.0,1,0,0,0,1,0,0,0,0,88,3466,74,5.6
+788,CALICO,2020,43.95,Peachy Keen Games,"Whitethorn Games, Maple Whispering Limited",Casual,,0.5,1,0,0,0,1,0,0,0,0,90,2255,57,5.0
+789,THE BANNER SAGA 2,2016,110.0,Stoic,Stoic Studio,Indie,,4.0,1,0,0,0,1,0,0,0,0,89,2581,82,8.3
+790,RUINER,2017,73.95,Reikon Games,Devolver Digital,Action,Devolver Digital,10.0,1,0,0,0,1,0,0,0,0,90,8136,75,7.6
+791,GENESIS NOIR,2021,55.95,Feral Cat Den,Fellow Traveller,Adventure,Fellow Traveller,4.0,1,0,0,0,0,0,0,0,0,81,778,77,6.2
+792,TUNCHE,2021,73.95,LEAP Game Studios,HypeTrain Digital,Action,HypeTrain Digital,5.0,1,0,0,0,1,0,0,0,0,82,398,68,6.5
+793,LEGO STAR WARS: THE FORCE AWAKENS,2016,110.95,"Traveller's Tales, TT Games, Feral Interactive (Mac)","Warner Bros. Interactive Entertainment, Feral Interactive (Mac)",Action,,14.0,1,0,0,0,1,0,0,0,0,83,3434,72,7.4
+794,EXIT THE GUNGEON,2020,36.95,"Dodge Roll, Singlecore",Devolver Digital,Action,Gungeon,0.5,1,0,0,0,1,0,0,0,0,79,2546,67,6.7
+795,FIVE NIGHTS AT FREDDY'S,2014,18.5,Scott Cawthon,Scott Cawthon,Indie,Five Nights at Freddy's,0.25,1,0,0,0,0,0,0,0,0,92,29531,78,7.5
+796,OVERLOAD,2018,110.95,"Revival Productions, LLC","Revival Productions, LLC",Action,,8.0,1,0,0,1,1,0,0,0,0,94,1274,74,7.7
+797,WORLD OF WARPLANES,2018,0.0,Wargaming Group Limited, Wargaming Group Limited,Action,,35.0,0,1,0,1,0,0,1,1,0,75,2981,69,5.2
+798,PUMPKIN JACK,2020,110.95,Nicolas Meyssonnier,"Headup, Beep Japan",Action,Headup,5.0,1,0,0,0,1,0,0,0,0,93,2828,71,7.7
+799,BLACKSAD: UNDER THE SKIN,2019,149.95,"Pendulo Studios, YS Interactive",Microids,Adventure,Microids,30.0,1,0,0,0,1,0,0,0,0,84,2753,65,7.8
+800,MEGA MAN LEGACY COLLECTION 2,2017,72.0,"CAPCOM CO., LTD","CAPCOM CO., LTD",Action,Mega Man,6.0,1,0,0,0,1,0,0,0,0,88,853,73,8.6
+801,IN OTHER WATERS,2020,55.95,Jump Over The Age,Fellow Traveller,Adventure,Fellow Traveller,0.7,1,0,0,0,0,1,0,0,0,91,936,74,5.8
+802,BLOOD: FRESH SUPPLY,2019,36.95,"Nightdive Studios, Monolith Productions","Nightdive Studios, Atari",Action,Blood,1.0,1,0,0,0,0,0,0,0,0,95,4134,77,8.6
+803,DISTANCE,2018,92.95,Refract,Refract,Action,,5.0,1,0,0,1,0,1,0,0,1,93,4912,74,8.1
+804,SHOVEL KNIGHT POCKET DUNGEON,2021,73.95,"VINE, Yacht Club Games",Yacht Club Games,Action,Shovel Knight,0.33,1,0,0,0,1,0,0,0,1,88,210,84,7.7
+805,MINORIA,2019,73.95,Bombservice,DANGEN Entertainment,Action,DANGEN Entertainment,3.0,1,0,0,0,0,1,0,0,0,84,1226,73,7.3
+806,THE ARTFUL ESCAPE,2021,73.95,Beethoven and Dinosaur,Annapurna Interactive,Action,Annapurna Interactive,7.0,1,0,0,0,1,0,0,0,0,93,808,80,6.2
+807,KILL IT WITH FIRE,2020,55.95,Casey Donnellan Games LLC,tinyBuild,Action,tinyBuild,2.0,1,0,0,0,1,0,0,0,0,95,1799,68,6.4
+808,ICONOCLASTS,2018,79.99,Joakim Sandberg,"Bifrost Entertainment, DANGEN Entertainment, Gamera Games, INTRAGAMES CO., LTD.",Action,,0.5,1,0,0,0,1,0,0,0,0,87,3160,87,8.0
+809,JUST DIE ALREADY,2021,55.95,DoubleMoose Games,Curve Games,Adventure,Curve Games,0.0025,1,1,0,1,1,0,0,0,0,82,1189,63,5.8
+810,LONELY MOUNTAINS: DOWNHILL,2019,73.95,Megagon Industries,Thunderful Publishing,Action,,1.0,1,0,0,0,1,0,0,0,0,91,1350,80,7.7
+811,TUROK,2015,73.95,"Iguana Entertainment, Nightdive Studios",Nightdive Studios,Action,,0.8,1,0,0,0,1,0,0,0,0,95,2300,65,6.2
+812,DEGREES OF SEPARATION,2019,73.95,Moondrop,Modus Games,Adventure,Modus Games,0.8,1,0,0,0,0,1,0,0,0,88,494,74,6.3
+813,DOOR KICKERS,2014,73.95,KillHouse Games,KillHouse Games,Action,Door Kickers,2.0,1,1,0,0,0,0,0,0,0,94,7278,83,7.8
+814,FIELD OF GLORY II,2017,110.95,Byzantine Games,Slitherine Ltd.,Simulation,,6.0,1,0,0,0,0,0,0,0,0,87,566,84,8.3
+815,AS FAR AS THE EYE,2020,92.95,Unexpected,"Goblinz Publishing, Maple Whispering Limited, Unexpected",Indie,"Goblinz Publishing, Unexpected",2.0,1,0,0,0,0,0,0,0,0,77,1398,70,7.1
+816,KAZE AND THE WILD MASKS,2021,73.95,PixelHive,SOEDESCO,Action,,0.6,1,0,0,0,1,0,0,0,0,97,602,82,7.8
+817,REZ INFINITE,2017,92.95,"Monstars Inc., Resonair",Enhance,Action,,2.0,1,0,0,0,1,0,0,0,0,91,847,89,7.1
+818,ORDER OF BATTLE: WORLD WAR II,2015,0.0,The Artistocrats,Slitherine Ltd.,Simulation,,1.0,1,0,0,0,0,0,0,0,0,76,2449,81,8.6
+819,METAL UNIT,2021,55.95,JellySnow Studio,NEOWIZ,Action,NEOWIZ,0.5,1,0,0,0,1,0,0,0,0,84,1324,64,6.8
+820,MORDHEIM: CITY OF THE DAMNED,2015,79.95,Rogue Factor,Nacon,RPG,"Warhammer, Nacon",8.0,1,0,0,1,0,1,0,0,0,72,5878,74,6.7
+821,THE LONGING,2020,55.95,Studio Seufz,Application Systems Heidelberg,Adventure,Application Systems Heidelberg,5.0,1,0,0,0,1,0,0,0,0,92,4069,79,7.6
+822,THUMPER,2016,73.95,Drool,Drool,Action,,1.4,1,0,0,0,1,0,0,0,0,91,3243,86,7.3
+823,DUNGEON OF THE ENDLESS,2014,43.95,AMPLITUDE Studios,SEGA,Adventure,AmplitudeStudios,0.7,1,1,0,0,0,1,0,0,0,89,8546,79,7.9
+824,HELLPOINT,2020,131.95,Cradle Games,tinyBuild,Action,tinyBuild,6.0,1,1,0,1,1,0,0,0,0,79,1968,64,6.4
+825,UNAVOWED,2018,55.95,Wadjet Eye Games,Wadjet Eye Games,Adventure,,3.0,1,0,0,0,0,0,0,0,0,95,1505,87,8.0
+826,REBEL GALAXY OUTLAW,2020,110.95,Double Damage Games,Double Damage Games,Action,Rebel Galaxy,20.0,1,0,0,0,0,1,0,0,0,66,561,77,5.5
+827,APE OUT,2019,55.95,"Gabe Cuzzillo, Bennett Foddy, Matt Boch",Devolver Digital,Action,,2.0,1,0,0,0,1,0,0,0,0,94,2087,83,6.7
+828,CRIMESIGHT,2022,73.95,Konami Digital Entertainment, Konami Digital Entertainment,Simulation,,2.0,0,1,0,1,0,0,0,0,0,82,480,74,7.7
+829,BELOW,2018,92.95,Capybara Games,Capybara Games,Adventure,,5.0,1,0,0,0,1,0,0,0,0,70,1011,67,5.4
+830,SAIRENTO VR,2018,110.95,"Mixed Realms Pte Ltd, Swag Soft Holdings Pte Ltd",Mixed Realms Pte Ltd,Action,,10.0,1,1,0,1,0,0,0,0,0,87,1366,78,7.7
+831,DUKE NUKEM 3D: 20TH ANNIVERSARY WORLD TOUR,2016,73.95,"Nerve Software, Gearbox Software, LLC",Gearbox Publishing,Action,,1.2,1,1,0,1,0,1,0,0,0,83,2915,72,7.0
+832,THE WHITE DOOR,2020,14.5,Rusty Lake,Second Maze,Adventure,"Rusty Lake, Second Maze",0.1,1,0,0,0,0,0,0,0,0,93,4089,77,7.7
+833,IKARUGA,2014,36.95,Treasure,Treasure,Action,,0.512,1,0,0,0,1,0,0,0,0,94,1781,84,8.4
+834,SHADY PART OF ME,2020,59.0,Douze Dixièmes,Focus Entertainment,Indie,Focus Entertainment,3.0,1,0,0,0,0,1,0,0,0,94,675,78,6.7
+835,FAE TACTICS,2020,73.95,Endlessfluff Games,Humble Games,RPG,Humble Games,1.0,1,0,0,0,1,0,0,0,0,86,716,77,6.1
+836,WHERE THE WATER TASTES LIKE WINE,2018,73.95,"Dim Bulb Games, Serenity Forge",Good Shepherd Entertainment,Adventure,,6.0,1,0,0,0,1,0,0,0,0,80,955,74,5.2
+837,BLOODSTAINED: CURSE OF THE MOON 2,2020,55.95,"INTI CREATES CO., LTD.","INTI CREATES CO., LTD.",Action,,0.5,1,0,0,0,0,1,0,0,0,88,987,80,7.7
+838,THE INCREDIBLE ADVENTURES OF VAN HELSING: FINAL CUT,2015,169.95,NeocoreGames,NeocoreGames,Action,,40.0,1,0,0,0,1,0,0,0,0,74,1471,79,7.1
+839,AXIOM VERGE,2015,73.95,Thomas Happ Games LLC,Thomas Happ Games LLC,Action,Axiom Verge,0.3,1,0,0,0,1,0,0,0,0,91,4326,80,7.7
+840,FARMING SIMULATOR 17,2016,59.0,GIANTS Software,GIANTS Software,Simulation,Farming Simulator,6.0,1,0,0,0,1,0,0,0,0,93,18863,69,7.4
+841,SWORDS OF LEGENDS ONLINE,2021,0.0,"Wangyuan Shengtang Entertainment Technology CO., 上海烛龙信息科技有限公司",Gameforge 4D GmbH,Massively Multiplayer,,80.0,0,1,0,1,0,0,1,1,0,68,5224,72,7.0
+842,SKATEBIRD,2021,73.95,Glass Bottom Games,Glass Bottom Games,Indie,,3.0,1,0,0,0,1,0,0,0,0,85,345,63,3.8
+843,HORIZON CHASE TURBO,2018,73.95,AQUIRIS,AQUIRIS,Action,Horizon Chase,0.8,1,0,0,0,1,0,1,0,1,95,2849,76,7.6
+844,STEAMWORLD DIG 2,2017,73.95,Image & Form Games,Image & Form Games,Action,SteamWorld,0.35,1,0,0,0,1,0,0,0,0,96,2773,85,8.3
+845,OBSERVATION,2020,92.95,No Code,Devolver Digital,Adventure,,12.0,1,0,0,0,1,0,0,0,0,79,3280,79,7.4
+846,WRC 9 FIA WORLD RALLY CHAMPIONSHIP,2021,110.95,KT Racing,Nacon,Racing,"Nacon, WRC",30.0,1,1,0,1,1,0,0,0,1,81,201,80,5.6
+847,ASTALON: TEARS OF THE EARTH,2021,73.95,LABS Works,DANGEN Entertainment,Action,DANGEN Entertainment,0.6,1,0,0,0,1,0,0,0,0,94,454,84,6.9
+848,SUBMERGED: HIDDEN DEPTHS,2022,110.95,Uppercut Games Pty Ltd,Uppercut Games Pty Ltd,Adventure,Submerged,12.0,1,0,0,0,1,0,0,0,0,93,86,66,5.0
+849,STAR TREK: BRIDGE CREW,2017,99.0,Ubisoft,Ubisoft,Casual,,8.0,1,1,0,1,0,1,0,0,0,77,2084,78,7.7
+850,ABSOLVER,2017,110.95,Sloclap,Devolver Digital,Action,,11.0,1,1,0,1,1,0,0,0,0,72,10371,75,6.0
+851,THE BLACKOUT CLUB,2019,110.95,Question,Question,Action,The Blackout Club,15.0,1,1,0,1,1,0,0,0,0,81,1979,63,7.0
+852,CROWN TRICK,2020,73.95,NEXT Studios,"Team17, NEXT Studios",Adventure,Team17 Digital,2.0,1,0,0,0,0,1,0,0,0,86,3962,83,7.5
+853,SAMOROST 3,2016,69.95,Amanita Design,Amanita Design,Adventure,,1.0,1,0,0,0,0,0,0,0,0,95,2785,80,7.8
+854,THE WILD AT HEART,2021,92.95,Moonlight Kids,Humble Games,Adventure,Humble Games,4.0,1,0,0,0,1,0,0,0,0,95,205,76,7.5
+855,RUSTY LAKE: ROOTS,2016,10.95,Rusty Lake,Rusty Lake,Adventure,Rusty Lake,0.1,1,0,0,0,0,0,0,0,0,96,4387,75,8.2
+856,TOWERFALL ASCENSION,2014,55.95,"Extremely OK Games, Ltd.",Matt Makes Games Inc.,Action,,0.4,1,0,0,0,1,0,0,0,0,95,2370,87,6.9
+857,CENTURY: AGE OF ASHES,2021,0.0,Playwing LTD,Playwing LTD,Action,,10.0,0,1,0,1,1,0,1,0,0,73,12641,73,7.0
+858,DUSKERS,2016,73.95,Misfits Attic,Misfits Attic,Indie,,0.2,1,0,0,0,0,0,0,0,0,90,1749,83,6.6
+859,VERDUN,2015,73.95,"M2H, Blackmill Games",M2H,Action,WW1 Game Series,12.0,1,0,0,1,1,0,0,0,0,87,27265,70,7.7
+860,ADIOS,2021,66.95,Mischief,Mischief,Adventure,,5.0,1,0,0,0,1,0,0,0,0,95,730,78,6.4
+861,OWLBOY,2016,89.99,D-Pad Studio,D-Pad Studio,Action,,0.6,1,0,0,0,1,0,0,0,0,88,3012,88,7.6
+862,HEAVE HO,2019,36.95,Le Cartel Studio,Devolver Digital,Adventure,Devolver Digital,1.0,1,0,0,0,1,0,0,0,1,92,1388,76,7.5
+863,NARUTO SHIPPUDEN: ULTIMATE NINJA STORM REVOLUTION,2014,106.0,"CyberConnect2 Co., Ltd.",BANDAI NAMCO Entertainment,Action,,8.0,1,0,0,0,0,1,0,0,0,84,5969,61,6.7
+864,911 OPERATOR,2017,55.95,Jutsu Games,Games Operators,Casual,Games Operators,0.5,1,0,0,0,0,0,0,0,0,89,12026,68,6.8
+865,MEGA MAN LEGACY COLLECTION,2015,72.0,Capcom,Capcom,Action,Mega Man,0.379,1,0,0,0,1,0,0,0,0,86,2515,85,8.6
+866,THE VANISHING OF ETHAN CARTER,2014,73.95,The Astronauts,The Astronauts,Adventure,,9.0,1,0,0,0,1,0,0,0,0,87,6426,82,8.0
+867,HEAVEN'S VAULT,2019,92.95,inkle Ltd,inkle Ltd,Adventure,,5.0,1,0,0,0,1,0,0,0,0,90,1257,76,6.2
+868,TIMELIE,2020,66.95,Urnique Studio,"Urnique Studio, Milk Bottle Studio",Adventure,,2.0,1,0,0,0,1,0,0,0,0,96,1403,77,7.5
+869,LIFE IS STRANGE: BEFORE THE STORM,2017,62.95,"Deck Nine, Feral Interactive (Mac), Feral Interactive (Linux)","Square Enix, Feral Interactive (Mac), Feral Interactive (Linux)",Action,Life is Strange,14.0,1,0,0,0,1,0,0,0,0,93,31487,77,8.0
+870,THE CREW,2014,119.0,Ivory Tower in collaboration with Ubisoft Reflections,Ubisoft,Action,,30.0,1,0,0,0,0,1,1,1,0,68,13515,71,6.3
+871,NOT TONIGHT,2018,73.95,PanicBarn,No More Robots,Adventure,No More Robots,3.0,1,0,0,0,0,0,0,0,0,87,1399,71,6.6
+872,BATTLEFIELD HARDLINE,2020,169.0,DICE,Electronic Arts,Action,Battlefield,60.0,1,0,0,1,1,0,0,0,0,66,1177,71,4.2
+873,CROWNS AND PAWNS: KINGDOM OF DECEIT,2022,73.95,Tag of Joy,Thunderful Publishing,Adventure,Thunderful Publishing,4.0,1,0,0,0,0,0,0,0,0,94,134,80,8.2
+874,ROGUE LORDS,2021,92.95,"Leikir Studio, Cyanide Studio",Nacon,RPG,"Nacon, Rogue Lords",3.0,1,0,0,0,1,0,0,0,0,74,1056,72,4.2
+875,SHENMUE III,2020,110.95,YS Net,Deep Silver,Action,Shenmue,100.0,1,0,0,0,0,1,0,0,0,81,562,69,6.1
+876,FULL METAL FURIES,2018,73.95,Cellar Door Games,Cellar Door Games,Action,,0.9,1,1,0,0,1,0,0,0,0,92,1669,85,7.5
+877,RIDE 3,2018,149.95,Milestone S.r.l.,Milestone S.r.l.,Racing,,23.0,1,0,0,1,1,0,0,0,0,83,3287,70,6.4
+878,METAL GEAR SOLID V: GROUND ZEROES,2014,70.0,Konami Digital Entertainment,Konami Digital Entertainment,Action,,4.0,1,0,0,0,1,0,0,0,0,82,10499,80,7.6
+879,DISGAEA 2 PC,2017,73.95,"Nippon Ichi Software, Inc.","NIS America, Inc.",RPG,Disgaea,2.0,1,0,0,0,1,0,0,0,0,91,1140,81,8.5
+880,GREAK: MEMORIES OF AZUR,2021,73.95,Navegante Entertainment,Team17,Action,Team17,3.0,1,0,0,0,1,0,0,0,0,81,456,72,7.2
+881,NEIGHBOURS FROM HELL COMPILATION,2013,0.0,JoWooD Vienna,HandyGames,Adventure,Neighbours from Hell,0.5,1,0,0,0,0,0,0,0,0,97,1845,69,7.8
+882,PROJECT WARLOCK,2018,44.0,Buckshot Software,"Retrovibe, gaming company",Action,Retrovibe,3.0,1,0,0,0,0,1,0,0,0,88,2721,78,8.3
+883,CAT QUEST,2017,47.95,The Gentlebros,PQube,Action,Cat Quest,0.25,1,0,0,0,1,0,0,0,0,95,4859,79,7.6
+884,MARS HORIZON,2020,73.95,Auroch Digital,The Irregular Corporation,Indie,"The Irregular Corporation, Auroch Digital",4.0,1,0,0,0,0,1,0,0,0,85,2005,71,7.7
+885,ISLANDERS,2019,21.95,"Coatsink, GrizzlyGames",Coatsink,Casual,"Coatsink, GrizzlyGames",0.2,1,0,0,0,0,0,0,0,0,95,13522,82,8.6
+886,PONY ISLAND,2016,18.5,Daniel Mullins Games,Daniel Mullins Games,Indie,,0.4,1,0,0,0,0,0,0,0,0,95,9893,86,7.4
+887,SENRAN KAGURA SHINOVI VERSUS,2016,73.95,Tamsoft,"XSEED Games, Marvelous USA, Inc., Marvelous",Action,SENRAN KAGURA,6.0,1,0,0,0,0,1,0,0,0,94,3228,70,7.2
+888,FIVE NIGHTS AT FREDDY'S 2,2014,29.5,Scott Cawthon,Scott Cawthon,Indie,Five Nights at Freddy's,0.25,1,0,0,0,0,0,0,0,0,93,13663,62,7.4
+889,PLANETBASE,2015,55.95,Madruga Works,Madruga Works,Indie,,0.65,1,0,0,0,0,0,0,0,0,79,7604,70,7.2
+890,AUTONAUTS,2019,79.99,Denki,Curve Games,Casual,Curve Games,1.0,1,0,0,0,0,0,0,0,0,89,2858,80,8.0
+891,NARITA BOY,2021,92.95,Studio Koba,Team17,Adventure,Team17,2.0,1,0,0,0,1,0,0,0,0,83,475,74,7.0
+892,WHEN THE PAST WAS AROUND,2020,29.5,Mojiken,Toge Productions,Adventure,"Toge Productions, Mojiken",2.0,1,0,0,0,0,1,0,0,0,96,2136,77,8.1
+893,SCOURGEBRINGER,2020,62.95,"Flying Oak Games, E-Studio","Dear Villagers, Yooreka Studio",Action,Flying Oak Games,0.5,1,0,0,0,1,0,0,0,0,90,1823,76,6.2
+894,MOONS OF MADNESS,2019,89.95,Rock Pocket Games,Funcom,Adventure,Funcom,15.0,1,0,0,0,0,1,0,0,0,77,1564,69,5.5
+895,CREED: RISE TO GLORY,2018,110.95,Survios,Survios,Action,,4.0,1,0,0,1,0,0,0,0,0,80,1178,84,6.3
+896,REVENTURE,2019,29.5,Pixelatto,Pixelatto,Adventure,,0.2,1,0,0,0,1,0,0,0,0,95,6288,84,7.1
+897,MOMODORA: REVERIE UNDER THE MOONLIGHT,2016,36.95,Bombservice,PLAYISM,Action,PLAYISM,0.2,1,0,0,0,1,0,0,0,0,94,8272,82,8.3
+898,BEHOLDER 2,2018,49.99,Warm Lamp Games,Alawar Premium,Adventure,Alawar Premium,4.0,1,0,0,0,1,0,0,0,0,88,4230,76,7.9
+899,WAY OF THE SAMURAI 4,2015,92.95,ACQUIRE Corp.,"Spike Chunsoft Co., Ltd.",Action,,7.0,1,0,0,0,0,1,0,0,0,80,1467,72,7.4
+900,VIRTUAVERSE,2020,34.95,Theta Division,Blood Music,Adventure,,2.0,1,0,0,0,1,0,0,0,0,83,748,75,7.8
+901,YOUTUBERS LIFE,2017,90.0,UPLAY Online,"UPLAY Online, 🚀 Raiser Games",Adventure,Youtubers Life,3.0,1,0,0,0,1,0,0,0,0,77,13168,63,6.4
+902,DICE LEGACY,2021,73.95,DESTINYbit,"Ravenscourt, Maple Whispering Limited",Indie,Ravenscourt,2.0,1,0,0,0,0,0,0,0,0,69,660,70,5.5
+903,PHANTOM DOCTRINE,2018,149.95,CreativeForge Games,Good Shepherd Entertainment,Action,,35.0,1,0,0,1,0,1,0,0,0,75,3112,73,7.4
+904,PARTY HARD 2,2018,73.95,"Pinokl Games, Kverta, Hologryph",tinyBuild,Action,"Party Hard, tinyBuild",6.0,1,0,0,0,1,0,0,0,0,80,1408,74,7.2
+905,GENITAL JOUSTING,2018,25.95,Free Lives,Devolver Digital,Action,Free Lives,0.5,1,0,0,1,1,0,0,0,1,92,7028,68,8.4
+906,KILLSQUAD,2021,110.95,Novarama,Novarama,Action,,6.0,1,1,0,0,1,0,0,0,0,72,2802,73,7.0
+907,SIMPLEPLANES,2015,47.95,"Jundroo, LLC","Jundroo, LLC",Indie,,0.75,1,0,0,0,0,1,0,0,0,93,7668,69,8.4
+908,AUDIOSURF 2,2015,55.95,Dylan Fitterer,Dylan Fitterer,Indie,,0.4,1,0,0,0,1,0,0,0,0,82,5014,76,7.2
+909,DISASTER REPORT 4: SUMMER MEMORIES,2020,224.95,Granzella Inc.,"NIS America, Inc.",Action,Disaster Report,27.0,1,0,0,0,0,1,0,0,0,71,311,58,8.4
+910,YS VI: THE ARK OF NAPISHTIM,2015,73.95,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",Action,Ys,1.0,1,0,0,0,0,1,0,0,0,90,834,76,8.1
+911,PLEBBY QUEST: THE CRUSADES,2020,73.95,PiedPipers Team,NEOWIZ,Action,NEOWIZ,0.5,1,0,0,0,0,0,0,0,0,87,2096,78,7.0
+912,CONSTRUCTION SIMULATOR 2015,2014,55.95,weltenbauer. Software Entwicklung GmbH,astragon Entertainment,Casual,Construction Simulator,4.5,1,1,0,0,0,1,0,0,0,78,4048,63,5.3
+913,CHILD OF LIGHT,2014,59.0,Ubisoft Montréal,Ubisoft,RPG,,3.0,1,0,0,0,0,1,0,0,0,92,11071,77,8.1
+914,MONSTER BOY AND THE CURSED KINGDOM,2019,104.9,Game Atelier,FDG Entertainment,Action,,5.0,1,0,0,0,1,0,0,0,0,91,1611,82,8.2
+915,PUNCH CLUB,2016,36.95,Lazy Bear Games,tinyBuild,Indie,tinyBuild,1.0,1,0,0,0,0,0,0,0,0,82,8125,73,7.1
+916,BEAUTIFUL DESOLATION,2020,73.95,THE BROTHERHOOD,THE BROTHERHOOD,Adventure,BEAUTIFUL DESOLATION,14.0,1,0,0,0,0,0,0,0,0,77,349,76,7.0
+917,GATO ROBOTO,2019,29.5,doinksoft,Devolver Digital,Action,Devolver Digital,1.0,1,0,0,0,1,0,0,0,0,94,2416,79,7.0
+918,ELIZA,2019,55.95,Zachtronics,Zachtronics,Indie,,1.0,1,0,0,0,1,0,0,0,0,93,725,84,6.4
+919,TELLING LIES,2019,73.95,"Sam Barlow, Half Mermaid, Furious Bee Limited",Annapurna Interactive,Adventure,Annapurna Interactive,4.0,1,0,0,0,0,0,0,0,0,66,875,84,6.1
+920,NIDHOGG,2014,36.95,Messhof,Messhof,Action,,0.2,1,0,0,1,1,0,0,0,1,89,5188,81,6.8
+921,DREAMFALL CHAPTERS,2017,92.95,Red Thread Games,Red Thread Games,Adventure,,12.0,1,0,0,0,1,0,0,0,0,82,2924,71,7.6
+922,DEADLY PREMONITION: THE DIRECTOR'S CUT,2013,92.95,Rising Star Games,Rising Star Games,Action,,8.0,1,0,0,0,1,0,0,0,0,67,2331,59,7.3
+923,HER STORY,2015,36.95,Sam Barlow,Sam Barlow,Adventure,,2.0,1,0,0,0,0,0,0,0,0,89,6069,86,6.1
+924,AO TENNIS 2,2020,224.95,Big Ant Studios,Nacon,Sports,"Nacon, Big Ant",15.0,1,1,0,1,1,0,0,0,1,69,769,65,7.2
+925,FIGHT CRAB,2020,73.95,Calappa Games,PLAYISM,Action,PLAYISM,1.0,1,1,0,1,1,0,0,0,1,93,582,60,7.3
+926,FUSER,2020,75.0,"Harmonix Music Systems, Inc",NCSOFT,Casual,FUSER™,10.0,1,1,0,1,1,0,0,0,0,88,1150,74,7.1
+927,TANNENBERG,2017,73.95,"M2H, Blackmill Games",M2H,Action,WW1 Game Series,8.0,1,0,0,1,1,0,0,0,0,87,6285,69,7.9
+928,TIME LOADER,2021,55.95,Flazm,META Publishing,Action,META Publishing,2.0,1,0,0,0,1,0,0,0,0,92,138,79,6.3
+929,MAFIA,2002,55.95,Illusion Softworks,2K,Action,Mafia,3.0,1,0,0,0,0,0,0,0,0,89,6128,88,9.2
+930,HATRED,2015,21.95,Destructive Creations,Destructive Creations,Action,,5.0,1,0,0,0,0,1,0,0,0,80,10792,43,4.8
+931,IMAGINE EARTH,2021,92.95,Serious Bros.,Serious Bros.,Indie,,1.0,1,0,0,0,1,0,0,0,0,78,601,78,7.3
+932,RAJI: AN ANCIENT EPIC,2020,92.95,Nodding Heads Games,Super.com,Action,Super.com,6.0,1,0,0,0,1,0,0,0,0,86,1388,70,7.5
+933,DISTANT WORLDS: UNIVERSE,2014,110.95,Code Force,Slitherine Ltd.,Simulation,,1.0,1,0,0,0,0,0,0,0,0,72,1287,81,8.1
+934,THE COUNCIL,2018,0.0,Big Bad Wolf,Focus Entertainment,Adventure,,15.0,1,0,0,0,1,0,0,0,0,84,4182,67,7.9
+935,PROJECT CARS,2015,55.95,Slightly Mad Studios,"Codemasters, Slightly Mad Studios, Electronic Arts",Racing,,25.0,1,0,0,0,0,1,0,0,0,78,8496,83,7.2
+936,THE COMPLEX,2020,47.95,"Wales Interactive, Good Gate Media, Little Jade Productions",Wales Interactive,Adventure,Wales Interactive,10.0,1,0,0,0,1,0,0,0,0,78,2042,62,7.2
+937,PATHWAY,2019,58.95,Robotality,Chucklefish,Adventure,,2.0,1,0,0,0,1,0,0,0,0,75,1648,68,6.6
+938,BEHOLDER,2016,34.99,Warm Lamp Games,Alawar Premium,Adventure,Alawar Premium,1.6,1,0,0,0,1,0,0,0,0,91,16123,75,7.9
+939,TOOTH AND TAIL,2017,73.95,Pocketwatch Games,Pocketwatch Games,Action,,2.0,1,0,0,1,1,0,0,0,1,82,2635,80,7.9
+940,HAND OF FATE,2015,73.95,Defiant Development,Defiant Development,Action,,5.0,1,0,0,0,1,0,0,0,0,90,7575,78,7.9
+941,ARISE: A SIMPLE STORY,2020,73.95,Piccolo Studio,Untold Tales,Adventure,Untold Tales,6.0,1,0,0,0,1,0,0,0,0,95,327,79,7.5
+942,RAKUEN,2017,36.95,Laura Shigihara,Laura Shigihara,Adventure,,0.25,1,0,0,0,0,0,0,0,0,97,3941,84,8.2
+943,HYPER LIGHT DRIFTER,2016,73.95,Heart Machine,Heart Machine,Action,,2.0,1,0,0,0,1,0,0,0,1,94,12048,84,8.2
+944,DREAM DADDY: A DAD DATING SIMULATOR,2017,55.95,Game Grumps,Game Grumps,Casual,,4.0,1,0,0,0,0,1,0,0,0,91,4467,72,7.5
+945,FIELD OF GLORY: EMPIRES,2019,149.95,Ageod,Slitherine Ltd.,Strategy,Field of Glory,2.0,1,0,0,0,0,0,0,0,0,82,611,76,6.9
+946,FIVE NIGHTS AT FREDDY'S 4,2015,29.5,Scott Cawthon,Scott Cawthon,Action,Five Nights at Freddy's,1.0,1,0,0,0,0,0,0,0,0,93,9230,51,6.2
+947,KINGSWAY,2017,36.95,Andrew Morrish,Adult Swim Games,Adventure,,0.1,1,0,0,0,0,0,0,0,0,92,1125,80,6.0
+948,BLUE FIRE,2021,73.95,Robi Studios,Graffiti Games,Action,"Blue Fire, Graffiti Games",5.0,1,0,0,0,1,0,0,0,0,84,1034,70,7.3
+949,ONIMUSHA: WARLORDS,2019,84.0,"CAPCOM CO., LTD","CAPCOM CO., LTD",Action,,12.0,1,0,0,0,1,0,0,0,0,93,1268,67,6.4
+950,MYST III: EXILE,2018,55.95,Presto Studios,"Cyan Worlds Inc, Ubisoft",Adventure,,5.0,1,0,0,0,0,0,0,0,0,93,236,83,7.8
+951,JALOPY,2018,55.95,Minskworks,Excalibur Games,Adventure,Excalibur Games,2.0,1,0,0,0,0,1,0,0,0,79,6216,65,6.1
+952,BLOODSTAINED: CURSE OF THE MOON,2018,43.95,"INTI CREATES CO., LTD.","INTI CREATES CO., LTD.",Action,,0.5,1,0,0,0,0,1,0,0,0,94,2898,77,7.4
+953,MUTAZIONE,2019,73.95,Die Gute Fabrik,Akupara Games,Adventure,Akupara Games,3.0,1,0,0,0,1,0,0,0,0,97,551,80,7.2
+954,THE SHORE,2021,43.95,Ares Dragonis,Ares Dragonis,Action,,15.0,1,0,0,0,0,1,0,0,0,73,905,59,5.9
+955,MUSHIHIMESAMA,2015,73.95,"CAVE Interactive CO.,LTD.",Degica,Action,,1.5,1,0,0,0,1,0,0,0,0,96,1036,86,8.1
+956,BEE SIMULATOR,2020,73.95,VARSAV Game Studios,Nacon,Adventure,Nacon,10.0,1,0,0,0,0,0,0,0,1,81,192,58,5.6
+957,NIDHOGG 2,2017,55.95,Messhof,Messhof,Action,,0.75,1,0,0,1,1,0,0,0,1,81,784,80,6.5
+958,BATTLE CHASERS: NIGHTWAR,2017,110.95,Airship Syndicate,THQ Nordic,Indie,,10.0,1,0,0,0,1,0,0,0,0,87,4796,78,7.4
+959,RUSTY LAKE HOTEL,2016,7.25,Rusty Lake,Rusty Lake,Adventure,Rusty Lake,0.04,1,0,0,0,0,0,0,0,0,95,3331,65,7.5
+960,STAR CONTROL: ORIGINS,2018,110.95,Stardock Entertainment,Stardock Entertainment,Action,"Star Control, Stardock Entertainment",26.0,1,0,0,1,0,1,0,0,1,72,1727,75,5.9
+961,THIS IS THE POLICE 2,2018,55.95,Weappy Studio,THQ Nordic,Adventure,This Is the Police,4.0,1,0,0,0,1,0,0,0,0,77,4011,66,6.6
+962,RAILROAD CORPORATION,2019,131.95,Corbie Games,Iceberg Interactive,Simulation,Iceberg Interactive,4.0,1,1,0,1,0,0,0,0,0,74,807,55,5.0
+963,MURDER BY NUMBERS,2020,55.95,Mediatonic,The Irregular Corporation,Adventure,The Irregular Corporation,2.0,1,0,0,0,1,0,0,0,0,87,779,79,7.2
+964,TITAN SOULS,2015,55.95,Acid Nerve,Devolver Digital,Action,,0.4,1,0,0,0,1,0,0,0,0,82,5967,74,6.1
+965,CRIMSONLAND,2014,51.95,10tons Ltd,10tons Ltd,Action,10tons Ltd,0.2,1,0,0,0,1,0,0,0,0,93,1643,68,7.5
+966,THIS IS THE PRESIDENT,2021,55.95,SuperPAC,THQ Nordic,Adventure,This Is the Police,6.0,1,0,0,0,0,0,0,0,0,71,138,68,7.0
+967,GRIP: COMBAT RACING,2018,110.95,Caged Element Inc.,Wired Productions,Action,Wired Productions,8.0,1,0,0,1,1,0,0,0,1,87,2720,80,7.9
+968,VALDIS STORY: ABYSSAL CITY,2013,55.95,Endlessfluff Games,Endlessfluff Games,Action,,0.5,1,0,0,0,0,1,0,0,0,84,2122,83,7.7
+969,CONAN UNCONQUERED,2019,73.95,Petroglyph,Funcom,Strategy,Funcom,10.0,1,1,0,0,0,0,0,0,0,72,977,62,5.1
+970,STRANGELAND,2021,55.95,Wormwood Studios,Wadjet Eye Games,Adventure,,2.0,1,0,0,0,0,0,0,0,0,94,462,77,7.9
+971,DANDY ACE,2021,73.95,Mad Mimic,NEOWIZ,Action,"NEOWIZ, Mad Mimic",3.0,1,0,0,0,0,1,0,0,0,89,690,80,8.1
+972,STYX: MASTER OF SHADOWS,2014,73.95,Cyanide Studio,"Cyanide Studio, Nacon",Action,Nacon,8.0,1,0,0,0,1,0,0,0,0,83,6905,71,7.2
+973,SHADOW WARRIOR,2013,149.95,Flying Wild Hog,Devolver Digital,Action,Shadow Warrior,15.0,1,0,0,0,1,0,0,0,0,93,13781,73,8.0
+974,WE ARE FOOTBALL,2021,147.0,Winning Streak Games,THQ Nordic,Simulation,WE ARE FOOTBALL,2.0,1,0,0,0,0,0,0,0,1,74,667,67,5.5
+975,CHINATOWN DETECTIVE AGENCY,2022,92.95,General Interactive Co.,"Humble Games, WhisperGames",Adventure,Humble Games,3.0,1,0,0,0,0,0,0,0,0,67,56,67,4.3
+976,IRIS.FALL,2018,55.95,NEXT Studios,NEXT Studios,Adventure,NEXT Studios,4.0,1,0,0,0,1,0,0,0,0,88,2234,70,6.3
+977,WRC 8 FIA WORLD RALLY CHAMPIONSHIP,2020,110.95,KT Racing,Nacon,Racing,"WRC, Nacon",19.0,1,0,0,1,1,0,0,0,1,73,723,77,5.9
+978,THE ESCAPISTS,2015,66.95,Mouldy Toof Studios,Team17,Action,Team17,2.0,1,0,0,0,0,0,0,0,0,90,13459,71,6.9
+979,LATE SHIFT,2017,47.95,CtrlMovie,Wales Interactive,Adventure,Wales Interactive,7.0,1,0,0,0,1,0,0,0,0,87,6250,79,6.5
+980,FAERIA,2017,71.75,Abrakam Entertainment SA,Versus Evil,Adventure,Versus Evil,2.0,1,1,0,1,0,0,1,0,0,84,1211,81,7.8
+981,DEADBOLT,2016,36.95,Hopoo Games,Hopoo Games,Action,,0.13,1,0,0,0,0,0,0,0,0,96,3690,76,7.9
+982,UNDUNGEON,2021,73.95,Laughing Machines,tinyBuild,Action,"Undungeon, tinyBuild",10.0,1,0,0,0,1,0,0,0,0,78,173,66,2.9
+983,Q.U.B.E. 2,2018,92.95,Toxic Games,Trapped Nerve Games,Action,,4.0,1,0,0,0,1,0,0,0,0,84,680,76,7.8
+984,STEPHEN'S SAUSAGE ROLL,2016,110.95,increpare games,increpare games,Indie,,0.5,1,0,0,0,1,0,0,0,0,96,835,90,5.5
+985,KNOCKOUT CITY,2021,0.0,Velan Studios,Velan Studios,Action,,15.0,0,0,0,1,1,0,1,0,0,86,6851,80,6.5
+986,THIS IS THE POLICE,2016,55.95,Weappy Studio,THQ Nordic,Adventure,This Is the Police,5.0,1,0,0,0,1,0,0,0,0,83,7566,66,7.7
+987,MY BROTHER RABBIT,2018,55.95,Artifex Mundi,Artifex Mundi,Adventure,,2.0,1,0,0,0,1,0,0,0,0,96,956,73,8.5
+988,PUPPERAZZI,2022,73.95,Sundae Month,Kitfox Games,Action,,1.0,1,0,0,0,0,1,0,0,0,96,194,70,2.3
+989,THE FINAL STATION,2016,55.95,DO MY BEST,tinyBuild,Action,tinyBuild,2.0,1,0,0,0,1,0,0,0,0,87,4604,76,7.5
+990,YOKU'S ISLAND EXPRESS,2018,73.95,Villa Gorilla,Team17 Digital Ltd,Adventure,Team17 Digital,3.0,1,0,0,0,1,0,0,0,0,96,2083,84,7.8
+991,KNIGHTS AND BIKES,2019,73.95,Foam Sword,"Foam Sword, PLAYISM",Action,,6.0,1,1,0,0,1,0,0,0,0,92,274,79,5.4
+992,VALFARIS,2019,92.95,Steel Mantis,Big Sugar,Action,Steel Mantis,0.7,1,0,0,0,1,0,0,0,0,89,1044,86,8.0
+993,THE PROCESSION TO CALVARY,2020,36.95,Joe Richardson,"Joe Richardson, SUPERHOT PRESENTS",Adventure,The Immortal John Triptych,1.0,1,0,0,0,0,0,0,0,0,98,511,78,8.3
+994,KATHY RAIN: DIRECTOR'S CUT,2021,55.95,Clifftop Games,Raw Fury,Adventure,,2.0,1,0,0,0,1,0,0,0,0,95,276,83,6.5
+995,A FISHERMAN'S TALE,2019,66.95,InnerspaceVR,Vertigo Games,Adventure,,10.0,1,0,0,0,0,0,0,0,0,93,707,78,5.4
+996,TOODEE AND TOPDEE,2021,73.95,dietzribi,dietzribi,Action,,0.5,1,0,0,0,1,0,0,0,0,96,367,74,8.6
+997,REBEL GALAXY,2015,73.95,Double Damage Games,Double Damage Games,Action,,2.0,1,0,0,0,1,0,0,0,0,85,6496,75,7.5
+998,MOTHERGUNSHIP,2018,83.75,"Grip Digital, Terrible Posture Games",Versus Evil,Action,Versus Evil,5.0,1,1,0,0,1,0,0,0,0,79,943,72,6.8
+999,PARTY HARD,2015,36.95,"Pinokl Games, Kverta",tinyBuild,Action,"Party Hard, tinyBuild",1.0,1,0,0,0,1,0,0,0,0,90,6360,64,7.4
+1000,UNBOUND: WORLDS APART,2021,73.95,Alien Pixel Studios,Alien Pixel Studios,Adventure,,8.0,1,0,0,0,1,0,0,0,0,88,500,78,7.7
+1001,F1 2020,2020,224.95,Codemasters,"Codemasters, Electronic Arts",Racing,"Codemasters, Formula One, F1",80.0,1,0,0,1,1,0,1,0,0,94,24960,88,7.1
+1002,CYBER SHADOW,2021,74.6,"Aarne ""MekaSkull"" Hunziker",Yacht Club Games,Action,,0.25,1,0,0,0,1,0,0,0,0,83,818,82,7.1
+1003,ASHES OF THE SINGULARITY: ESCALATION,2016,110.95,"Stardock Entertainment, Oxide Games",Stardock Entertainment,Indie,Ashes of the Singularity,27.0,1,1,0,1,0,0,0,0,0,78,2257,81,7.4
+1004,DREADOUT,2014,55.95,Digital Happiness,Digital Happiness,Adventure,"DreadOut, Digital Happiness",5.0,1,0,0,0,0,1,0,0,0,76,3662,55,6.4
+1005,NEO SCAVENGER,2014,55.95,Blue Bottle Games,Blue Bottle Games,Indie,Blue Bottle Games,0.075,1,0,0,0,0,0,0,0,0,89,3733,77,7.7
+1006,FIVE NIGHTS AT FREDDY'S: SISTER LOCATION,2016,29.5,Scott Cawthon,Scott Cawthon,Action,Five Nights at Freddy's,1.0,1,0,0,0,0,0,0,0,0,92,8224,62,7.9
+1007,BEYOND A STEEL SKY,2020,131.95,Revolution Software Ltd,Revolution Software Ltd,Action,,20.0,1,0,0,0,1,0,0,0,0,87,781,70,6.5
+1008,DIG OR DIE,2018,43.95,Gaddy Games,Gaddy Games,Action,,0.5,1,1,0,1,0,0,0,0,0,90,3487,76,7.6
+1009,WILDFIRE,2020,55.95,Sneaky Bastards,Humble Games,Indie,Humble Games,0.31,1,0,0,0,1,0,0,0,0,84,284,79,7.7
+1010,IF FOUND...,2020,47.95,DREAMFEEL,Annapurna Interactive,Casual,Annapurna Interactive,2.0,1,0,0,0,0,0,0,0,0,92,877,84,7.0
+1011,FREEDOM PLANET,2014,55.95,GalaxyTrail,GalaxyTrail,Action,Freedom Planet,0.4,1,0,0,0,1,0,0,0,0,96,2780,83,8.3
+1012,PILGRIMS,2019,17.9,Amanita Design,Amanita Design,Adventure,,0.8,1,0,0,0,1,0,0,0,0,96,1998,78,7.8
+1013,AMNESIA: MEMORIES,2015,36.95,"Idea Factory, Design Factory",Idea Factory International,Adventure,Idea Factory International,3.0,1,0,0,0,0,1,0,0,0,92,2477,72,6.0
+1014,BIG PHARMA,2015,92.95,Twice Circled,Positech Games,Indie,,2.0,1,0,0,0,0,0,0,0,0,77,1293,72,6.5
+1015,HELL ARCHITECT,2021,92.95,Woodland Games,Leonardo Interactive,Indie,Woodland Games,4.0,1,0,0,0,0,0,0,0,0,70,224,59,4.8
+1016,BLAZING CHROME,2019,62.95,JoyMasher,"The Arcade Crew, CE-Asia",Action,The Arcade Crew,0.2,1,0,0,0,1,0,0,0,1,90,850,79,7.4
+1017,PAPETURA,2021,43.95,Petums,Petums,Adventure,,2.0,1,0,0,0,0,0,0,0,0,93,623,83,5.6
+1018,I AM BREAD,2015,47.95,Bossa Studios,Bossa Studios,Action,,2.5,1,0,0,0,1,0,0,0,0,78,4509,60,4.8
+1019,MOON HUNTERS,2016,55.95,Kitfox Games,Kitfox Games,Adventure,Kitfox Games,2.0,1,0,0,0,1,0,0,0,0,80,3205,62,6.4
+1020,THE TYPING OF THE DEAD: OVERKILL,2013,73.95,Modern Dream,SEGA,Action,,10.0,1,0,0,0,0,1,0,0,0,86,2136,71,7.5
+1021,BEYOND BLUE,2020,73.95,E-Line Media,E-Line Media,Adventure,,10.0,1,0,0,0,1,0,0,0,0,87,749,72,6.9
+1022,RAW DATA,2017,149.95,Survios,Survios,Action,,10.0,1,1,0,1,0,0,0,0,0,82,1984,87,6.6
+1023,AVEN COLONY,2017,110.95,Mothership Entertainment LLC,Team17 Digital Ltd,Indie,Team17 Digital,25.0,1,0,0,0,0,0,0,0,0,75,1490,65,8.1
+1024,REBUILD 3: GANGS OF DEADSVILLE,2015,55.95,"Northway Games, Sarah Northway",Northway Games,Indie,,0.2,1,0,0,0,0,0,0,0,0,86,1174,75,8.7
+1025,HOB,2017,73.95,Runic Games,Runic Games,Action,,5.0,1,0,0,0,1,0,0,0,0,89,3665,76,7.5
+1026,UMURANGI GENERATION,2020,55.95,ORIGAME DIGITAL,"ORIGAME DIGITAL, PLAYISM",Casual,PLAYISM,2.0,1,0,0,0,0,1,0,0,0,93,670,84,7.6
+1027,HITMAN: CONTRACTS,2014,40.95,Io-Interactive A/S,Io-Interactive A/S,Action,Hitman,2.0,1,0,0,0,0,0,0,0,0,86,1721,74,7.7
+1028,BROKEN AGE,2014,55.95,Double Fine Productions,Double Fine Productions,Adventure,,2.5,1,0,0,0,1,0,0,0,0,82,4103,73,6.9
+1029,BATTLETOADS,2020,85.0,Dlala Studios,"Microsoft Studios, Rare Ltd",Action,,15.0,1,0,0,0,1,0,0,0,0,69,1511,66,5.2
+1030,DARK SOULS II,2014,142.0,"FromSoftware, Inc","BANDAI NAMCO Entertainment, FromSoftware, Inc",Action,FRANCHISE,12.0,1,0,0,0,1,0,0,0,0,88,26565,91,7.2
+1031,NUCLEAR THRONE,2015,43.95,Vlambeer,Vlambeer,Action,,0.2,1,0,0,0,1,0,0,0,0,96,11734,89,7.8
+1032,DIRT RALLY,2015,55.95,"Codemasters, Feral Interactive (Linux), Feral Interactive (Mac)","Codemasters, Feral Interactive (Linux), Feral Interactive (Mac), Electronic Arts",Racing,"Codemasters, DiRT",50.0,1,0,0,0,1,0,0,0,0,88,20087,86,8.5
+1033,WEST OF DEAD,2020,73.95,Upstream Arcade,Raw Fury,Action,West of Dead,1.0,1,0,0,0,0,1,0,0,0,78,576,69,6.1
+1034,I AM DEAD,2020,73.95,"Hollow Ponds, Richard Hogg",Annapurna Interactive,Adventure,Annapurna Interactive,7.0,1,0,0,0,1,0,0,0,0,84,206,77,6.0
+1035,IMMORTAL REDNECK,2017,73.95,Crema,Crema,Action,,7.0,1,0,0,0,1,0,0,0,0,92,1881,70,7.1
+1036,THE END IS NIGH,2017,55.95,"Edmund McMillen, Tyler Glaiel","Edmund McMillen, Tyler Glaiel",Action,,0.5,1,0,0,0,1,0,0,0,0,93,2360,84,7.4
+1037,CORPSE PARTY,2016,55.95,GrisGris,"XSEED Games, Marvelous USA, Inc.",Adventure,Corpse Party,4.0,1,0,0,0,1,0,0,0,0,90,974,71,7.3
+1038,TALES OF THE NEON SEA,2019,62.95,Palm Pioneer,Thermite Games,Adventure,Thermite Games,2.0,1,0,0,0,0,1,0,0,0,86,1841,62,7.5
+1039,DEEP SKY DERELICTS,2018,73.95,Snowhound Games,1C Entertainment,Indie,1C,4.0,1,0,0,0,1,0,0,0,0,74,1486,70,6.5
+1040,SAINTS ROW: GAT OUT OF HELL,2015,55.95,"Deep Silver Volition, High Voltage Software",Deep Silver,Action,,7.0,1,0,0,0,1,0,0,0,0,74,6903,66,6.2
+1041,OVERLAND,2019,73.95,Finji,Finji,Strategy,,1.5,1,0,0,0,1,0,0,0,0,72,347,69,6.8
+1042,LOST WORDS: BEYOND THE PAGE,2021,55.95,"Sketchbook Games, Fourth State",Modus Games,Action,Lost Words,5.0,1,0,0,0,1,0,0,0,0,95,259,75,8.5
+1043,NUTS,2021,73.95,"Joon, Pol, Muutsch, Char & Torfi",Noodlecake,Adventure,,2.0,1,0,0,0,0,1,0,0,0,88,346,70,6.1
+1044,THE GOOD LIFE,2021,110.95,White Owls Inc.,PLAYISM,Indie,PLAYISM,5.0,1,0,0,0,1,0,0,0,0,85,98,62,5.7
+1045,BRIDGE CONSTRUCTOR PORTAL,2017,36.95,ClockStone,"Headup, Whisper Games",Simulation,Bridge Constructor,0.2,1,0,0,0,1,0,0,0,0,91,3521,77,6.6
+1046,CHUCHEL,2018,35.95,Amanita Design,Amanita Design,Adventure,,1.0,1,0,0,0,0,0,0,0,0,80,2182,81,6.7
+1047,RADIO COMMANDER,2019,73.95,Serious Sim,"Games Operators, PlayWay S.A.",Indie,Games Operators,4.0,1,0,0,0,0,0,0,0,0,75,1208,65,5.4
+1048,WATTAM,2020,73.95,Funomena,Annapurna Interactive,Adventure,Annapurna Interactive,5.0,1,0,0,0,1,0,0,0,0,85,302,74,6.6
+1049,ALWA'S LEGACY,2020,66.95,Elden Pixels,Elden Pixels,Adventure,,1.0,1,0,0,0,1,0,0,0,0,92,186,78,8.0
+1050,A BIRD STORY,2014,14.5,Freebird Games,Freebird Games,Adventure,To the Moon Series,0.2,1,0,0,0,0,1,0,0,0,84,6336,66,7.0
+1051,BLADE OF DARKNESS,2021,55.95,"Rebel Act Studios, Fire Falcom, General Arcade",SNEG,Action,,3.0,1,0,0,0,1,0,0,0,0,95,1250,75,8.6
+1052,MOTHER RUSSIA BLEEDS,2016,55.95,Le Cartel Studio,Devolver Digital,Action,,7.0,1,0,0,0,1,0,0,0,1,87,3517,70,6.9
+1053,FISHING: BARENTS SEA,2018,92.95,Misc Games,Misc Games,Simulation,,10.0,1,0,0,0,1,0,0,0,0,77,1977,69,6.2
+1054,SPELLCASTER UNIVERSITY,2021,92.95,Sneaky Yak Studio,"Sneaky Yak Studio, WhisperGames",Simulation,,5.0,1,0,0,0,0,0,0,0,0,84,2383,73,8.0
+1055,DARK DEVOTION,2019,73.95,Hibernian Workshop,"The Arcade Crew, Maple Whispering Limited",Action,The Arcade Crew,0.5,1,0,0,0,1,0,0,0,0,77,1528,72,7.6
+1056,SUMMER IN MARA,2020,92.95,Chibig,Chibig,Adventure,Chibig,2.0,1,0,0,0,1,0,0,0,0,76,1040,63,8.4
+1057,AVICII INVECTOR,2019,73.95,Hello There Games,Wired Productions,Casual,Wired Productions,2.5,1,0,0,0,0,1,0,0,1,97,1487,79,7.8
+1058,PARADISE LOST,2021,55.95,PolyAmorous,All in! Games,Adventure,All in! Games,30.0,1,0,0,0,0,1,0,0,0,71,988,58,6.8
+1059,FAIRY TAIL,2020,224.95,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",Action,"KOEI TECMO GAMES CO., LTD.",10.0,1,0,0,0,1,0,0,0,0,71,1150,66,7.1
+1060,PASCAL'S WAGER: DEFINITIVE EDITION,2021,73.95,TipsWorks,Giant Global,Action,,25.0,1,0,0,0,0,1,0,0,0,68,816,64,6.6
+1061,DISC ROOM,2020,55.95,"Terri, Dose, Kitty, JW",Devolver Digital,Action,Devolver Digital,1.0,1,0,0,0,1,0,0,0,0,95,476,83,7.6
+1062,THE CAT LADY,2013,36.95,Harvester Games,Screen 7,Adventure,Devil Came Through Here,2.0,1,0,0,0,0,0,0,0,0,93,3356,81,8.6
+1063,THE CURSE OF MONKEY ISLAND,2018,25.95,LucasArts,"LucasArts, Lucasfilm, Disney",Adventure,,0.04,1,0,0,0,0,0,0,0,0,97,1634,89,9.0
+1064,MIGHTY GOOSE,2021,73.95,"Blastmode, MP2 Games",PLAYISM,Action,PLAYISM,0.5,1,0,0,0,1,0,0,0,0,84,471,71,7.4
+1065,NARCOSIS,2017,55.95,"Honor Code, Inc.","Honor Code, Inc.",Adventure,,8.0,1,0,0,0,1,0,0,0,0,73,879,72,7.2
+1066,SHREDDERS,2022,110.95,FoamPunch,FoamPunch,Action,,15.0,1,1,0,0,1,0,0,0,0,96,855,72,4.8
+1067,GABRIEL KNIGHT: SINS OF THE FATHERS 20TH ANNIVERSARY EDITION,2014,73.95,"Phoenix Online Studios, Pinkerton Road Studio",Pinkerton Road Studio,Adventure,,4.0,1,0,0,0,0,0,0,0,0,88,720,74,7.8
+1068,SHADOWS: AWAKENING,2018,110.95,Games Farm,Kalypso Media,Action,Shadows,13.0,1,0,0,0,1,0,0,0,0,76,1355,77,6.9
+1069,BATTLEFLEET GOTHIC: ARMADA,2016,49.0,Tindalos Interactive,Focus Entertainment,Strategy,"Warhammer, Focus Entertainment",10.0,1,1,0,1,0,0,0,0,0,68,4502,77,7.6
+1070,FLYNN: SON OF CRIMSON,2021,73.95,Studio Thunderhorse,Humble Games,Action,Humble Games,1.0,1,0,0,0,1,0,0,0,0,82,186,81,7.3
+1071,ARCANUM: OF STEAMWORKS AND MAGICK OBSCURA,2016,21.03,Troika Games,Activision,RPG,,1.2,1,0,0,0,0,0,0,0,0,87,1141,81,8.7
+1072,ARCADE SPIRITS,2019,73.95,Fiction Factory Games,PQube,Indie,PQube,0.1,1,0,0,0,1,0,0,0,0,97,305,78,5.4
+1073,KNOW BY HEART,2022,73.95,Ice-Pick Lodge,Ice-Pick Lodge,Adventure,Ice-Pick Lodge,3.0,1,0,0,0,1,0,0,0,0,86,440,65,6.2
+1074,IKENFELL,2020,73.95,Happy Ray Games,Humble Games,Indie,Humble Games,1.0,1,0,0,0,1,0,0,0,0,92,454,69,7.6
+1075,INERTIAL DRIFT,2020,73.95,Level 91 Entertainment,PQube,Indie,PQube,2.0,1,0,0,0,1,0,0,0,1,92,431,89,7.0
+1076,FIVE DATES,2020,47.95,"Good Gate Media, Wales Interactive",Wales Interactive,Adventure,Wales Interactive,11.0,1,0,0,0,1,0,0,0,0,90,1223,64,6.3
+1077,FE,2020,129.0,Zoink,Electronic Arts,Action,EA Originals,3.0,1,0,0,0,1,0,0,0,0,86,246,73,4.9
+1078,SLUDGE LIFE,2021,65.95,"Terri Vellmann, Doseone",Devolver Digital,Adventure,Devolver Digital,2.0,1,0,0,0,1,0,0,0,0,94,458,73,7.4
+1079,LETHAL LEAGUE,2014,51.95,Team Reptile,Team Reptile,Action,,1.0,1,0,0,0,1,0,0,0,0,95,2908,82,7.7
+1080,TOWER OF TIME,2018,84.95,Event Horizon,Event Horizon,Indie,,12.0,1,0,0,0,0,0,0,0,0,84,1723,77,7.9
+1081,MINIT,2018,36.95,"JW, Kitty, Jukio, Dom",Devolver Digital,Adventure,Minit,0.2,1,0,0,0,1,0,0,0,0,92,1168,79,6.5
+1082,DG2: DEFENSE GRID 2,2014,55.95,Hidden Path Entertainment,505 Games,Indie,,2.0,1,0,0,0,1,0,0,0,0,84,2054,81,6.7
+1083,FARMING SIMULATOR 15,2014,47.95,Giants Software,Giants Software,Simulation,Farming Simulator,3.0,1,0,0,0,0,1,0,0,0,91,11364,64,7.3
+1084,POSTAL REDUX,2016,32.95,Running With Scissors,Running With Scissors,Action,POSTAL,4.0,1,1,0,1,1,0,0,0,0,92,2410,54,6.9
+1085,DRAUGEN,2019,73.95,Red Thread Games,Red Thread Games,Adventure,,10.0,1,0,0,0,1,0,0,0,0,75,1453,73,6.7
+1086,HOUSE OF THE DYING SUN,2016,73.95,"Marauder Interactive, LLC","Marauder Interactive, LLC",Action,,2.0,1,0,0,0,1,0,0,0,0,90,1482,76,8.6
+1087,FIVE NIGHTS AT FREDDY'S 3,2015,29.5,Scott Cawthon,Scott Cawthon,Action,Five Nights at Freddy's,0.25,1,0,0,0,0,0,0,0,0,89,6759,68,6.9
+1088,ORANGEBLOOD,2020,73.95,Grayfax Software,PLAYISM,Indie,PLAYISM,0.5,1,0,0,0,0,1,0,0,0,72,282,57,7.5
+1089,SWORD OF THE NECROMANCER,2021,55.95,Grimorio of Games,"JanduSoft, Game Seer Ventures",Action,JanduSoft,0.8,1,0,0,0,1,0,0,0,0,78,164,69,7.5
+1090,RAGNAROK ONLINE,2013,0.0,Gravity Interactive,Gravity Interactive,Massively Multiplayer,,2.0,1,0,0,0,0,0,0,1,0,74,1883,79,8.3
+1091,STARPOINT GEMINI WARLORDS,2017,131.95,Little Green Men Games,Iceberg Interactive,Action,Starpoint Gemini,15.0,1,0,0,0,1,0,0,0,0,72,2811,73,7.1
+1092,STEAMWORLD HEIST,2016,55.95,Image & Form Games,Image & Form Games,Action,SteamWorld,0.32,1,0,0,0,1,0,0,0,0,96,2509,81,7.9
+1093,HITMAN: CODENAME 47,2007,36.95,IO Interactive A/S,IO Interactive A/S,Action,Hitman,0.4,1,0,0,0,0,0,0,0,0,72,2223,73,7.5
+1094,TACOMA,2017,73.95,Fullbright,Fullbright,Adventure,,11.0,1,0,0,0,1,0,0,0,0,87,2472,76,6.4
+1095,TRANSPORT FEVER,2016,110.95,Urban Games,Good Shepherd Entertainment,Simulation,,12.0,1,0,0,0,0,0,0,0,0,82,8704,71,7.7
+1096,AMNESIA: A MACHINE FOR PIGS,2013,73.95,The Chinese Room,Frictional Games,Action,Amnesia,5.0,1,0,0,0,1,0,0,0,0,67,5553,72,5.9
+1097,KEN FOLLETT'S THE PILLARS OF THE EARTH,2017,79.95,Daedalic Entertainment,Daedalic Entertainment,Adventure,Daedalic Entertainment,13.5,1,0,0,0,1,0,0,0,0,93,3635,78,8.0
+1098,THE COMA 2: VICIOUS SISTERS,2020,55.95,Devespresso Games,"Headup, WhisperGames",Action,"Headup, Devespresso Games",2.0,1,0,0,0,0,1,0,0,0,96,1536,77,8.8
+1099,HEADLANDER,2016,73.95,Double Fine Productions,Adult Swim Games,Action,,4.0,1,0,0,0,1,0,0,0,0,90,538,74,7.6
+1100,PANZER PALADIN,2020,73.95,Tribute Games Inc.,Tribute Games Inc.,Action,Tribute Games Inc.,0.35,1,0,0,0,1,0,0,0,0,77,213,76,6.3
+1101,SIX AGES: RIDE LIKE THE WIND,2019,73.99,A Sharp,Kitfox Games,RPG,Kitfox Games,1.0,1,0,0,0,0,0,0,0,0,80,336,87,7.8
+1102,GLEANER HEIGHTS,2018,36.95,Emilios Manolidis,Emilios Manolidis,Action,,0.3,1,0,0,0,1,0,0,0,0,72,306,65,8.0
+1103,DAYMARE: 1998,2019,110.95,Invader Studios,"Destructive Creations, All in! Games",Action,Destructive Creations,23.0,1,0,0,0,1,0,0,0,0,73,1945,62,6.8
+1104,MURDERED: SOUL SUSPECT,2014,69.0,Airtight Games,Square Enix,Action,,12.0,1,0,0,0,1,0,0,0,0,86,9831,59,7.2
+1105,SHARDLIGHT,2016,55.95,Wadjet Eye Games,Wadjet Eye Games,Adventure,,2.0,1,0,0,0,0,0,0,0,0,90,484,75,6.8
+1106,WHITE SHADOWS,2021,73.95,Monokel,"Thunderful Publishing, Mixtvision",Action,Thunderful Publishing,6.0,1,0,0,0,1,0,0,0,0,76,194,71,7.1
+1107,SONG OF IRON,2021,73.95,Resting Relic,Resting Relic,Action,,12.0,1,0,0,0,1,0,0,0,0,76,240,71,3.8
+1108,NITROPLUS BLASTERZ: HEROINES INFINITE DUEL,2016,73.95,EXAMU,"XSEED Games, Marvelous USA, Inc., Marvelous",Action,,5.0,1,0,0,1,0,1,0,0,0,90,665,63,7.3
+1109,PRIMORDIA,2012,36.95,Wormwood Studios,Wadjet Eye Games,Adventure,,0.0015,1,0,0,0,0,0,0,0,0,97,2456,72,8.7
+1110,FURY UNLEASHED,2020,73.95,Awesome Games Studio,Awesome Games Studio,Action,Awesome Games Studio,1.6,1,1,0,0,1,0,0,0,0,90,1020,79,6.9
+1111,SLENDER: THE ARRIVAL,2013,36.95,Blue Isle Studios,Blue Isle Publishing,Action,,2.0,1,0,0,0,0,1,0,0,0,88,5890,65,6.2
+1112,THE AGE OF DECADENCE,2015,47.95,Iron Tower Studio,Iron Tower Studio,Indie,Iron Tower Studio,1.9,1,0,0,0,0,0,0,0,0,81,2763,81,7.9
+1113,DEATHSMILES,2016,73.95,"CAVE Interactive CO.,LTD.",Degica,Action,,3.0,1,0,0,0,1,0,0,0,0,96,419,78,7.6
+1114,FOREGONE,2021,73.95,Big Blue Bubble,Big Blue Bubble,Action,Big Blue Bubble,0.68,1,0,0,0,1,0,0,0,0,82,586,71,5.9
+1115,RIVEN: THE SEQUEL TO MYST,2010,21.95,Cyan Worlds Inc,Cyan Worlds Inc,Adventure,,0.0066,1,0,0,0,0,0,0,0,0,87,886,83,8.6
+1116,MUTANT FOOTBALL LEAGUE,2017,55.95,Digital Dreams Entertainment LLC,Digital Dreams Entertainment LLC,Action,Mutant Football League,6.0,1,0,0,1,1,0,0,0,1,94,514,74,8.3
+1117,TEMPEST: PIRATE ACTION RPG,2016,55.95,Lion's Shade,HeroCraft PC,Action,Tempest,0.5,1,0,0,0,1,0,0,0,0,70,1574,60,4.7
+1118,SCRIBBLENAUTS UNMASKED: A DC COMICS ADVENTURE,2013,73.95,5th Cell Media,Warner Bros. Interactive Entertainment,Action,,2.0,1,0,0,0,0,0,0,0,0,82,1659,68,6.1
+1119,WASTELAND REMASTERED,2020,60.0,"inXile Entertainment, Krome Studios",inXile Entertainment,RPG,,4.0,1,0,0,0,0,1,0,0,0,74,177,62,6.9
+1120,9 MONKEYS OF SHAOLIN,2020,74.99,Sobaka Studio,Buka Entertainment,Action,Buka Entertainment,7.0,1,1,0,0,0,1,0,0,0,87,424,71,7.5
+1121,QUADRILATERAL COWBOY,2016,73.95,Blendo Games,Blendo Games,Action,Blendo Games,1.2,1,0,0,0,0,0,0,0,0,92,706,81,7.0
+1122,THE TURING TEST,2016,73.95,Bulkhead Interactive,Square Enix,Adventure,,10.0,1,0,0,0,1,0,0,0,0,87,5647,74,6.8
+1123,FATE,2013,29.5,WildTangent,WildTangent,Action,,0.4,1,0,0,0,0,0,0,0,0,95,2333,80,7.7
+1124,FORGOTTON ANNE,2018,73.95,ThroughLine Games,ThroughLine Games,Action,Square Enix Collective,12.0,1,0,0,0,1,0,0,0,0,91,1166,76,7.7
+1125,HOW TO SURVIVE 2,2016,55.95,Eko Software,505 Games,Action,505 Games Official,8.0,1,1,0,1,1,0,0,0,1,69,8218,69,7.0
+1126,DEAD IN VINLAND,2018,73.95,Ishtar Games,Dear Villagers,Adventure,"Dead In Games, Dear Villagers",2.0,1,0,0,0,0,0,0,0,0,80,851,74,7.2
+1127,FAHRENHEIT: INDIGO PROPHECY REMASTERED,2015,36.95,"Aspyr, Quantic Dream (original release)",Aspyr,Adventure,Aspyr Media,15.0,1,0,0,0,1,0,0,0,0,81,3439,61,7.6
+1128,HARD WEST,2015,73.95,CreativeForge Games,Good Shepherd Entertainment,Adventure,,6.0,1,0,0,0,1,0,0,0,0,77,3374,73,7.3
+1129,MAQUETTE,2021,73.95,Graceful Decay,Annapurna Interactive,Adventure,Annapurna Interactive,5.0,1,0,0,0,1,0,0,0,0,69,411,70,5.4
+1130,BOOK OF DEMONS,2017,92.95,Thing Trunk,Thing Trunk,Action,Return 2 Games,1.0,1,0,0,0,1,0,0,0,0,91,8236,72,3.5
+1131,THE SHROUDED ISLE,2017,36.95,"Jongwoo Kim, Erica Lahaie, FX Bilodeau, Tanya Short",Kitfox Games,Indie,Kitfox Games,1.0,1,0,0,0,0,0,0,0,0,72,867,69,6.0
+1132,BATTLEZONE 98 REDUX,2016,73.95,Big Boat Interactive,Rebellion,Action,,3.0,1,0,0,0,0,1,0,0,0,91,765,75,8.8
+1133,WIZARDRY 8,2013,36.95,Sir-Tech Canada,"Drecom Co. Ltd., Nightdive Studios",Adventure,Wizardry,2.0,1,0,0,0,0,0,0,0,0,90,751,85,8.3
+1134,THE RED LANTERN,2021,92.95,Timberline Studio,Timberline Studio,Adventure,,4.0,1,0,0,0,0,0,0,0,0,88,62,69,3.8
+1135,TECHNOBABYLON,2015,55.95,Technocrat Games,Wadjet Eye Games,Adventure,,3.0,1,0,0,0,0,0,0,0,0,95,842,82,7.7
+1136,BIO INC. REDEMPTION,2018,47.95,DryGin Studios,DryGin Studios,Indie,,2.0,1,0,0,1,0,0,0,0,0,89,1497,58,6.9
+1137,THE LEGO MOVIE 2 VIDEOGAME,2019,131.95,"TT Games, Feral interactive (Mac)","Warner Bros. Interactive Entertainment, Feral interactive (Mac)",Adventure,LEGO,16.0,1,0,0,0,1,0,0,0,0,71,623,56,5.2
+1138,OLD MAN'S JOURNEY,2017,29.5,Broken Rules,Broken Rules,Adventure,,2.0,1,0,0,0,0,0,0,0,0,88,1901,76,6.6
+1139,THEA: THE AWAKENING,2015,73.95,MuHa Games,MuHa Games,Indie,,3.0,1,0,0,0,0,0,0,0,0,89,3007,73,8.5
+1140,LAST STOP,2021,92.95,Variable State,Annapurna Interactive,Adventure,Annapurna Interactive,7.0,1,0,0,0,1,0,0,0,0,72,122,70,6.9
+1141,SATELLITE REIGN,2015,110.95,5 Lives Studios,5 Lives Studios,Action,,2.0,1,1,1,1,0,0,0,0,0,75,2376,75,7.8
+1142,ITORAH,2022,73.95,Grimbart Tales,Assemble Entertainment,Action,,4.0,1,0,0,0,1,0,0,0,0,71,134,61,7.4
+1143,THE SOJOURN,2020,92.95,Shifting Tides,Iceberg Interactive,Adventure,Iceberg Interactive,3.0,1,0,0,0,1,0,0,0,0,74,105,78,6.6
+1144,PARADIGM,2017,55.95,Jacob Janerka,Jacob Janerka,Adventure,,5.0,1,0,0,0,0,0,0,0,0,96,813,85,7.7
+1145,DRIFTLAND: THE MAGIC REVIVAL,2019,73.95,Star Drifters,Star Drifters,Indie,Star Drifters,5.0,1,1,0,1,0,1,0,0,0,75,1173,76,7.7
+1146,CHASM,2018,73.95,"Bit Kid, Inc.","Bit Kid, Inc.",Action,,1.0,1,0,0,0,1,0,0,0,0,73,994,72,6.6
+1147,SNAKE PASS,2017,73.95,Sumo Digital,Secret Mode,Adventure,Secret Mode,5.0,1,0,0,0,1,0,0,0,0,87,857,71,7.2
+1148,CLOSE TO THE SUN,2020,73.95,Storm in a Teacup,Wired Productions,Adventure,Wired Productions,50.0,1,0,0,0,1,0,0,0,0,74,395,66,5.1
+1149,THE FALCONEER,2020,73.95,Tomas Sala,Wired Productions,Action,Wired Productions,3.0,1,0,0,0,1,0,0,0,0,82,164,68,4.9
+1150,LEMNIS GATE,2021,73.95,Ratloop Games Canada,Frontier Foundry,Action,,35.0,0,0,0,1,1,0,0,0,1,86,697,75,7.1
+1151,LAKEVIEW CABIN COLLECTION,2015,36.95,Roope Tamminen,Roope Tamminen,Indie,,0.22,1,0,0,0,0,1,0,0,0,95,1310,70,6.5
+1152,SYSTEM SHOCK: ENHANCED EDITION,2015,36.95,"Looking Glass Studios, Nightdive Studios",Nightdive Studios,Action,,1.0,1,0,0,0,0,0,0,0,0,91,1194,85,8.7
+1153,A JUGGLER'S TALE,2021,66.95,kaleidoscube,Mixtvision,Action,Mixtvision,3.0,1,0,0,0,1,0,0,0,0,94,253,74,8.6
+1154,NIGHT CALL,2019,73.95,"Monkey Moon, BlackMuffin",Raw Fury,Indie,,2.0,1,0,0,0,1,0,0,0,0,76,193,68,5.6
+1155,DOMINA,2017,36.95,Dolphin Barn Incorporated,Dolphin Barn Incorporated,Action,,0.6,1,0,0,0,0,0,0,0,0,88,6867,73,4.5
+1156,ANGRY BIRDS VR: ISLE OF PIGS,2019,55.95,Resolution Games,Resolution Games,Casual,Resolution Games,0.4,1,0,0,0,0,0,0,0,0,89,253,79,5.1
+1157,DAY OF INFAMY,2017,55.95,New World Interactive,New World Interactive,Action,,12.0,0,1,0,1,0,1,0,0,0,84,17257,77,7.9
+1158,HAMMERTING,2021,92.95,Warpzone Studios,Team17 Digital,Adventure,Team17 Digital,2.0,1,1,0,0,0,0,0,0,0,66,1341,64,3.8
+1159,THE VALE: SHADOW OF THE CROWN,2021,73.95,"Falling Squirrel, Creative Bytes Studios",Falling Squirrel Inc.,Action,,1.0,1,0,0,0,1,0,0,0,0,97,167,82,8.1
+1160,PATHOLOGIC CLASSIC HD,2015,47.95,"Ice-Pick Lodge, General Arcade",Good Shepherd Entertainment,Action,,2.0,1,0,0,0,1,0,0,0,0,87,2342,76,8.7
+1161,DRUIDSTONE: THE SECRET OF THE MENHIR FOREST,2019,92.95,Ctrl Alt Ninja Ltd.,Ctrl Alt Ninja Ltd.,Adventure,,2.0,1,0,0,0,0,0,0,0,0,83,1098,79,7.3
+1162,ERICA,2021,43.95,Flavourworks,Flavourworks,Casual,,37.0,1,0,0,0,0,0,0,0,0,79,1120,78,5.9
+1163,IMMORTAL: UNCHAINED,2018,40.95,Toadman Interactive,Game Odyssey Limited,Action,,25.0,1,0,0,0,1,0,0,0,0,66,552,63,6.4
+1164,CRASHLANDS,2016,55.95,Butterscotch Shenanigans,Butterscotch Shenanigans,Action,,0.5,1,0,0,0,1,0,0,0,0,89,2872,78,7.6
+1165,BLACK FUTURE '88,2019,73.95,SUPERSCARYSNAKES,"Good Shepherd Entertainment, Surefire.Games",Action,,2.0,1,0,0,0,1,0,0,0,0,75,397,74,6.8
+1166,DUNGEON DEFENDERS: AWAKENED,2020,110.95,Chromatic Games,Chromatic Games,Action,Dungeon Defenders,30.0,1,1,0,0,1,0,0,0,0,67,2616,74,7.4
+1167,HALO: SPARTAN STRIKE,2015,10.95,"343 Industries, Vanguard Games",Xbox Game Studios,Action,,2.55,1,0,0,0,0,1,0,0,0,81,1095,66,6.3
+1168,SEA OF SOLITUDE,2020,129.0,Jo-Mei Games,Electronic Arts,Adventure,EA Originals,2.0,1,0,0,0,1,0,0,0,0,84,679,64,6.3
+1169,ASH OF GODS: REDEMPTION,2018,92.95,AurumDust,"AurumDust, WhisperGames",Adventure,Ash of Gods,5.0,1,0,0,1,0,0,0,0,0,74,2526,65,7.9
+1170,THE ALMOST GONE,2020,36.95,Happy Volcano,"Playdigious, XD",Adventure,"Happy Volcano, X.D. Network Inc.",0.5,1,0,0,0,0,0,0,0,0,85,579,67,7.0
+1171,ORWELL: IGNORANCE IS STRENGTH,2018,36.95,Osmotic Studios,Fellow Traveller,Adventure,Orwell Game Series,3.0,1,0,0,0,0,0,0,0,0,78,1092,74,7.6
+1172,OLIJA,2021,55.95,"Skeleton Crew Studio, Thomas Olsson",Devolver Digital,Action,Skeleton Crew Studio,2.0,1,0,0,0,1,0,0,0,0,92,442,77,6.3
+1173,ONE FINGER DEATH PUNCH 2,2019,29.5,Silver Dollar Games,Silver Dollar Games,Action,One Finger Death Punch,3.0,1,0,0,0,0,1,0,0,0,96,3231,83,8.1
+1174,SPARKLITE,2019,92.95,Red Blue Games,"Merge Games, Maple Whispering Limited",Action,,1.5,1,0,0,0,1,0,0,0,0,76,249,70,6.4
+1175,THE TECHNOMANCER,2016,34.5,Spiders,Focus Entertainment,Action,,11.0,1,0,0,0,1,0,0,0,0,69,1822,56,6.7
+1176,LUNA THE SHADOW DUST,2020,73.95,Lantern Studio,"Coconut Island Games, Application Systems Heidelberg",Adventure,,1.0,1,0,0,0,0,0,0,0,0,90,1039,75,7.0
+1177,CONAN CHOP CHOP,2022,59.99,Mighty Kingdom,Funcom,Action,Funcom,1.0,1,1,0,0,1,0,0,0,0,68,323,72,3.3
+1178,ASSAULT ANDROID CACTUS,2015,73.95,Witch Beam,Witch Beam,Action,,2.0,1,0,0,0,1,0,0,0,0,94,1151,79,7.1
+1179,THE SOLITAIRE CONSPIRACY,2020,43.95,Bithell Games,Bithell Games,Indie,Bithell Games,1.0,1,0,0,0,0,0,0,0,0,91,593,70,7.0
+1180,GHOST 1.0,2016,47.95,@unepic_fran,@unepic_fran,Action,Unepic Entertainment,0.25,1,0,0,0,1,0,0,0,0,91,1716,80,7.4
+1181,BLOODSHORE,2021,55.95,"Wales Interactive, Good Gate Media, Wayout Pictures, Posterity Entertainment",Wales Interactive,Action,Wales Interactive,11.0,1,0,0,0,1,0,0,0,0,71,258,57,6.8
+1182,WHISPERS OF A MACHINE,2019,55.95,"Clifftop Games, Faravid Interactive",Raw Fury,Adventure,,0.8,1,0,0,0,0,0,0,0,0,93,863,77,7.7
+1183,TRIALS FUSION,2014,79.0,"RedLynx, in collaboration with  Ubisoft Shanghai, Ubisoft Kiev",Ubisoft,Racing,,8.0,1,0,0,0,0,1,1,0,0,68,1858,80,6.9
+1184,DUNGEONS 2,2015,73.95,Realmforge Studios,Kalypso Media Digital,RPG,Dungeons,5.0,1,0,0,0,0,1,0,0,0,77,2057,70,7.2
+1185,UNRULY HEROES,2019,73.95,Magic Design Studios,Magic Design Studios,Action,,4.0,1,0,0,0,1,0,0,0,1,74,610,81,6.3
+1186,GOTHIC II: GOLD EDITION,2010,36.95,Piranha Bytes,THQ Nordic,Action,Gothic,5.0,1,0,0,0,0,0,0,0,0,91,7199,79,9.2
+1187,CRIS TALES,2021,149.95,"Dreams Uncorporated, SYCK",Modus Games,Action,,6.0,1,0,0,0,0,1,0,0,0,66,235,74,7.9
+1188,TOHU,2021,55.95,Fireart Games,The Irregular Corporation,Adventure,The Irregular Corporation,13.0,1,0,0,0,0,0,0,0,0,89,200,72,6.8
+1189,LAMPLIGHT CITY,2018,55.95,Grundislav Games,Application Systems Heidelberg,Adventure,"World of Vespuccia, Application Systems Heidelberg",2.0,1,0,0,0,0,0,0,0,0,89,486,72,7.6
+1190,UNFORESEEN INCIDENTS,2018,73.95,"Backwoods Entertainment, Application Systems Heidelberg",Application Systems Heidelberg,Adventure,"Backwoods Entertainment, Application Systems Heidelberg",6.0,1,0,0,0,0,0,0,0,0,88,579,80,7.3
+1191,THE GARDENS BETWEEN,2018,73.95,The Voxel Agents,The Voxel Agents,Adventure,,2.0,1,0,0,0,1,0,0,0,0,93,1704,80,7.0
+1192,ZWEI: THE ILVARD INSURRECTION,2017,73.95,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",Action,,5.0,1,0,0,0,0,1,0,0,0,96,369,79,8.2
+1193,THE BIG CON,2021,55.95,Mighty Yell,Skybound Games,Adventure,,3.0,1,0,0,0,1,0,0,0,0,98,212,77,5.5
+1194,WEEDCRAFT INC,2019,73.95,Vile Monarch,Devolver Digital,Indie,Vile Monarch,6.0,1,0,0,0,0,0,0,0,0,81,1157,67,6.9
+1195,CONWAY: DISAPPEARANCE AT DAHLIA VIEW,2021,110.95,White Paper Games,Fireshine Games,Adventure,Conway,10.0,1,0,0,0,1,0,0,0,0,87,140,71,7.6
+1196,THE SUICIDE OF RACHEL FOSTER,2020,66.95,ONE-O-ONE GAMES,Daedalic Entertainment,Adventure,Daedalic Entertainment,10.0,1,0,0,0,1,0,0,0,0,72,3122,63,7.1
+1197,DOWNWELL,2015,10.95,Moppin,Devolver Digital,Action,,0.2,1,0,0,0,0,1,0,0,0,96,6401,81,6.7
+1198,STORIES UNTOLD,2017,36.95,No Code,Devolver Digital,Adventure,,0.4,1,0,0,0,0,0,0,0,0,86,3289,81,7.0
+1199,THE OCCUPATION,2019,110.95,White Paper Games,Humble Games,Adventure,Humble Games,7.0,1,0,0,0,1,0,0,0,0,71,134,68,4.1
+1200,HYPERDIMENSION NEPTUNIA U: ACTION UNLEASHED,2016,55.95,"Idea Factory, Compile Heart, Tamsoft",Idea Factory International,Action,"Idea Factory International, Official Neptunia",7.0,1,0,0,0,1,0,0,0,0,92,2455,50,6.1
+1201,BROKEN LINES,2020,92.95,PortaPlay,Super.com,Strategy,Super.com,6.0,1,0,0,0,0,1,0,0,0,78,496,76,7.1
+1202,BLOODROOTS,2021,73.95,Paper Cult,Paper Cult,Action,,4.0,1,0,0,0,1,0,0,0,0,90,128,76,6.3
+1203,ENCODYA,2021,92.95,Chaosmonger Studio,Assemble Entertainment,Adventure,Assemble Entertainment,4.0,1,0,0,0,0,0,0,0,0,80,144,67,7.6
+1204,2064: READ ONLY MEMORIES,2015,73.95,"MidBoss, LLC.","MidBoss, LLC.",Adventure,"MidBoss, LLC.",1.0,1,0,0,0,1,0,0,0,0,84,589,80,4.3
+1205,SHELTER 2,2015,55.95,Might and Delight,Might and Delight,Adventure,"Shelter Games, Might and Delight",2.0,1,0,0,0,1,0,0,0,0,86,3034,58,7.0
+1206,MOSAIC,2019,73.95,Krillbite Studio,Raw Fury,Adventure,,3.0,1,0,0,0,0,1,0,0,0,70,250,70,6.1
+1207,INDIANA JONES AND THE EMPEROR'S TOMB,2018,21.95,LucasArts,"Lucasfilm, Disney",Action,,2.0,1,0,0,0,0,1,0,0,0,92,544,73,7.5
+1208,TOKYO DARK,2017,66.95,Cherrymochi,Square Enix,Adventure,,3.0,1,0,0,0,0,0,0,0,0,87,897,70,7.3
+1209,WE. THE REVOLUTION,2019,73.95,Polyslash,Klabater,Strategy,Revolution Titles,4.0,1,0,0,0,0,0,0,0,0,78,1262,75,7.2
+1210,THUNDER TIER ONE,2021,73.95,"KRAFTON, Inc.","KRAFTON, Inc.",Action,,20.0,1,1,0,1,0,0,0,0,0,77,3052,65,6.7
+1211,STIRRING ABYSS,2020,92.95,"Sleepy Sentry, K-Project",Slitherine Ltd.,Adventure,,1.0,1,0,0,0,0,0,0,0,0,87,235,76,7.5
+1212,TESLA VS LOVECRAFT,2018,55.95,10tons Ltd,10tons Ltd,Action,10tons Ltd,0.15,1,0,0,0,1,0,0,0,0,89,736,73,6.7
+1213,WINDWARD,2015,36.95,Tasharen Entertainment Inc.,Tasharen Entertainment Inc.,Action,,0.25,1,0,0,0,1,0,0,0,0,80,2497,61,7.3
+1214,LAYERS OF FEAR 2,2019,73.95,Bloober Team SA,"Gun Media, NA Publishing",Adventure,"Layers of Fear, Layers of Fear Franchise",14.0,1,0,0,0,1,0,0,0,0,72,1734,70,6.2
+1215,A STORY ABOUT MY UNCLE,2014,55.95,Gone North Games,Coffee Stain Publishing,Adventure,,2.0,1,0,0,0,1,0,0,0,0,92,11540,73,7.0
+1216,YAGA,2021,83.75,Breadcrumbs Interactive,Versus Evil,Action,Versus Evil,3.0,1,0,0,0,1,0,0,0,0,81,354,72,6.5
+1217,HOW TO SURVIVE,2014,55.95,Eko Software,505 Games,Action,,7.0,1,0,0,0,1,0,0,0,0,82,13611,60,7.0
+1218,XANADU NEXT,2016,55.95,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",Action,,2.0,1,0,0,0,0,1,0,0,0,92,375,78,7.4
+1219,OPERENCIA: THE STOLEN SUN,2020,110.95,Zen Studios,Zen Studios,Action,Zen Studios,15.0,1,0,0,0,1,0,0,0,0,78,389,76,6.2
+1220,PHANTOM BREAKER: BATTLE GROUNDS,2015,43.95,MAGES. Inc.,"Degica, Rocket Panda Games 🚀🐼",Action,PhantomBreaker,3.0,1,1,0,1,1,0,0,0,1,84,2476,64,7.3
+1221,TOKYO 42,2017,73.95,SMAC Games,Mode 7,Action,,3.0,1,0,0,1,0,1,0,0,0,72,336,70,7.0
+1222,DOWNFALL,2016,36.95,Harvester Games,Screen 7,Adventure,Devil Came Through Here,2.0,1,0,0,0,0,0,0,0,0,93,834,75,8.0
+1223,AMBITION: A MINUET IN POWER,2021,73.95,Joy Manufacturing Co.,Iceberg Interactive,Adventure,Iceberg Interactive,1.0,1,0,0,0,0,0,0,0,0,91,141,75,8.8
+1224,WILLY MORGAN AND THE CURSE OF BONE TOWN,2020,73.95,imaginarylab,"Leonardo Interactive, WhisperGames",Adventure,Leonardo Interactive,5.0,1,0,0,0,0,1,0,0,0,88,232,71,6.1
+1225,WAKFU,2014,0.0,Ankama Studio,Ankama Games,Action,,1.5,0,1,0,0,0,0,1,1,0,75,8726,76,5.7
+1226,THOSE WHO REMAIN,2020,73.95,Camel 101,"Wired Productions, WhisperGames",Adventure,Wired Productions,9.0,1,0,0,0,1,0,0,0,0,70,344,48,5.2
+1227,THE YAWHG,2014,36.95,"Damian Sommer, Emily Carroll",Damian Sommer,Indie,,0.1,1,0,0,0,1,0,0,0,0,83,1024,66,7.6
+1228,ZIGGURAT,2014,55.95,Milkstone Studios,Milkstone Studios,Action,Ziggurat,0.8,1,0,0,0,1,0,0,0,0,87,2687,75,7.7
+1229,TOTAL ANNIHILATION,2015,18.5,Cavedog Entertainment,Wargaming.net,Strategy,,0.4,1,0,0,0,0,0,0,0,0,96,2449,86,8.8
+1230,DESKTOP DUNGEONS,2013,55.95,QCF Design,QCF Design,Adventure,,0.35,1,0,0,0,0,0,0,0,0,88,1024,82,7.6
+1231,THE SHAPESHIFTING DETECTIVE,2018,47.95,"D'Avekki Studios Ltd, Wales Interactive",Wales Interactive,Adventure,Wales Interactive,6.0,1,0,0,0,1,0,0,0,0,79,809,66,6.8
+1232,SOMEDAY YOU'LL RETURN,2020,73.95,CBE software,CBE software,Adventure,,13.0,1,0,0,0,0,0,0,0,0,84,426,66,8.1
+1233,DON'T KNOCK TWICE,2017,73.95,Wales Interactive,Wales Interactive,Action,Wales Interactive,2.0,1,0,0,0,1,0,0,0,0,72,416,56,4.6
+1234,KERO BLASTER,2015,36.95,Studio Pixel,PLAYISM,Action,"Kero Blaster, PLAYISM",0.02,1,0,0,0,1,0,0,0,0,95,758,82,7.2
+1235,SUNBLAZE,2021,55.95,Games From Earth,Bonus Stage Publishing,Action,Bonus Stage Publishing,0.5,1,0,0,0,1,0,0,0,0,93,138,78,8.3
+1236,MAYHEM BRAWLER,2021,73.95,Hero Concept,Hero Concept,Action,Mayhem,4.0,1,0,0,0,1,0,0,0,0,88,268,77,7.6
+1237,BATTLEZONE: COMBAT COMMANDER,2018,73.95,Big Boat Interactive,Rebellion,Action,,10.0,1,0,0,1,0,1,0,0,1,89,579,68,6.3
+1238,THE CURIOUS TALE OF THE STOLEN PETS,2019,36.95,Fast Travel Games,Fast Travel Games,Adventure,,3.0,1,0,0,0,0,0,0,0,0,91,180,73,8.3
+1239,PIRATES OUTLAWS,2020,73.95,Fabled Game,Fabled Game,Adventure,,1.0,1,0,0,0,0,0,0,0,0,83,433,79,8.2
+1240,WINDS OF CHANGE,2019,73.95,Klace,Klace,Adventure,,1.0,1,0,0,0,0,1,0,0,0,97,417,74,8.2
+1241,ZWEI: THE ARGES ADVENTURE,2018,55.95,Nihon Falcom,"XSEED Games, Marvelous USA, Inc.",Action,,3.0,1,0,0,0,0,1,0,0,0,90,222,68,8.2
+1242,BLADED FURY,2018,36.95,NEXT Studios,NEXT Studios,Action,NEXT Studios,3.0,1,0,0,0,1,0,0,0,0,86,2737,74,7.9
+1243,OCEANHORN: MONSTER OF UNCHARTED SEAS,2015,55.95,Cornfox & Brothers Ltd.,Cornfox & Brothers Ltd.,Action,,0.7,1,0,0,0,1,0,0,0,0,82,1074,74,7.7
+1244,FORT TRIUMPH,2020,73.95,CookieByte Entertainment,All in! Games,Indie,All in! Games,3.0,1,0,0,0,1,0,0,0,0,79,600,74,7.6
+1245,THE DISNEY AFTERNOON COLLECTION,2017,96.0,"Capcom, Digital Eclipse",Capcom,Action,,0.431,1,0,0,0,0,1,0,0,0,89,594,78,6.1
+1246,STELA,2020,73.95,SkyBox Labs,SkyBox Labs,Adventure,,4.0,1,0,0,0,1,0,0,0,0,78,595,68,5.9
+1247,MINUTE OF ISLANDS,2021,73.95,Studio Fizbin,Mixtvision,Adventure,Mixtvision,2.0,1,0,0,0,1,0,0,0,0,84,252,73,6.8
+1248,MURDEROUS PURSUITS,2018,36.95,Blazing Griffin,Blazing Griffin,Action,,11.0,1,0,0,1,0,1,0,0,0,67,344,63,6.3
+1249,THE STILLNESS OF THE WIND,2019,47.95,Memory of God / Lambic Studios,Fellow Traveller,Adventure,,2.0,1,0,0,0,0,0,0,0,0,77,732,76,6.4
+1250,KINGDOM OF THE DEAD,2022,64.95,DIRIGO GAMES,HOOK,Action,,3.0,1,0,0,0,0,1,0,0,0,86,118,69,6.0
+1251,AGGRESSORS: ANCIENT ROME,2018,110.95,Kubat Software,Slitherine Ltd.,Strategy,,1.5,1,0,0,0,0,0,0,0,0,80,182,76,8.2
+1252,RETROMANIA WRESTLING,2021,110.95,Retrosoft Studios,Retrosoft Studios,Action,,0.5,1,0,0,0,1,0,0,0,1,84,172,66,8.6
+1253,TSIOQUE,2018,51.95,"OhNoo Studio, Smile",OhNoo Studio,Adventure,,2.0,1,0,0,0,0,0,0,0,0,96,601,68,8.3
+1254,RIDE 2,2016,110.95,Milestone S.r.l.,Milestone S.r.l.,Racing,,33.0,1,0,0,1,0,1,0,0,0,86,2000,67,7.4
+1255,ORIENTAL EMPIRES,2017,110.95,Shining Pixel Studios,Iceberg Interactive,Indie,Iceberg Interactive,2.0,1,1,0,1,0,0,0,0,0,79,2365,74,7.9
+1256,HAMMERWATCH,2013,36.95,Crackshell,Crackshell,Action,Hammerwatch,0.3,1,1,0,0,0,1,0,0,0,89,3480,72,7.4
+1257,LIGHTMATTER,2020,0.0,Tunnel Vision Games,Aspyr,Adventure,Aspyr Media,6.0,1,0,0,0,0,1,0,0,0,91,2168,73,7.7
+1258,REBEL COPS,2019,37.5,Weappy Studio,THQ Nordic,Strategy,This Is the Police,2.0,1,0,0,0,1,0,0,0,0,76,1061,69,6.7
+1259,MINISTRY OF BROADCAST,2020,55.95,Ministry of Broadcast Studios,"Hitcents, PLAYISM",Adventure,Hitcents,1.0,1,0,0,0,1,0,0,0,0,82,264,67,7.5
+1260,THE FLAME IN THE FLOOD,2016,55.95,The Molasses Flood,"The Molasses Flood, Curve Games",Action,Curve Games,2.0,1,0,0,0,1,0,0,0,0,75,2302,73,6.1
+1261,OXENFREE,2016,36.95,Night School Studio,Night School Studio,Adventure,,3.0,1,0,0,0,1,0,0,0,0,92,7856,80,7.7
+1262,THE DWARVES,2016,149.95,KING Art,"THQ Nordic, EuroVideo Medien",RPG,,25.0,1,0,0,0,1,0,0,0,0,74,977,61,6.2
+1263,SCANNER SOMBRE,2017,21.95,Introversion Software,Introversion Software,Adventure,,3.0,1,0,0,0,0,1,0,0,0,91,1613,67,7.0
+1264,BATTLERITE,2017,0.0,Stunlock Studios,Stunlock Studios,Action,,3.0,1,0,0,1,0,0,1,0,0,84,58216,85,7.3
